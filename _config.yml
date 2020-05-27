@@ -62,6 +62,8 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Digital research and policy analyst. Looking for new oppatunities. PGDip (distinction) in social research from the University of Birmgham"
   links:
+    - label: Shrewsbury, UK
+      icon: "fas fa-map-marker-alt"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/naiyan-jones-302aa2147/"
