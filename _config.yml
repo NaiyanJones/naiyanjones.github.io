@@ -60,10 +60,11 @@ plugins:
 author:
   name   : "Naiyan Jones"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Digital research and policy analyst. Looking for new opportunities. PGDip (distinction) in social research from the University of Birmgham"
+  bio    : "*Social researcher with experience in digital and policy. Looking for new opportunities.*"
   links:
     - label: "Shrewsbury, UK"
       icon: "fas fa-map-marker-alt"
+      url: "https://naiyanjones.github.io/"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/naiyan-jones-302aa2147/"
