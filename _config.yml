@@ -63,25 +63,25 @@ author:
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Medium"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-medium"
       url: "https://medium.com/@naiyanjones"
     - label: "Reddit"
       icon: "fab fa-reddit"
       url: "https://reddit.com/u/mfa_nay"
     - label: "GitHub"
-      icon: "fab fa-fw fa-githubm"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/"
 
 footer:
   links:
     - label: "Medium"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-medium"
       url: "https://medium.com/@naiyanjones"
     - label: "Reddit"
       icon: "fab fa-reddit"
       url: "https://reddit.com/u/mfa_nay"
     - label: "GitHub"
-      icon: "fab fa-fw fa-githubm"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/"
 
 defaults:
