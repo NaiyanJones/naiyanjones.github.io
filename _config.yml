@@ -64,7 +64,10 @@ author:
   links:
     - label: "Shrewsbury, UK"
       icon: "fas fa-map-marker-alt"
-      url: "https://naiyanjones.github.io/"
+      url: ""
+      label: "Email"
+      icon: "fas fa-envelope"
+      url: "naiyan@hotmail.co.uk"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/naiyan-jones-302aa2147/"
