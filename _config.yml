@@ -65,7 +65,7 @@ author:
   links:
       label: "Email"
       icon: "fas fa-envelope"
-      url: "naiyan@hotmail.co.uk"
+      url: "mailto:naiyan@hotmail.co.uk"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/naiyan-jones-302aa2147/"
