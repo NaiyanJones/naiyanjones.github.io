@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Naiyan Jones"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Digital research and policy analyst. Looking for new oppatunities. PGDip (distinction) in social research from the University of Birmgham"
   links:
     - label: "Medium"
       icon: "fab fa-medium"
