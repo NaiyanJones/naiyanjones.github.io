@@ -62,8 +62,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "*Social researcher with experience in digital and policy. Looking for new opportunities.*"
   links:
-    - label: "Shrewsbury, UK"
-      icon: "fas fa-map-marker-alt"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/naiyan-jones-302aa2147/"
@@ -75,7 +73,7 @@ author:
       url: "https://reddit.com/u/mfa_nay"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/naiyanjones"
 
 footer:
   links:
@@ -90,7 +88,7 @@ footer:
       url: "https://reddit.com/u/mfa_nay"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/naiyanjones"
 
 defaults:
   # _posts
