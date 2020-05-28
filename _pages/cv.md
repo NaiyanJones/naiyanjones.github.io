@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: "CV"
-permalink: "/CV/"
+permalink: "https://naiyanjones.github.io/cv/"
 published: true
 ---
 
