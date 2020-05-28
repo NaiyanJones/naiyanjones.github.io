@@ -21,7 +21,7 @@ If your looking to fill a position or need contract work in user research, polic
 Intermediate 
 * Microsoft Office
 * Google Docs
-Beginner
+\Beginner
 * Nvivo
 * SPSS
 * Python
