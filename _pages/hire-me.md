@@ -16,6 +16,7 @@ If your looking to fill a position or need contract work in user research, polic
 * Observation and ethnography
 * Descriptive statistics
 * Mixed methods
+
 ##### Technical 
 Intermediate 
 * Microsoft Office
@@ -27,6 +28,7 @@ Beginner
 * YAML
 * GitHib
 * Jekyll
+
 #### Soft 
 * Team management
 * Public speaking
