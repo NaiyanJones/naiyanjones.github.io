@@ -9,4 +9,4 @@ I am a qualified independent social researcher with a postgraduate diploma from 
 
 My current research interest is on the social media website Reddit and learning Python and R for machine leanrning.
 
-In need of my skillset or looking for someone just like me to fill a position? Then check out my [Hire me](/_pages/hire-me.md) page and let's connect.
+In need of my skillset or looking for someone just like me to fill a position? Then check out my [Hire me](/_pages/hire-me.md) page and let's [connect](mailto:naiyan@hotmail.co.uk].
