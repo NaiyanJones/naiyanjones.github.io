@@ -1,6 +1,6 @@
 ---
 type: "pages"
-layout: single
+layout: "single"
 title: "CV"
 permalink: "https://naiyanjones.github.io/cv/"
 canonical_url: "https://naiyanjones.github.io/cv/"
