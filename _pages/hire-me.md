@@ -1,14 +1,13 @@
 ---
 layout: posts
-title: Do you need to improve your business or organisation by taking a research led approach?
+title: Hire me
 permalink: /hire-me/
 ---
 
 If your looking to fill a position or need contract work in user research, policy development....
 
-# Skills
-
-## Hard
+### Skills
+#### Hard
 * Research and report writing
 * Policy analysis and evaluation
 * Interviews and focus groups
@@ -17,13 +16,10 @@ If your looking to fill a position or need contract work in user research, polic
 * Observation and ethnography
 * Descriptive statistics
 * Mixed methods
-
-### Technical 
-
+##### Technical 
 Intermediate 
 * Microsoft Office
 * Google Docs
-
 Beginner
 * Nvivo
 * SPSS
@@ -31,8 +27,7 @@ Beginner
 * YAML
 * GitHib
 * Jekyll
-
-## Soft 
+#### Soft 
 * Team management
 * Public speaking
 * Customers service
