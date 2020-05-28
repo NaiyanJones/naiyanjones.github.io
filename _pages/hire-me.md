@@ -6,10 +6,9 @@ permalink: /hire-me/
 
 If your looking to fill a position or need contract work in user research, policy development....
 
-#Skills
+# Skills
 
-##Hard
- 
+## Hard
 * Research and report writing
 * Policy analysis and evaluation
 * Interviews and focus groups
@@ -19,7 +18,7 @@ If your looking to fill a position or need contract work in user research, polic
 * Descriptive statistics
 * Mixed methods
 
-###Technical 
+### Technical 
 
 Intermediate 
 * Microsoft Office
@@ -33,8 +32,7 @@ Beginner
 * GitHib
 * Jekyll
 
-
-##Soft 
+## Soft 
 * Team management
 * Public speaking
 * Customers service
