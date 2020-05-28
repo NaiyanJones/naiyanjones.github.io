@@ -1,5 +1,5 @@
 ---
-layout: "page"
+layout: "pages"
 title: "CV"
 permalink: "https://naiyanjones.github.io/cv/"
 canonical_url: "https://naiyanjones.github.io/cv/"
