@@ -61,6 +61,8 @@ author:
   name   : "Naiyan Jones"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "*Social researcher with experience in digital and policy. Looking for new opportunities.*"
+  location: "Westmindlands, UK"
+  icon: "fas fa-map-marker-alt"
   links:
     - label: Email
       icon: "fas fa-envelope"
