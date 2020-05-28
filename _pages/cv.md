@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: Curriculum vitae pls work
+title: CV
 permalink: /cv/
 ---
 
-please work 2
+
