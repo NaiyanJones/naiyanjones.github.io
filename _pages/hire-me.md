@@ -18,16 +18,16 @@ If your looking to fill a position or need contract work in user research, polic
 * Mixed methods
 
 ##### Technical 
-Intermediate 
-* Microsoft Office
-* Google Docs
-Beginner
-* Nvivo
-* SPSS
-* Python
-* YAML
-* GitHib
-* Jekyll
+* Intermediate 
+   * Microsoft Office
+   * Google Docs
+*Beginner
+   * Nvivo
+   * SPSS
+   * Python
+   * YAML
+   * GitHib
+   * Jekyll
 
 #### Soft 
 * Team management
