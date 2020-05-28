@@ -15,6 +15,7 @@ If your looking to fill a position or need contract work in user research, polic
 * Questionnaire surveys
 * Observation and ethnography
 * Descriptive statistics
+* Regression analysis
 * Mixed methods
 
 ##### Technical 
