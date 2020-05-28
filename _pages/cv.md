@@ -1,6 +1,7 @@
 ---
 layout: posts
-title: please work
+title: CV
+permalink: /cv/
 ---
 
-please work 2
+
