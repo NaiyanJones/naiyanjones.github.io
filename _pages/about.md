@@ -9,4 +9,4 @@ I am a social researcher with a postgraduate diploma from the University of Birm
 
 My current research interest is on the social media website Reddit and learning to code. That includes this website!
 
-In need of my skill set or looking for someone like me? Then check out my [hire](/_pages/hire-me.md) page and let's [chat](mailto:naiyan@hotmail.co.uk)
+In need of my skill set or looking for someone like me? Then check out my [hire](/_pages/hire-me.md) page and let's [chat](mailto:naiyan@hotmail.co.uk).
