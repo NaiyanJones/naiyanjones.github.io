@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Hire me
 permalink: /hire-me/
 ---
