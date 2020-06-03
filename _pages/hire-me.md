@@ -26,6 +26,5 @@ If your looking to fill a position or need contract work check out my skill set 
 
 **Beginner**: Nvivo, IBM SPSS, Python, YAML, GitHub, Jekyll 
 
-##### Soft skills: 
-
+### Soft skills
 Team management, public speaking, stakeholder engagement, 
