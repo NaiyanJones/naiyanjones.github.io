@@ -3,9 +3,7 @@ permalink: /contact/
 title: "Contact"
 ---
 
-Need to fill a position or need a project completed? Or interested in my work and looking for advice? Any other enquires? 
-
-Then let's chat and connect using the form below.
+Interested in my work or looking to fill a position? Then let's chat and connect using the form below.
 
 <form
   action="https://formspree.io/xoqkdwla"
