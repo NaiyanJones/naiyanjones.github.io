@@ -16,6 +16,10 @@ Then let's chat and connect using the form below.
     <input type="text" name="_replyto">
   </label>
   <label>
+    Message title:
+    <textarea name="message-title"></textarea>
+  </label>
+  <label>
     Your message:
     <textarea name="message"></textarea>
   </label>
@@ -23,7 +27,6 @@ Then let's chat and connect using the form below.
   <!-- your other form fields go here -->
 
   <button type="submit">Send</button>
-    <input type="submit" value="Send">
   <input type="hidden" name="_subject" value="blog contact" />
   <input type="text" name="_gotcha" style="display:none" />
 </form>
