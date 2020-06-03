@@ -3,11 +3,9 @@ permalink: /contact/
 title: "Contact"
 ---
 
-If you'd like to start a new project, 
+Need to fill a position or need a project completed? Or interested in my work and looking for advice? Any other enquires? 
 
-If you'd like to start a new project, need help with an existing project or have any other enquiry, please get in touch.
-
-Want to chat about 
+Then let's chat and connect using the form below.
 
 {::nomarkdown}
 <form action="https://formspree.io/xoqkdwla method="POST">
