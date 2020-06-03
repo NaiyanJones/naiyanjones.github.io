@@ -1,7 +1,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Hire me"
+  - title: "Hire"
     url: /hire-me/
-  - title: "CV"
-    url: /cv/
+  - title: "Contact"
+    url: /contact/
