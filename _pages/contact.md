@@ -12,15 +12,15 @@ Then let's chat and connect using the form below.
   method="POST"
 >
   <label>
-    Your email:
+    Email:
     <input type="text" name="_replyto">
   </label>
   <label>
-    Message title:
+    Title:
     <textarea name="message-title"></textarea>
   </label>
   <label>
-    Your message:
+    Message:
     <textarea name="message"></textarea>
   </label>
 
