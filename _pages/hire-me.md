@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Hire me
 permalink: /hire-me/
 ---
