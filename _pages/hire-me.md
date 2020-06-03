@@ -4,10 +4,10 @@ title: Hire me
 permalink: /hire-me/
 ---
 
-If your looking to fill a position or need contract work in user research, policy development....
+If your looking to fill a position or need contract work in user research studies, policy development and digital marketing than check out my below skills. 
 
-### Skills
-#### Hard
+### Hard skills
+#### Research
 * Research and report writing
 * Policy analysis and evaluation
 * Interviews and focus groups
@@ -16,23 +16,10 @@ If your looking to fill a position or need contract work in user research, polic
 * Observation and ethnography
 * Descriptive statistics
 * Regression analysis
-* Mixed methods
+* Mixed methods study approach
 
-##### Technical 
-* Intermediate 
-   * Microsoft Office
-   * Google Docs
-* Beginner
-   * Nvivo
-   * SPSS
-   * Python
-   * YAML
-   * GitHib
-   * Jekyll
+#### Technical skills
+**Intermediate**: Microsoft Office, Google Docs
+**Beginner**: Nvivo, IBM SPSS, Python, YAML, GitHub, Jekyll 
 
-#### Soft 
-* Team management
-* Public speaking
-* Customers service
-* Self motiviated
-* Remote working
+##### Soft skills: team management, public speaking, stakeholder engagement, 
