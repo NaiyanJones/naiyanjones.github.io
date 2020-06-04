@@ -1,7 +1,7 @@
 ---
 title: Online Political Campaigning and Biscuits The Case of Mumsnet
 published: true
-date: 2019-07-01
+date: {}
 categories:
   - Politcs
 tags:
@@ -20,9 +20,7 @@ tags:
 
 > How every politician has answered Mumsnet’s ‘favourite biscuit’ question since 2009 — The Telegraph 2016
 
-![](/assets/images/1__L0CYU__a73CqFfBCW032EWg.png)
-
-Founded in 2000 by Justine Roberts, Mumsnet has become part of the British social landscape. The anonymous forum aims to make parents’ lives easier by pooling knowledge, advice and support. It offers information on pregnancy and childcare, product reviews and even runs a book club. The website tries as far as possible to let the conversation flow, and not to over-moderate. This means, of course, talk can turn political.
+![](/assets/images/1__L0CYU__a73CqFfBCW032EWg.png){: .align-left} Founded in 2000 by Justine Roberts, Mumsnet has become part of the British social landscape. The anonymous forum aims to make parents’ lives easier by pooling knowledge, advice and support. It offers information on pregnancy and childcare, product reviews and even runs a book club. The website tries as far as possible to let the conversation flow, and not to over-moderate. This means, of course, talk can turn political.
 
 Mumsnet has both spurred and created their own political campaigns. The [Let Toys Be Toys](https://en.wikipedia.org/wiki/Let_Toys_Be_Toys) and [Let Books Be Books](https://en.wikipedia.org/wiki/Let_Books_Be_Books) campaigns to de-gender children’s products both originated from the forum. And the forum has launched several of its own campaignings. Ranging from better care for miscarriages, lack of support for parents with children of additional needs, and better sexual education. To name only a few of the many campaigns [past and present.](https://www.mumsnet.com/campaigns)
 
@@ -44,9 +42,7 @@ Demographic data on Mumsnet is dated and sketchy. The website conducted a [censu
 
 ### The 2010 British General Election
 
-![](/assets/images/1__CXM__QKvtDTgbcWTrVTZpWQ.jpeg)
-
-In the run up to the 2010 General Election all parts of the British media dubbed it the ‘Mumsnet Election’. For the first time that Mumsnet was used as a campaign tool by the Labour, Conservative and Liberal Democrat parties. Party leaders conducted live-chats on the platform, soon followed by other politicians. The hype was large and high. But ultimately it was misplaced.
+![](/assets/images/1__CXM__QKvtDTgbcWTrVTZpWQ.jpeg){: .align-left} In the run up to the 2010 General Election all parts of the British media dubbed it the ‘Mumsnet Election’. For the first time that Mumsnet was used as a campaign tool by the Labour, Conservative and Liberal Democrat parties. Party leaders conducted live-chats on the platform, soon followed by other politicians. The hype was large and high. But ultimately it was misplaced.
 
 The ‘Mumsnet Election’ was overblown and a case of typical sensationalism. But what we do have is a case study of several political parties using an online forum as a way of political campaigning.
 
@@ -77,11 +73,7 @@ Given the humours nature of the Biscuit Question I’ll enlighten you dear reade
 
 ### Wrapping up
 
-Mumsnet is an interesting case study of a website² 10 years ago where politicians used it as a platform for political campaigning.
-
-You can see why politicians saw it as important, and even though it was anonymous, started using it to campaign on.
-
-In addition, it shows how normal mums interact with politicians online; asking the serious and banal at the same time.
+Mumsnet is an interesting case study of early online political campainging on a website 10 years ago.² You can see why politicians saw it as important, even if there was concerns about anonymity. And in retrospect it did not have much of an impact on election. But it is an early example of what people take a bit more for granted now. And a great episode illustrating how people like to interact with politicians online with both serious and humorous questions. 
 
 #### Footnotes
 
