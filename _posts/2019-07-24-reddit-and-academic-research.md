@@ -1,7 +1,7 @@
 ---
 title: Reddit and Academic Research
 published: true
-date: {}
+date: 2010-07-24
 categories:
   - Reddit
 tags:
