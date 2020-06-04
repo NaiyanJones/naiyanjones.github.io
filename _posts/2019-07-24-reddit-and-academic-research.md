@@ -8,6 +8,7 @@ tags:
   - Reddit
   - Social media
   - Literature review
+excerpt_separator: <!--more-->
 ---
 ![](/assets/images/1__6dAXo18vmZ3KiR75TE2XwQ.png)
 
