@@ -11,7 +11,7 @@ Interested in my work or looking to fill a position? Then let's chat and connect
 >
   <label>
     Email:
-    <input type="text"name="_replyto">
+    <input type="text" name="_replyto">
   </label>
   <label>
     Subject:
