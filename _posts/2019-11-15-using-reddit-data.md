@@ -1,7 +1,7 @@
 ---
 title: Key points when using Reddit as a source of data
 published: true
-date: {}
+date: 2019-11-15
 categories:
   - Reddit
 tags:
