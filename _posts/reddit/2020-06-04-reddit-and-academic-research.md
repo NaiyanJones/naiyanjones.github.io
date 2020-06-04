@@ -1,18 +1,9 @@
 ---
-layout: post
-title: Reddit and Academic Research
 published: false
-date: '2019-07-24
-categories:
-  - Reddit
-tags:
-  - Reddit
-  - Social media
-  - Literature review
 ---
 # Reddit and Academic Research
 
-![](img\1__6dAXo18vmZ3KiR75TE2XwQ.png)
+![](/assets/images/1__6dAXo18vmZ3KiR75TE2XwQ.png)
 
 This blogpost was originally posted on [Medium in July 2019](www.mediun.com/@naiyanjones/reddit-and-academic-research-aa03f247e310).
 
@@ -42,8 +33,8 @@ The second is that Reddit is used as _proxy_ to investigate another social pheno
 
 Around half of all academics who research Reddit fall under computer science, followed by the social sciences. Traditionally when people talk about ‘the social sciences’ they commonly mean: anthropology, communication studies, economics, history, musicology, human geography, linguistics, political science, psychology, public health, education, social and media studies, and sociology.
 
-![Human Computer Interaction and the disciplines it draws from. Credit: Chackraborty et al ([2017](https://www.researchgate.net/publication/321147663_A_Review_of_Constraints_on_Vision-based_Gesture_Recognition_for_Human-Computer_Interaction)).](img\1__iREGi4J2FcG6uU__RG9To6g.png)
-Human Computer Interaction and the disciplines it draws from. Credit: Chackraborty et al ([2017](https://www.researchgate.net/publication/321147663_A_Review_of_Constraints_on_Vision-based_Gesture_Recognition_for_Human-Computer_Interaction)).
+![](/assets/images/1__iREGi4J2FcG6uU__RG9To6g.png)
+Caption: Human Computer Interaction and the disciplines it draws from. Credit: Chackraborty et al ([2017](https://www.researchgate.net/publication/321147663_A_Review_of_Constraints_on_Vision-based_Gesture_Recognition_for_Human-Computer_Interaction)).
 
 However, nearly all of these computer science researchers come from the subdiscipline of [Human Computer Interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction) (HCI). HCI studies the interaction between humans and technology. A seen from the graphic HCI draws from a diversity of other disciplines and approaches. Including many of the social sciences.So saying research output comes from computer science and the social sciences can be a bit misleading.
 
@@ -76,7 +67,7 @@ The above refers to my own systematized review which was conducted over two mont
 
 You really can’t mention research and Reddit without coming across what academics call the ‘Reddit Corpus’ in the literature.
 
-![](img\1__4jZ__gb1tgxSvpxw30kKAUg.png)
+![](/assets/images/1__4jZ__gb1tgxSvpxw30kKAUg.png)
 
 The Corpus refers to database of all Reddit comments and posts from the site since its creation in 2008. The Corpus was created and hosted on [Pushshift.io](https://pushshift.io/) in 2015. The website was made by [Jason Baumgartner](https://medium.com/u/3a16fa97630d) who is both a data scientist and Reddit user. The Corpus is usually updated every month with the most recent comments and posts barring technical issues. It can be accessed and searched with Python.
 
@@ -84,7 +75,7 @@ Baumgartner and his website have been invaluable for research. At the time of wr
 
 #### Redditsearch.io
 
-![](img\1__UUoCEWzQwHF204tBU__NCXg.png)
+![](/assets/images/1__UUoCEWzQwHF204tBU__NCXg.png)
 
 In addition for researchers who do not currently have the skills to take full advantage of the Reddit Corpus, Baumgartner has written a search engine wrapper which uses Pushshift data. The website [Redditsearch.io](https://redditsearch.io/) is a brilliant application with a minimal interface and data rich search features. It allows you to search for terms in comments and posts. With further options to narrow down by subreddit, author, domain, and time period.
 
