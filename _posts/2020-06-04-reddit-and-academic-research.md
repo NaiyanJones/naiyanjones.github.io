@@ -1,5 +1,5 @@
 ---
-title: 'Reddit and Academic Research'
+title: Reddit and Academic Research
 published: true
 date: 20-06-04
 categories:
@@ -9,8 +9,6 @@ tags:
   - Social media
   - Literature review
 ---
-# Reddit and Academic Research
-
 ![](/assets/images/1__6dAXo18vmZ3KiR75TE2XwQ.png)
 
 This blogpost was originally posted on [Medium in July 2019](www.mediun.com/@naiyanjones/reddit-and-academic-research-aa03f247e310).
@@ -26,8 +24,6 @@ All the above features come together to create a uniquely paradoxical platform. 
 There are over 330 million monthly active users who are part of over 1.2 million communities, with over 150,000 of these being active.¹ These communities can range in size from 18 million subscribers to as little as several.² And this only accounts for users who have clicked a ‘join’ button. This does not count users who do not join subreddits, or people who browse the website without a user account.
 
 According to Pew Research Centre ([2016](https://www.journalism.org/2016/02/25/reddit-news-users-more-likely-to-be-male-young-and-digital-in-their-news-preferences/)) the average user is American, young, male and likely to be college educated. 45% of users are between the ages of 18 and 29, and a significant amount of 30–49 users it. The typical user 46% of Reddit app users have a college degree or higher, while 40% have a high school degree ([Agrawal, 2016](https://medium.com/@sm_app_intel/the-user-demographics-of-reddit-the-official-app-7e2e18b1e0e1)). The website has grown significantly in recent years, driven by the popularity of the official Reddit and third party apps. In 2018 it very briefly overtook Facebook to become the third most visited in the United States and overtook Twitter by active monthly users ([Digital Consulting, 2018](http://www.digitalstrategyconsulting.com/intelligence/2018/06/reddit_overtakes_facebook_as_third_most_popular_site_in_us.php)).
-
-### Academic research and Reddit
 
 #### What is really being studied?
 
