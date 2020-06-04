@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Reddit and Academic Research
+title: 'Reddit and Academic Research'
 published: true
 date: 20-06-04
-categories:	categories:
+categories:
   - Reddit
-tags:	tags:
+tags:
   - Reddit
   - Social media
   - Literature review
@@ -44,7 +44,7 @@ The second is that Reddit is used as _proxy_ to investigate another social pheno
 Around half of all academics who research Reddit fall under computer science, followed by the social sciences. Traditionally when people talk about ‘the social sciences’ they commonly mean: anthropology, communication studies, economics, history, musicology, human geography, linguistics, political science, psychology, public health, education, social and media studies, and sociology.
 
 ![](/assets/images/1__iREGi4J2FcG6uU__RG9To6g.png)
-Caption: Human Computer Interaction and the disciplines it draws from. Credit: Chackraborty et al ([2017](https://www.researchgate.net/publication/321147663_A_Review_of_Constraints_on_Vision-based_Gesture_Recognition_for_Human-Computer_Interaction)).
+{% include figure image_path="/assets/images/1__iREGi4J2FcG6uU__RG9To6g.png" alt="this is a placeholder image" caption="Credit: Chackraborty et al ([2017](https://www.researchgate.net/publication/321147663_A_Review_of_Constraints_on_Vision-based_Gesture_Recognition_for_Human-Computer_Interaction))." %}
 
 However, nearly all of these computer science researchers come from the subdiscipline of [Human Computer Interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction) (HCI). HCI studies the interaction between humans and technology. A seen from the graphic HCI draws from a diversity of other disciplines and approaches. Including many of the social sciences.So saying research output comes from computer science and the social sciences can be a bit misleading.
 
@@ -85,7 +85,7 @@ Baumgartner and his website have been invaluable for research. At the time of wr
 
 #### Redditsearch.io
 
-![](/assets/images/1__UUoCEWzQwHF204tBU__NCXg.png)
+![[image-center](](/assets/images/1__UUoCEWzQwHF204tBU__NCXg.png){: .align-center}
 
 In addition for researchers who do not currently have the skills to take full advantage of the Reddit Corpus, Baumgartner has written a search engine wrapper which uses Pushshift data. The website [Redditsearch.io](https://redditsearch.io/) is a brilliant application with a minimal interface and data rich search features. It allows you to search for terms in comments and posts. With further options to narrow down by subreddit, author, domain, and time period.
 
