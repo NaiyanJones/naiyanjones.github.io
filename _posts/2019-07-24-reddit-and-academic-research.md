@@ -11,7 +11,7 @@ tags:
 ---
 ![](/assets/images/1__6dAXo18vmZ3KiR75TE2XwQ.png)
 
-This blogpost was originally posted on [Medium on July 2019](www.mediun.com/@naiyanjones/reddit-and-academic-research-aa03f247e310).
+*This blogpost was originally posted on [Medium on July 2019](www.mediun.com/@naiyanjones/reddit-and-academic-research-aa03f247e310).*
 
 ### Reddit: The front page of the internet
 
