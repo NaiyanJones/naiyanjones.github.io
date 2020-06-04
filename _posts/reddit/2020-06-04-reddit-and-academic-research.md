@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Reddit and Academic Research'
 published: true
 date: 20-06-04
