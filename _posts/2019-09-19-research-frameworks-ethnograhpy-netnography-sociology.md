@@ -1,5 +1,5 @@
 ---
-title: Research frameworks: comparing Virtual Ethnography, Netnography, & Digital  Sociology.
+title: "Research frameworks: comparing Virtual Ethnography, Netnography, & Digital  Sociology."
 published: false
 date: 2019-11-14
 categories:
