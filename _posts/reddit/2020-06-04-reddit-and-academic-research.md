@@ -1,16 +1,14 @@
 ---
+layout: post
+title: Reddit and Academic Research
 published: false
+date: '2019-07-24
 categories:
   - Reddit
 tags:
   - Reddit
   - Social media
   - Literature review
----
----
-title: Reddit and Academic Research
-date: '2019-07-24T13:05:30.113Z'
-
 ---
 # Reddit and Academic Research
 
