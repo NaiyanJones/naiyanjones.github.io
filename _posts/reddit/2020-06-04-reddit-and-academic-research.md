@@ -42,7 +42,7 @@ The second is that Reddit is used as _proxy_ to investigate another social pheno
 
 Around half of all academics who research Reddit fall under computer science, followed by the social sciences. Traditionally when people talk about ‘the social sciences’ they commonly mean: anthropology, communication studies, economics, history, musicology, human geography, linguistics, political science, psychology, public health, education, social and media studies, and sociology.
 
-{% include figure image_path="/assets/images/1__iREGi4J2FcG6uU__RG9To6g.png" caption="Credit: Chackraborty et al ([2017](https://www.researchgate.net/publication/321147663_A_Review_of_Constraints_on_Vision-based_Gesture_Recognition_for_Human-Computer_Interaction))." %}
+![]{% include figure image_path="/assets/images/1__iREGi4J2FcG6uU__RG9To6g.png" caption="Credit: Chackraborty et al ([2017](https://www.researchgate.net/publication/321147663_A_Review_of_Constraints_on_Vision-based_Gesture_Recognition_for_Human-Computer_Interaction))." %}
 
 However, nearly all of these computer science researchers come from the subdiscipline of [Human Computer Interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction) (HCI). HCI studies the interaction between humans and technology. A seen from the graphic HCI draws from a diversity of other disciplines and approaches. Including many of the social sciences.So saying research output comes from computer science and the social sciences can be a bit misleading.
 
