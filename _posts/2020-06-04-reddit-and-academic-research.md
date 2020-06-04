@@ -1,7 +1,7 @@
 ---
 title: Reddit and Academic Research
 published: true
-date: 20-06-04
+date: 2019-07-24T00:00:00.000Z
 categories:
   - Reddit
 tags:
@@ -11,7 +11,7 @@ tags:
 ---
 ![](/assets/images/1__6dAXo18vmZ3KiR75TE2XwQ.png)
 
-This blogpost was originally posted on [Medium in July 2019](www.mediun.com/@naiyanjones/reddit-and-academic-research-aa03f247e310).
+This blogpost was originally posted on [Medium on July 2019](www.mediun.com/@naiyanjones/reddit-and-academic-research-aa03f247e310).
 
 ### Reddit: The front page of the internet
 
@@ -64,7 +64,7 @@ A review of the academic literature between 2008 to May 2019 identified 211 rese
 
 The above refers to my own systematized review which was conducted over two months. This type of review type is defined by Grant & Booth ([2009](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1471-1842.2009.00848.x)) as one which includes one or more elements of the systematic review process, while stopping short of claiming that the resultant output is a systematic review. This type of review is common for postgraduate researchers (that’s me!) who do not have the full resources to conduct a full systematic review. This includes time and funding for additional researcher(s).
 
-### Tools of the trade
+## Tools of the trade
 
 #### The Reddit Corpus: Pushshift.io
 
