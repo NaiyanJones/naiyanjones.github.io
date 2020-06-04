@@ -1,5 +1,15 @@
 ---
-published: false
+layout: post
+title: Reddit and Academic Research
+published: true
+date: 20-06-04
+categories:	categories:
+  - Reddit
+tags:	tags:
+  - Reddit
+  - Social media
+  - Literature review
+
 ---
 # Reddit and Academic Research
 
