@@ -1,7 +1,7 @@
 ---
 title: Reddit and Academic Research
 published: true
-date: 2019-07-24T00:00:00.000Z
+date: {}
 categories:
   - Reddit
 tags:
@@ -11,8 +11,6 @@ tags:
 excerpt_separator: <!--more-->
 ---
 ![](/assets/images/1__6dAXo18vmZ3KiR75TE2XwQ.png)
-
-*This blogpost was originally posted on [Medium on July 2019](www.mediun.com/@naiyanjones/reddit-and-academic-research-aa03f247e310).*
 
 ### Reddit: The front page of the internet
 
@@ -85,3 +83,5 @@ In addition for researchers who do not currently have the skills to take full ad
 
 1.  An active community is defined as a subreddit with at least 5 posts or comments posted in a given day ([Reddit Inc., 2015](http://web.archive.org/web/20150703012219/http://www.reddit.com/about)).
 2.  Any user can create a subreddit and become a moderator for it. Individual subreddits do not appear ‘live’ via Reddit search until a certain amount of users join the subreddit. The exact number is not known to the public, only by Reddit Inc. This is to deter spam.
+
+*Note: This blogpost was originally posted on [Medium on July 2019](www.mediun.com/@naiyanjones/reddit-and-academic-research-aa03f247e310).*
