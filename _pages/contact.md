@@ -15,7 +15,7 @@ Interested in my work or looking to fill a position? Then let's chat and connect
   </label>
   <label>
     Subject:
-    <textarea name="message-title"></textarea>
+    <input type="text" name="subject">
   </label>
   <label>
     Message:
