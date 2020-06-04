@@ -55,3 +55,6 @@ After posting your survey link continue interacting with the community. Try to a
 **Full citation**
 
 Shatz, I. (2016) ‘Fast, Free, and Targeted: Reddit as a Source for Recruiting Participants Online’, _Social Science Computer Review_, 35(4), pp. 537–549. doi: [10.1177/0894439316650163.](https://journals.sagepub.com/doi/10.1177/0894439316650163)
+
+*Note: This blogpost was originally posted on [Medium in November 2019](www.mediun.com/@naiyanjones/a-7-step-guide-for-effective-survey-recruitment-on-reddit-77837380cbe).*
+
