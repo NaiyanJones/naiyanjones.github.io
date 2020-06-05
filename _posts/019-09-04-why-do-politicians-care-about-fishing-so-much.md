@@ -10,8 +10,11 @@ tags:
   - Case study
 excerpt_separator: <!--more-->
 ---
+{% include figure image_path="/assets/images/1__XoIGNxq9JpgSXW8UurizqA.jpeg" caption="Credit: Two British fishing trawlers. Source: The Times." %}
+
+
 ![Two British fishing trawlers. Source: The Times.](/assets/images/1__XoIGNxq9JpgSXW8UurizqA.jpeg)
-Two British fishing trawlers. Source: The Times.
+
 
 Even since the run up to the 2016 EU Referendum and ever since politicians, pundits and newspapers have been talking about the industry and the people employed in it.
 
