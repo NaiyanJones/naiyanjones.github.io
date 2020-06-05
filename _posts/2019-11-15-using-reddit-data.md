@@ -1,7 +1,8 @@
 ---
 title: Key points when using Reddit as a source of data
 published: true
-date: {}
+date:
+  'Sun Sep 15 2019 01:00:00 GMT+0100 (British Summer Time)': null
 categories:
   - Reddit
 tags:
