@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 ---
 ![](/assets/images/1__Wp3aQTdHc0EtkgUQde2n9A.jpeg)
 
-Evidence-Based Policy Making (commonly abbreviated as EBPM) has been a concept and buzzword across the policy communities for a while now. It refers to the idea of rigorous scientific evidence being used to create rational policy solutions to solve a policy problem.
+Evidence-based policymaking (commonly abbreviated as EBPM) has been a concept and buzzword across the policy communities for a while now. It refers to the idea of rigorous scientific evidence being used to create rational policy solutions to solve a policy problem.
 
 Everyone agrees that evidence-based policymaking is a good thing.
 
@@ -29,9 +29,9 @@ Que political fallout for the then-government and sacking of Nutt.²
 
 It’s an example of a well known scientist-academic saying something at the wrong time and place and then getting the sack for it.
 
-#### The Politics of Evidence-based Policymaking?
+#### The Politics of evidence-based policymaking?
 
-![](/assets/images/1__ZMfpoWTurDXKp4NzyVyUtA.jpeg)
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/1__ZMfpoWTurDXKp4NzyVyUtA.jpegg){: .align-center}
 
 [Paul Cairney](https://paulcairney.wordpress.com/) is a professor of politics and public policy from the University of Stirling. In his short book [The Politics of Evidence-based Policy Making](https://www.amazon.co.uk/Politics-Evidence-Based-Policy-Making/dp/1137517808/ref=sr_1_1?keywords=the+politics+of+evidence-based+policy+making&qid=1565119703&s=gateway&sr=8-1) he analyses two policy areas to find the types of common barriers, how to overcome them, and how to influence policy.
 
