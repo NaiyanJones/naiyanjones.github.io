@@ -1,7 +1,7 @@
 ---
 title: 'Online political campaigning and biscuits: The case of Mumsnet'
 published: true
-date: {}
+date: {2019-08-01}
 categories:
   - Politics
 tags:
