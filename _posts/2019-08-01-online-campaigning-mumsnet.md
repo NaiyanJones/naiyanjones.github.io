@@ -1,5 +1,5 @@
 ---
-title: 'Online Political Campaigning and Biscuits: The Case of Mumsnet'
+title: 'Online political campaigning and biscuits: The case of Mumsnet'
 published: true
 date: {}
 categories:
