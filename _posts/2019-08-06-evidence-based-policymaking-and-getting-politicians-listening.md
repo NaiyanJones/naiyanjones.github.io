@@ -31,19 +31,19 @@ It’s an example of a well known scientist-academic saying something at the wro
 
 #### The Politics of evidence-based policymaking?
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/1__ZMfpoWTurDXKp4NzyVyUtA.jpeg){: .align-center}
-
 [Paul Cairney](https://paulcairney.wordpress.com/) is a professor of politics and public policy from the University of Stirling. In his short book [The Politics of Evidence-based Policy Making](https://www.amazon.co.uk/Politics-Evidence-Based-Policy-Making/dp/1137517808/ref=sr_1_1?keywords=the+politics+of+evidence-based+policy+making&qid=1565119703&s=gateway&sr=8-1) he analyses two policy areas to find the types of common barriers, how to overcome them, and how to influence policy.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/1__ZMfpoWTurDXKp4NzyVyUtA.jpeg){: .align-center}
 
 Cairney explains the concept of EBPM, the underlying theories behind it and approaches by scientists and policymakers, examples of barriers, and lessons learnt from two distinct policy areas.
 
 #### Evidence-based Policy Making: Guidelines to Follow
 
-> **_Pack evidence better, include some persuasion_**
+> Pack evidence better, include some persuasion
 
 Simplifying research into layman terms for policymakers or press releases is important, but dry language isn’t going to sell your policy proposals. Policymakers are under time pressure and take mental shortcuts. Take advantage of this in your [persuasive language](https://www.nature.com/articles/s41599-017-0046-8) and reframe your arguments if you have to.
 
-> **_Build relationships and learn how to conduct yourself._**
+> Build relationships and learn how to conduct yourself
 
 Advocates need to build relationships within government, by being seen as reliable and knowing ‘the rules of the game’. Being trusted means government departments are more likely to ask you for your views in a short period of time. It also takes time to build a willing coalition for change. Having those relations built up beforehand will only put you in good stead.
 
@@ -75,7 +75,7 @@ Dealing with the reality of the world means advocates have to tailor and reframe
 
 Don’t just send someone an executive summary or full report!
 
-#### Footnotes
+##### Footnotes
 
 1.  The Professor David Nutt episode is a very common anecdote in policy and health studies in the UK. It’s so well known that I see it referenced to this day by academics, journalists and normal people in print and occasional conversation.
 2.  A year after his dismissal Professor David Nutt, with a number of co-authors, [published a study](https://www.sciencedirect.com/science/article/pii/S0140673610614626) in the Lancet which empirically corroborated his previous comments.
