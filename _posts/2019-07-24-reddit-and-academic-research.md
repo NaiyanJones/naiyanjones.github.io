@@ -1,5 +1,5 @@
 ---
-title: Reddit and Academic Research
+title: Reddit and academic research
 published: true
 date: {}
 categories:
