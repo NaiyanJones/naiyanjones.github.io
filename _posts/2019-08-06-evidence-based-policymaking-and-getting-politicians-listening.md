@@ -31,7 +31,7 @@ It’s an example of a well known scientist-academic saying something at the wro
 
 #### The Politics of evidence-based policymaking?
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/1__ZMfpoWTurDXKp4NzyVyUtA.jpegg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/1__ZMfpoWTurDXKp4NzyVyUtA.jpeg){: .align-center}
 
 [Paul Cairney](https://paulcairney.wordpress.com/) is a professor of politics and public policy from the University of Stirling. In his short book [The Politics of Evidence-based Policy Making](https://www.amazon.co.uk/Politics-Evidence-Based-Policy-Making/dp/1137517808/ref=sr_1_1?keywords=the+politics+of+evidence-based+policy+making&qid=1565119703&s=gateway&sr=8-1) he analyses two policy areas to find the types of common barriers, how to overcome them, and how to influence policy.
 
@@ -64,8 +64,6 @@ Scientists do not engage well with policymakers. Scientists also don’t deal we
 Use a mix of evidence to persuade policymakers. Large [Randomised Controlled Trials](https://en.wikipedia.org/wiki/Randomized_controlled_trial) (RCTs) are often seen by researchers as the gold standard on top of a hierarchy of evidence types. But case studies, anecdotes and other qualitative evidence can often be more persuasive and an easier sell to elected policy makers. Remember. You’re dealing with people. Not your colleague scientist.
 
 {% include figure image_path="/assets/images/1__zUXBMk__PbdTZATdwgtUq5g.png" caption="A typical hierarchy of evidence you find in textbooks." %}
-
-A typical hierarchy of evidence
 
 ### It’s How We Communicate
 
