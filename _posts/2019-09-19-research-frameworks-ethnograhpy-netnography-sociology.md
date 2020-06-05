@@ -3,7 +3,8 @@ title: >-
   Research frameworks: comparing Virtual Ethnography, Netnography, & Digital
   Sociology.
 published: true
-date: {}
+date:
+  'Sun Sep 15 2019 01:00:00 GMT+0100 (British Summer Time)': null
 categories:
   - Reddit
 tags:
