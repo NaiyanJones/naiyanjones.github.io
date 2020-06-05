@@ -4,7 +4,7 @@ title: >-
   Sociology.
 published: true
 date:
-  'Sun Sep 15 2019 01:00:00 GMT+0100 (British Summer Time)': null
+  'Thu Sep 19 2019 01:00:00 GMT+0100 (British Summer Time)': null
 categories:
   - Reddit
 tags:
