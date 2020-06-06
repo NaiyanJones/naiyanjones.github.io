@@ -85,4 +85,4 @@ This review was also limited to one researcher. This means that if the coding ca
 3.  Keywords searched included: method, research method, paradigm, quantitative, qualitative. This was done to speed up analysis of articles.
 4.  See [inter-code reliability](https://en.wikipedia.org/wiki/Inter-rater_reliability) for a more in-depth explanation.
 
-*Note: This blogpost was originally posted on [Medium in August 2019](www.mediun.com/@naiyanjones/a-systematized-literature-review-of-reddit-dd2acbe6ebc4).*{: .notice--primary}
+Note: This blogpost was originally posted on [Medium in August 2019](www.mediun.com/@naiyanjones/a-systematized-literature-review-of-reddit-dd2acbe6ebc4).{: .notice--primary}
