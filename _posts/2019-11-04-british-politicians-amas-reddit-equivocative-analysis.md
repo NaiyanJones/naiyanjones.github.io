@@ -1,7 +1,7 @@
 ---
-title:"Politicians dodging questions: How much do British politicians equivocate in online Q&As/? An equivocative analysis of British MPs Ask Me Anything Q&As on Reddit"
+title: "What type of questions do people ask British politicians in online Q&As? A thematic analysis of MP’s “Ask Me Anything” sessions on Reddit"
 published: false
-date:2019-11-04
+date: 2019-11-04
 categories:
   - Politics
 tags:
