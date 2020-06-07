@@ -12,7 +12,7 @@ tags:
   - Social media
 excerpt_separator: <!--more-->
 
-feature_row1:
+feature_row:
   - image_path: /assets/images/1__pgMcno__LuIFKlwLKcc8s__A.png
   - image_path: /assets/images/1__gJV__Xeug9FIoe4M8mHzcaA.png
 
@@ -110,9 +110,9 @@ When including literal non-replies this was:
 
 Reply rates between individual MPs varied widely. Including and excluding literal non-replies also had an effect on overall rates. This is because some AMAs had higher volumes of comments than others and less comment replies by MPs compared to less popular ones. For example, Nick de Bois MP gave 90% explicit replies in his answers, but when including literal non-replies this dropped to 39%.
 
-{% include feature_row1 %}
+{% include feature_row %}
 
-#### **Equivocation** rates
+#### Equivocation rates
 
 The ways MPs evades questions was measured using Bull’s equivocation typology. Individual results for MPs and an average are provided in Table 6 below.-
 
