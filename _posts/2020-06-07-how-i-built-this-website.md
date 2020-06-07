@@ -7,11 +7,11 @@ categories:
   - Personal
 tags:
   - Website
-  - Learn to code
+  - Learning to code
   - Programming
 excerpt_separator: <!--more-->
 ---
-Prior to creating this blog I had no experience with making websites at all. The most I have done was use [Medium.com](https://medium.com/about) which involved typing blog posts out in an editor and then clicking publish.
+I had no previous experience with making websites at all. The most I have done was use [Medium.com](https://medium.com/about) which involved typing blog posts out in an editor and then clicking publish. So building this website was a fun learning experience.
 
 To make this website I installed [Jekyll](https://jekyllrb.com/) and the theme [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) which I then hosted on [GitHub pages](http://jmcglone.com/guides/github-pages/). 
 
@@ -23,7 +23,7 @@ I knew I wanted a certain look but since the website was a work-in-progress I us
 
 Next I had to find a way to import my Medium posts onto this blog. I certainly didn't want to do any copy & pasting! I found that someone had the same problem a few years ago, and followed their instructions for [medium-2-md](https://www.gautamdhameja.com/medium-to-markdown-converter/).
 
-Throghout building this webaite I also searched around and found many resources, from how-to guides, Youtube videos, and other people's blogs which I used for inspiration.
+Throughout building this website I also searched around and found many resources, from how-to guides, Youtube videos, and other people's blogs which I used for inspiration.
 
 ### Tech
 
