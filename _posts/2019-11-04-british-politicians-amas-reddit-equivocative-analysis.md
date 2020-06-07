@@ -3,7 +3,7 @@ title: >-
   Politicians dodging questions? An equivocative analysis of British MPs 'Ask Me
   Anything' sessions on Reddit
 published: false
-date: {}
+date: {2019-11-04}
 categories:
   - Politics
 tags:
