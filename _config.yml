@@ -26,10 +26,6 @@ search: true
 
 # Google services
 google_analytics: UA—168799890-1X
-analytics:
-  		provider: "google-universal"
-  	google:
- 	tracking_id: "UA-168799890-1X"
 
 # Build settings
 markdown: kramdown
