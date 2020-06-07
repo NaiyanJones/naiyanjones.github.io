@@ -18,11 +18,11 @@ To make this website I installed [Jekyll](https://jekyllrb.com/) and the theme [
 
 Jekyll is a static site generator which among other things means you can use templates, load quicker and create content quicker. The Jekyll community is the biggest with many themes, of which Minimal Mistakes too my fancy. It allows good customisation while still being minimal and content first. And GitHub allows free hosting, forks and version control. Meaning you can both test features and rollback if you mess up. Perfect!
 
-Following on from setting up on GitHub I wanted to change the navigation links and add an Contact page with a form. My search led me to [Formspree.io](https://formspree.io/) which lets you set up forms for free if you get less than 30 form submissions a month.
+Following on from setting up on GitHub I wanted to change the navigation links and add an Contact page with a form. My search led me to [Formspree.io](https://formspree.io/) which is free as long as you get under 30 contact form submissions per month. 
 
-I knew I wanted a certain look but since the website was a work-in-progress I used some [placeholder.com](https://placeholder.com/) images as, you guessed it, placeholders. I then settled on a mixture of [UnSplash](https://unsplash.com/) for images, [FontAwesome](https://fontawesome.com) for icons and a couple custom images. 
+I knew I wanted a certain look but since the website was a work-in-progress I used some [placeholder.com](https://placeholder.com/) images as, you guessed it, placeholders. I then settled on a mixture of [UnSplash](https://unsplash.com/) free images and a couple custom images. For free icons I used [FontAwesome](https://fontawesome.com).
 
-Next I had to find a way to import my Medium posts onto this blog. I certainly didn't want to do any copy& pasting! I found that someone had the same problem a few years ago, and followed their instructions for [medium-2-md](https://www.gautamdhameja.com/medium-to-markdown-converter/).
+Next I had to find a way to import my Medium posts onto this blog. I certainly didn't want to do any copy & pasting! I found that someone had the same problem a few years ago, and followed their instructions for [medium-2-md](https://www.gautamdhameja.com/medium-to-markdown-converter/).
 
 Throghout building this webaite I also searched around and found many resources, from how-to guides, Youtube videos, and other people's blogs which I used for inspiration.
 
@@ -44,6 +44,12 @@ Throghout building this webaite I also searched around and found many resources,
 
 8. [Formspree.io](https://formspree.io/) - for contact page
 
+### SEO
+
+1. [Google analtyics](https://analytics.google.com/analytics/web/#/) - track traffic
+
+2. [Google Search Console](https://search.google.com/search-console/about) - optimise SEO
+
 ### Languages used
 
 1. [YAML](https://yaml.org/) - for blog posts
@@ -64,9 +70,4 @@ Throghout building this webaite I also searched around and found many resources,
 
 1. [Commonmark](https://jekyllrb.com/docs/posts/) - markdown reference guide
 
-2. [Jekyll Tutorial playlist by Mike Dane](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB) 
-
-
-
-
-
+2. [Jekyll Tutorial playlist by Mike Dane](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
