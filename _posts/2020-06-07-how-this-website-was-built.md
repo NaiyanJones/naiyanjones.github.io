@@ -38,7 +38,7 @@ Throghout building this webaite I also searched around and found many resources,
 
 5. [Optimize-images](https://no-title.victordomingos.com/projects/optimize-images/) - to optimise imported images
 
-6. [Prose.io](http://prose.io/#about) - for simple blog writing
+6. [Prose.io](http://prose.io/#about) - for writing simple posts
 
 7. [Atom](https://atom.io/) - for file editing
 
@@ -48,7 +48,7 @@ Throghout building this webaite I also searched around and found many resources,
 
 1. [YAML](https://yaml.org/) - for blog posts
 
-2. [Markdown](https://www.markdownguide.org/) - for blogposts
+2. [Markdown](https://www.markdownguide.org/) - for blog posts
 
 3. [Python](https://www.python.org/) - for using Optimize-images
 
