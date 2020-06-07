@@ -80,5 +80,5 @@ Mumsnet is an interesting case study of early online political campainging on a 
 1.  It should be noted that a ‘census’ is a survey of an entire population strictly speaking. Any survey which is does not have the full population responding shouldn’t be called a census by definition. ‘User survey’ would be more apt. I relay this interesting fact from a time I was admonished by a very grouchy statistician.
 2.  Replace with social platform, online forum, online community, online mediated community, etc depending on your favorite jargon and academic discipline. Pick your poison basically.
 
-Note: This blogpost was originally posted on [Medium in August 2019](https://mediun.com/@naiyanjones/online-political-campaigning-and-biscuits-the-case-of-mumsnet-4b4c64dbce5a).
+Note: This blogpost was originally posted on [Medium in August 2019](https://medium.com/@naiyanjones/online-political-campaigning-and-biscuits-the-case-of-mumsnet-4b4c64dbce5a).
 {: .notice--primary}

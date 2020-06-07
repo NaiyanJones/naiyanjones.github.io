@@ -168,5 +168,5 @@ Disadvantages
 *   No ‘how to’ guides compared to more established subdisciplines or frameworks
 *   A still developing subdiscipline and framework
 
-Note: This blogpost was originally posted on [Medium in September 2019](https://mediun.com/@naiyanjones/research-frameworks-comparing-virtual-ethnography-netnography-digital-sociology-a496e55693f8).
+Note: This blogpost was originally posted on [Medium in September 2019](https://medium.com/@naiyanjones/research-frameworks-comparing-virtual-ethnography-netnography-digital-sociology-a496e55693f8).
 {: .notice--primary}

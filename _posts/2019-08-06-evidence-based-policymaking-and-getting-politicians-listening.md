@@ -81,5 +81,5 @@ Don’t just send someone an executive summary or full report!
 1.  The Professor David Nutt episode is a very common anecdote in policy and health studies in the UK. It’s so well known that I see it referenced to this day by academics, journalists and normal people in print and occasional conversation.
 2.  A year after his dismissal Professor David Nutt, with a number of co-authors, [published a study](https://www.sciencedirect.com/science/article/pii/S0140673610614626) in the Lancet which empirically corroborated his previous comments.
 
-Note: This blogpost was originally posted on [Medium in August 2019](https://mediun.com/@naiyanjones/evidence-based-policy-making-how-to-actually-get-policymakers-to-listen-aca16e321946).
+Note: This blogpost was originally posted on [Medium in August 2019](https://medium.com/@naiyanjones/evidence-based-policy-making-how-to-actually-get-policymakers-to-listen-aca16e321946).
 {: .notice--primary}

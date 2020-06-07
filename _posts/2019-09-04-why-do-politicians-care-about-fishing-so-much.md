@@ -89,5 +89,5 @@ Or we can make decisions influenced by our underlying biases. This is where conc
 
 This means the issue of fishing can both be a quick easy idea to link into broader policy issues symbolically as a motif. And it also explains why fishing can be used as a way to communicate larger problems by taking advantage of our cognitive biases and shortcuts.
 
-Note: This blogpost was originally posted on [Medium in September 2019](https://mediun.com/@naiyanjones/why-do-politicians-seem-to-care-about-fishing-so-much-adf02a9fcc94).
+Note: This blogpost was originally posted on [Medium in September 2019](https://medium.com/@naiyanjones/why-do-politicians-seem-to-care-about-fishing-so-much-adf02a9fcc94).
 {: .notice--primary}

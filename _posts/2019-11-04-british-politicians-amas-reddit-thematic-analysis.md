@@ -13,7 +13,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-_This blogpost is the first in a two-part series which outlines the result of a study on MP’s social media Q&As sessions. This first post details the themes of questions asked,_ [_the second on the extent to which MPs evaded answering questions_](/_posts/2019-11-04-british-politicians-amas-reddit-equivocative-analysis)_. The dissertation received a Distinction from the University of Birmingham, 2019._
+_This blogpost is the first in a two-part series which outlines the result of a study on MP’s social media Q&As sessions. This first post details the themes of questions asked,_ [_the second on the extent to which MPs evaded answering questions_](https://naiyanjones.github.io/politics/british-politicians-amas-reddit-equivocative-analysis/)_. The dissertation received a Distinction from the University of Birmingham, 2019._
 
 ![](/assets/images/0__zUrDMfVTl65kXEA8.jpg)
 
@@ -57,7 +57,7 @@ Users of certain British subreddits have conducted their own user surveys. These
 
 The results also showed users to be more left or centre-left. With voting intentions skewed to Labour, the Liberal Democrats and the Conservatives in order of popularity.
 
-{% include figure image_path="/assets/images/1__Wss__lUMef9DHQrGzrOfzMw.png" caption="[Adapted from /u/FormerlyPallas’ [April /r/UKPolitics Opinion Pol](https://www.reddit.com/r/ukpolitics/comments/8dve8g/april_rukpolitics_opinion_poll_results/)l (2018)" %}
+{% include figure image_path="/assets/images/1__Wss__lUMef9DHQrGzrOfzMw.png" caption="Adapted from /u/FormerlyPallas’ [April /r/UKPolitics Opinion Pol](https://www.reddit.com/r/ukpolitics/comments/8dve8g/april_rukpolitics_opinion_poll_results/)l (2018)" %}
 
 
 This skew towards the political left is also mirrored by Claive and Moradpoor’s ([2018](https://www.napier.ac.uk/~/media/worktribe/output-1167476/two-communities-one-topic-exploring-the-british-reddit-community-split-based-on-1.pdf)) findings. They compared the types of news sources posted on the two largest British subreddit communities, /r/unitedkingdom and /r/ukpolitics. They found both had an overall bias towards left wing sources, but /r/ukpolitics had a more diverse political mix of sources.
@@ -113,8 +113,8 @@ After analysis 14 major and 34 minor themes were identified from 713 individual 
 
 Major themes were identified post-analysis. They were defined by a gap in popularity by the number of questions asked. With the next theme being half as popular by questions asked as the preceding theme.
 
-![](img\1__eat4CSQt6dL__x85omxWUkQ.png)
-![](img\1__OafX__qZEpgu3OrvhhRNgdQ.png)
+![](/assets/images/1__eat4CSQt6dL__x85omxWUkQ.png)
+![](/assets/images/1__OafX__qZEpgu3OrvhhRNgdQ.png)
 
 As seen above, most questions were on the EU and Brexit, elections and campaigning, party political issues, and non-political and humour. Housing (notably being the first non-EU related policy issue), the lives of MPs, economic, democratic deficit, drugs, immigration, digital, constituency, welfare, and electoral themed questions in order of popularity.
 
@@ -130,9 +130,7 @@ Elections and campaigns were heavily discussed, with questions centring around p
 
 This theme covered political parties themselves, including internal conflict between factions, the record of parties in government, and perceptions of political parties by the wider public. Internal conflict was mainly centred around Jeremy Corbyn and challenges and resignations by Labour MPs. While the Liberal Democrat were challenged on their record in government as junior coalition partners during the Conservative-Liberal Coalition Government. Lastly questions revolved around perceived negative perceptions of political parties by the wider public, with Liberal Democrats worried about being “taken seriously”, Labour being out of touch, and the Conservatives as being “inherently evil, the spawn of Satan”.
 
-![](img\0__ccmJnUKuObNZNPbM.jpg)
-![](img\0__aRKSDPq12__1lZwON.jpg)
-![](img\0__VRbZ0K__xAqwOglZe.jpg)
+![](/assets/images/0__ccmJnUKuObNZNPbM.jpg)
 
 #### Non-political humour
 
@@ -146,9 +144,7 @@ People showed an interest in the lives of MPs themselves as individuals. Users a
 
 Housing was a frequent policy issue and mentioned in all AMAs. People were concerned about about the affordability, supply and demand. Supply questions included the design of new builds, building restrictions on greenbelt land, restrictions on local government, and the potential for investment by central government. Demand issues were mainly concerned with migration from the 1997–2010 Labour administrations.
 
-![](img\0__6ysbcWII2nsIOOGo.jpg)
-![](img\0__3vgM4jZ__napsKOXM.jpg)
-![](img\1__VAJoQ4WkusF13JAihbbEZg.jpeg)
+![](/assets/images/0__6ysbcWII2nsIOOGo.jpg)
 
 #### The economy
 
@@ -162,9 +158,7 @@ This theme encompasses questions about the existence and reasons for a disconnec
 
 MPs were solicited for their views and perceived barriers to drug reform, including lack of evidence-led policy. They were asked if anything was “happening about drug legislation… within the next four years”, their “views on the current state of the drug policy in the UK”, and if drugs were a “major policy issue come the next election”. At the same time users recognised that drug reform was a relatively niche compared to other “serious issues” and one user prefaced their question with “I know drug reform is pretty much impossible in this country, but…”.
 
-![](img\0__nRrB0NrrkHSmvzno.jpg)
-![](img\0__nlxfYpSFEzQD__ZIT.jpg)
-![](img\0__HiDc3vt1l7s5S0EY.jpg)
+![](/assets/images/0__nRrB0NrrkHSmvzno.jpg)
 
 #### Immigration
 
@@ -178,9 +172,8 @@ Digital issues comprised of questions about general internet censorship, to spec
 
 The majority of AMAs each contained a question about the MP’s constituency with users disclosing or indicating they were constituents interested in local issues. This ranged from broad questions on how MPs had represented their constituency “in the House of Commons on local issues”, the future of a local hospital, transport infrastructure, the effects of an RAF base closure, and what could be done about “decent telecoms infrastructure”.
 
-![](img\0__wWhbjy9BG1QZEPli.jpg)
-![](img\0__E1SuOmUJJjypS87J.jpg)
-![](img\0__td79mzfiQ3P4dGT3.jpg)
+![](/assets/images/0__wWhbjy9BG1QZEPli.jpg)
+
 
 #### Welfare
 
@@ -190,9 +183,7 @@ Welfare questions were diverse, with people concerned about with current welfare
 
 Electoral reform encompassed explicit alternative voting system to first past the post (FPTP), to lowering the voting age to 16, and reforming the House of Commons and House of Lords. MPs were solicited for their views, support and also their party’s support of these reforms.
 
-![](img\1__aBM3chjPQFc2Q5BLqj__2cw.jpeg)
-![](img\1__mHv18CELCEhK1J6nxt__FgQ.jpeg)
-![](img\1__VVKuDOoL2gY__TzIcsRqaSw.png)
+![](/assets/images/1__aBM3chjPQFc2Q5BLqj__2cw.jpeg)
 
 ### Discussion
 
@@ -218,5 +209,5 @@ Lastly, the theme of non-political and humorous questions bares striking similar
 
 _This ends the first in a two part series. This post covered the themes of questions asked, the second will cover the extent to which MPs answered questions_
 
-Note: This blogpost was originally posted on [Medium in November 2019](https://mediun.com/what-type-of-questions-do-people-ask-british-politicians-in-online-q-as-e8aaa2f6315f).
+Note: This blogpost was originally posted on [Medium in November 2019](https://medium.com/what-type-of-questions-do-people-ask-british-politicians-in-online-q-as-e8aaa2f6315f).
 {: .notice--primary}
