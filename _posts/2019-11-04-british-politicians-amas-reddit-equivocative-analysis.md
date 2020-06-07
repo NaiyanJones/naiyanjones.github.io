@@ -125,4 +125,4 @@ When measuring for equivocation it was found that incomplete replies was the mos
 
 Rates of personalisation (flattery or attack) were notably low, with only one instance. This lines up with Jackson and Lilleker’s ([2011](https://www.tandfonline.com/doi/abs/10.1080/13572334.2011.545181)) finding of MPs using social media for impression management and self-promotion. It is also to be expected given the anonymous nature of Reddit and the promotional aspect of AMAs. This is in contrast to the hostile environment of political interviews and PMQs found in other studies ([Bull and Strawson, 2019](https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz003/5307955)).
 
-{Note: This blogpost was originally posted on [Medium in November 2019](www.mediun.com/@naiyanjones/politicians-dodging-questions-how-much-do-british-politicians-equivocate-in-online-q-as-358fd981bca1).{: .notice--primary}}
+Note: This blogpost was originally posted on [Medium in November 2019](www.mediun.com/@naiyanjones/politicians-dodging-questions-how-much-do-british-politicians-equivocate-in-online-q-as-358fd981bca1).{: .notice--primary}
