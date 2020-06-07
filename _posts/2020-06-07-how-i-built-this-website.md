@@ -28,45 +28,32 @@ Throghout building this webaite I also searched around and found many resources,
 ### Tech
 
 1. [Jekyll](https://jekyllrb.com/) - for generating the static pages of the site
-
 2. [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) - the Jekyll theme for styling my site
-
 3. [Github](http://jmcglone.com/guides/github-pages/) - for version control
-
 4. [medium-2-md](https://www.gautamdhameja.com/medium-to-markdown-converter/) - importing Medium blog
-
 5. [Optimize-images](https://no-title.victordomingos.com/projects/optimize-images/) - to optimise imported images
-
 6. [Prose.io](http://prose.io/#about) - for writing simple posts
-
 7. [Atom](https://atom.io/) - for file editing
-
 8. [Formspree.io](https://formspree.io/) - for contact page
 
 ### SEO
 
 1. [Google analtyics](https://analytics.google.com/analytics/web/#/) - track traffic
-
 2. [Google Search Console](https://search.google.com/search-console/about) - optimise SEO
 
 ### Languages used
 
 1. [YAML](https://yaml.org/) - for blog posts
-
 2. [Markdown](https://www.markdownguide.org/) - for blog posts
-
 3. [Python](https://www.python.org/) - for using Optimize-images
 
 ### Miscellaneous
 
 1. [FontAwesome](https://fontawesome.com) -  site icons
-
 2. [UnSplash](https://unsplash.com/) - images
-
 3. [Images by Nemanja Manojlovic](https://www.behance.net/nemus) - custom images
 
 ## Helpful resources
 
 1. [Commonmark](https://jekyllrb.com/docs/posts/) - markdown reference guide
-
 2. [Jekyll Tutorial playlist by Mike Dane](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
