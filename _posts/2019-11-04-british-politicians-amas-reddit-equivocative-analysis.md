@@ -11,11 +11,6 @@ tags:
   - Politicians
   - Social media
 excerpt_separator: <!--more-->
-
-feature_row:
-  - image_path: /assets/images/1__pgMcno__LuIFKlwLKcc8s__A.png
-  - image_path: /assets/images/1__gJV__Xeug9FIoe4M8mHzcaA.png
-
 ---
 _This blogpost is the second in a two-part series which outlines the result of my dissertation on MP’s online Q&As sessions on social media._ [_The first detailed the types of questions asked _](https://medium.com/p/e8aaa2f6315)_, and this second one covers MP’s answers. The dissertation received a Distinction from the University of Birmingham, 2019._
 
@@ -39,7 +34,7 @@ _For a fuller account please read my_ [_previous blog post._](https://medium.com
 
 A sample was identified which included 11 MP’s Ask Me Anything (AMA) sessions on Reddit. The sample was made up of 9 men and 3 women.
 
-![](/assets/images/1__Dy2XEFkzms33IlfXuxdDYQ.png)
+![image-center](/assets/images/1__Dy2XEFkzms33IlfXuxdDYQ.png){: .align-center}
 
 Comments were uploaded to [Nvivo 12](https://en.wikipedia.org/wiki/NVivo) for analysis.
 
@@ -110,7 +105,9 @@ When including literal non-replies this was:
 
 Reply rates between individual MPs varied widely. Including and excluding literal non-replies also had an effect on overall rates. This is because some AMAs had higher volumes of comments than others and less comment replies by MPs compared to less popular ones. For example, Nick de Bois MP gave 90% explicit replies in his answers, but when including literal non-replies this dropped to 39%.
 
-{% include feature_row %}
+![image-center](/assets/images/1__pgMcno__LuIFKlwLKcc8s__A.png){: .align-center}
+
+![image-center](/assets/images/1__gJV__Xeug9FIoe4M8mHzcaA.png){: .align-center}
 
 #### Equivocation rates
 
@@ -128,4 +125,4 @@ When measuring for equivocation it was found that incomplete replies was the mos
 
 Rates of personalisation (flattery or attack) were notably low, with only one instance. This lines up with Jackson and Lilleker’s ([2011](https://www.tandfonline.com/doi/abs/10.1080/13572334.2011.545181)) finding of MPs using social media for impression management and self-promotion. It is also to be expected given the anonymous nature of Reddit and the promotional aspect of AMAs. This is in contrast to the hostile environment of political interviews and PMQs found in other studies ([Bull and Strawson, 2019](https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz003/5307955)).
 
-Note: This blogpost was originally posted on [Medium on October 2019](www.mediun.com@naiyanjones/politicians-dodging-questions-how-much-do-british-politicians-equivocate-in-online-q-as-358fd981bca1).{: .notice--primary}
+Note: This blogpost was originally posted on [Medium on October 2019](www.mediun.com/@naiyanjones/politicians-dodging-questions-how-much-do-british-politicians-equivocate-in-online-q-as-358fd981bca1).{: .notice--primary}
