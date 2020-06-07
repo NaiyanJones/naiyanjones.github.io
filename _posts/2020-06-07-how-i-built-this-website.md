@@ -1,4 +1,5 @@
 ---
+title: How I built this website
 published: true
 date:
   'Sun Jun 07 2020 01:00:00 GMT+0100 (British Summer Time)': null
@@ -10,8 +11,6 @@ tags:
   - GitHub
 excerpt_separator: <!--more-->
 ---
-## How this  website was built
-
 Prior to creating this blog I had no experience with making websites at all. The most I have done was use [Medium.com](https://medium.com/about) which involved typing blog posts out in an editor and then clicking publish.
 
 To make this website I installed [Jekyll](https://jekyllrb.com/) and the theme [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) which I then hosted on [GitHub pages](http://jmcglone.com/guides/github-pages/). 
