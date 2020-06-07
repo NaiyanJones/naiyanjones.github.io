@@ -2,7 +2,7 @@
 title: >-
   What type of questions do people ask British politicians in online Q&As? A
   thematic analysis of MP’s “Ask Me Anything” sessions on Reddit
-published: false
+published: true
 date: {2019-11-04}
 categories:
   - Politics
@@ -13,7 +13,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-_This blogpost is the first in a two-part series which outlines the result of a study on MP’s social media Q&As sessions. This first post details the themes of questions asked,_ [_the second on the extent to which MPs answered said questions_](https://medium.com/p/358fd981bca1/)_. The dissertation received a Distinction from the University of Birmingham, 2019._
+_This blogpost is the first in a two-part series which outlines the result of a study on MP’s social media Q&As sessions. This first post details the themes of questions asked,_ [_the second on the extent to which MPs evaded answering questions_](/_posts/2019-11-04-british-politicians-amas-reddit-equivocative-analysis)_. The dissertation received a Distinction from the University of Birmingham, 2019._
 
 ![](/assets/images/0__zUrDMfVTl65kXEA8.jpg)
 
@@ -49,7 +49,7 @@ There has been no rigorous large scientific surveys of British users to date. In
 
 [Alexa Ranking](https://www.alexa.com/siteinfo/reddit.com) which records desktop web traffic notes 8% of Reddit traffic is from the UK. This does not track the [40% of users who use the official mobile app.](https://www.reddit.com/r/announcements/comments/5q4qmg/out_with_2016_in_with_2017/?st=iydbz2gd&sh=ecdd146b)
 
-Users of certain British subreddits have conducted their own user surveys.These surveys can be used to given an indication of demographics but must be approached with caution given their lack of scientific rigor. The British political subreddit /r/ukpolitics [ran a survey](https://www.reddit.com/r/ukpolitics/comments/8dve8g/april_rukpolitics_opinion_poll_results/) which had approximately 900 respondents. This survey reported:
+Users of certain British subreddits have conducted their own user surveys. These surveys can be used to given an indication of demographics but must be approached with caution given their lack of scientific rigor. The British political subreddit /r/ukpolitics [ran a survey](https://www.reddit.com/r/ukpolitics/comments/8dve8g/april_rukpolitics_opinion_poll_results/) which had approximately 900 respondents. This survey reported:
 
 *   71% of users were between the ages of 18 to 29
 *   95% identified as male
@@ -218,4 +218,5 @@ Lastly, the theme of non-political and humorous questions bares striking similar
 
 _This ends the first in a two part series. This post covered the themes of questions asked, the second will cover the extent to which MPs answered questions_
 
-Note: This blogpost was originally posted on [Medium in November 2019](www.mediun.com/what-type-of-questions-do-people-ask-british-politicians-in-online-q-as-e8aaa2f6315f).{: .notice--primary}
+Note: This blogpost was originally posted on [Medium in November 2019](https://mediun.com/what-type-of-questions-do-people-ask-british-politicians-in-online-q-as-e8aaa2f6315f).
+{: .notice--primary}

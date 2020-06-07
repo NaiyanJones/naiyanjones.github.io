@@ -12,7 +12,7 @@ tags:
   - Social media
 excerpt_separator: <!--more-->
 ---
-_This blogpost is the second in a two-part series which outlines the result of my dissertation on MP’s online Q&As sessions on social media._ [_The first detailed the types of questions asked _](https://medium.com/p/e8aaa2f6315)_, and this second one covers MP’s answers. The dissertation received a Distinction from the University of Birmingham, 2019._
+_This blogpost is the second in a two-part series which outlines the result of my dissertation on MP’s online Q&As sessions on social media._ [_The first detailed the types of questions asked _](/_posts/2019-11-04-british-politicians-amas-reddit-thematic-analysis)_, and this second one covers MP’s answers. The dissertation received a Distinction from the University of Birmingham, 2019._
 
 ![](/assets/images/0__mJ8VPU1azTAQ2Q6d.jpg)
 
@@ -125,4 +125,5 @@ When measuring for equivocation it was found that incomplete replies was the mos
 
 Rates of personalisation (flattery or attack) were notably low, with only one instance. This lines up with Jackson and Lilleker’s ([2011](https://www.tandfonline.com/doi/abs/10.1080/13572334.2011.545181)) finding of MPs using social media for impression management and self-promotion. It is also to be expected given the anonymous nature of Reddit and the promotional aspect of AMAs. This is in contrast to the hostile environment of political interviews and PMQs found in other studies ([Bull and Strawson, 2019](https://academic.oup.com/pa/advance-article-abstract/doi/10.1093/pa/gsz003/5307955)).
 
-Note: This blogpost was originally posted on [Medium in November 2019](www.mediun.com/@naiyanjones/politicians-dodging-questions-how-much-do-british-politicians-equivocate-in-online-q-as-358fd981bca1).{: .notice--primary}
+Note: This blogpost was originally posted on [Medium in November 2019](https://mediun.com/@naiyanjones/politicians-dodging-questions-how-much-do-british-politicians-equivocate-in-online-q-as-358fd981bca1).
+{: .notice--primary}

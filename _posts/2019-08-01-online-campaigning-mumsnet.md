@@ -73,11 +73,12 @@ Given the humours nature of the Biscuit Question I’ll enlighten you dear reade
 
 ### Wrapping up
 
-Mumsnet is an interesting case study of early online political campainging on a website 10 years ago.² You can see why politicians saw it as important, even if there was concerns about anonymity. And in retrospect it did not have much of an impact on election. But it is an early example of what people take a bit more for granted now. And a great episode illustrating how people like to interact with politicians online with both serious and humorous questions. 
+Mumsnet is an interesting case study of early online political campainging on a website 10 years ago.² You can see why politicians saw it as important, even if there was concerns about anonymity. And in retrospect it did not have much of an impact on election. But it is an early example of what people take a bit more for granted now. And a great episode illustrating how people like to interact with politicians online with both serious and humorous questions.
 
 #### Footnotes
 
 1.  It should be noted that a ‘census’ is a survey of an entire population strictly speaking. Any survey which is does not have the full population responding shouldn’t be called a census by definition. ‘User survey’ would be more apt. I relay this interesting fact from a time I was admonished by a very grouchy statistician.
 2.  Replace with social platform, online forum, online community, online mediated community, etc depending on your favorite jargon and academic discipline. Pick your poison basically.
 
-Note: This blogpost was originally posted on [Medium in August 2019](www.mediun.com/@naiyanjones/online-political-campaigning-and-biscuits-the-case-of-mumsnet-4b4c64dbce5a).{: .notice--primary}
+Note: This blogpost was originally posted on [Medium in August 2019](https://mediun.com/@naiyanjones/online-political-campaigning-and-biscuits-the-case-of-mumsnet-4b4c64dbce5a).
+{: .notice--primary}
