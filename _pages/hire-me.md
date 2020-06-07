@@ -5,8 +5,7 @@ permalink: /hire-me/
 
 I can bring a real qualified social research perspective towards projects. My skill set equips me to contribute towards user and market research, policy development, and social media roles.
 
-If your looking to fill a position or need contract work check out my skill set below and contact me.
-
+If your looking to fill a position or need contract work check out my skill below and let's [chat](/_pages/contact/).
 
 ### Hard skills
 #### Research
@@ -18,12 +17,12 @@ If your looking to fill a position or need contract work check out my skill set 
 * Observation and ethnography
 * Descriptive statistics
 * Regression analysis
-* Mixed methods study approach
+* Mixed methods
 
 #### Technical skills
 **Intermediate**: Microsoft Office, Google Docs
 
-**Beginner**: Nvivo, IBM SPSS, Python, YAML, GitHub, Jekyll 
+**Beginner**: Nvivo, IBM SPSS, Python, YAML, GitHub and Jekyll 
 
 ### Soft skills
-Team management, public speaking, stakeholder engagement, 
+Public speaking, stakeholder engagement and team work.
