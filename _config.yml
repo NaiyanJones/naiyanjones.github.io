@@ -24,9 +24,6 @@ github_username: naiyanjones
 minimal_mistakes_skin: default
 search: true
 
-#Google Consolse verification link
-google-site-verification: googlea12c961b65287bab.html
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
