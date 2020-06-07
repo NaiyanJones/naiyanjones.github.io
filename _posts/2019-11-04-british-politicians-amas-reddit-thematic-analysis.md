@@ -31,10 +31,6 @@ These AMAs can give several insights. Firstly it shows the things people think a
 
 In addition this work fills a gap in the political science social media literature, which has mainly focused on Twitter, and to a less extent Facebook, using what is called digital trace data, like @-messages, retweets, likes or #hastags ([Jungherr, 2016](https://www.tandfonline.com/doi/abs/10.1080/19331681.2015.1132401)). It also fills a gap in the wider “Reddit literature” I identified in my [other work](https://towardsdatascience.com/a-systematized-literature-review-of-reddit-dd2acbe6ebc4).
 
-![](img\0__lkiKIONMFu2hLzDT.jpg)
-![](img\0__AVlw8LaroA20XmSM.jpg)
-![](img\0__swklK3SorTXD9V9i.jpg)
-
 ### Demographics
 
 Large scientific surveys of Reddit have primarily focused on American samples.
@@ -80,7 +76,7 @@ I identified 40 AMAs from a range of political actors including: party campaigne
 
 Out of these 40 there were 13 MPs. I excluded two AMAs on grounds of them being non-comparable. One involved answering questions via Youtube and the other one selectively answered questions 8 days after the AMA had taken place.
 
-![](/assets/images/1__Dy2XEFkzms33IlfXuxdDYQ.png)
+![image-center](/assets/images/1__Dy2XEFkzms33IlfXuxdDYQ.png){: .align-center}
 
 In total 11 AMAs were selected, comprising of 2,301 comments for analysis.
 
@@ -111,9 +107,10 @@ And on a broader level the British public’s concerns about online data and pri
 
 After analysis 14 major and 34 minor themes were identified from 713 individual questions asked.
 
+![](/assets/images/1__eat4CSQt6dL__x85omxWUkQ.png)
+
 Major themes were identified post-analysis. They were defined by a gap in popularity by the number of questions asked. With the next theme being half as popular by questions asked as the preceding theme.
 
-![](/assets/images/1__eat4CSQt6dL__x85omxWUkQ.png)
 ![](/assets/images/1__OafX__qZEpgu3OrvhhRNgdQ.png)
 
 As seen above, most questions were on the EU and Brexit, elections and campaigning, party political issues, and non-political and humour. Housing (notably being the first non-EU related policy issue), the lives of MPs, economic, democratic deficit, drugs, immigration, digital, constituency, welfare, and electoral themed questions in order of popularity.
@@ -130,8 +127,6 @@ Elections and campaigns were heavily discussed, with questions centring around p
 
 This theme covered political parties themselves, including internal conflict between factions, the record of parties in government, and perceptions of political parties by the wider public. Internal conflict was mainly centred around Jeremy Corbyn and challenges and resignations by Labour MPs. While the Liberal Democrat were challenged on their record in government as junior coalition partners during the Conservative-Liberal Coalition Government. Lastly questions revolved around perceived negative perceptions of political parties by the wider public, with Liberal Democrats worried about being “taken seriously”, Labour being out of touch, and the Conservatives as being “inherently evil, the spawn of Satan”.
 
-![](/assets/images/0__ccmJnUKuObNZNPbM.jpg)
-
 #### Non-political humour
 
 Non-political and humorous questions were popular reflecting the ethos of Reddit’s Ask Me Anything format, with the emphasis on _Anything._ Questions ranged from the choice between “hash browns or black puddings?”, “is Jaffa Cake a biscuit or cake?” to “What would you rather fight, one David Cameron sized duck, or 100 duck sized David Camerons?’. A reference to a [popular Reddit meme](https://knowyourmeme.com/memes/horse-sized-duck) often asked in AMAs.
@@ -143,8 +138,6 @@ People showed an interest in the lives of MPs themselves as individuals. Users a
 #### Housing
 
 Housing was a frequent policy issue and mentioned in all AMAs. People were concerned about about the affordability, supply and demand. Supply questions included the design of new builds, building restrictions on greenbelt land, restrictions on local government, and the potential for investment by central government. Demand issues were mainly concerned with migration from the 1997–2010 Labour administrations.
-
-![](/assets/images/0__6ysbcWII2nsIOOGo.jpg)
 
 #### The economy
 
@@ -158,8 +151,6 @@ This theme encompasses questions about the existence and reasons for a disconnec
 
 MPs were solicited for their views and perceived barriers to drug reform, including lack of evidence-led policy. They were asked if anything was “happening about drug legislation… within the next four years”, their “views on the current state of the drug policy in the UK”, and if drugs were a “major policy issue come the next election”. At the same time users recognised that drug reform was a relatively niche compared to other “serious issues” and one user prefaced their question with “I know drug reform is pretty much impossible in this country, but…”.
 
-![](/assets/images/0__nRrB0NrrkHSmvzno.jpg)
-
 #### Immigration
 
 Immigration was a recurring theme which appeared in every AMA minus one. Immigration was heavily correlated with other policy issues. It was discussed in terms of the Leave and Remain campaigns and rhetoric, its impact on housing, and the present and past policies of political parties. The Labour Party and the Remain campaign were singled out for having a ‘blind spot’ towards immigration which has negatively affected the employment opportunities of the working class.
@@ -168,12 +159,9 @@ Immigration was a recurring theme which appeared in every AMA minus one. Immigra
 
 Digital issues comprised of questions about general internet censorship, to specific legislation, and campaigns against said legislation. For example, pornographic filters during David Cameron’s administration, mass surveillance and civil liberties encroachment from the Investigatory Powers Act 2016 (dubbed the “Snooper’s charter”). Overall accessing content on the internet and filters were discussed in terms of an “open internet” being encroached by “disproportionate and unsafe” policy proposals.
 
-#### **Constituency issues**
+#### Constituency issues
 
 The majority of AMAs each contained a question about the MP’s constituency with users disclosing or indicating they were constituents interested in local issues. This ranged from broad questions on how MPs had represented their constituency “in the House of Commons on local issues”, the future of a local hospital, transport infrastructure, the effects of an RAF base closure, and what could be done about “decent telecoms infrastructure”.
-
-![](/assets/images/0__wWhbjy9BG1QZEPli.jpg)
-
 
 #### Welfare
 
@@ -182,8 +170,6 @@ Welfare questions were diverse, with people concerned about with current welfare
 #### Electoral reform
 
 Electoral reform encompassed explicit alternative voting system to first past the post (FPTP), to lowering the voting age to 16, and reforming the House of Commons and House of Lords. MPs were solicited for their views, support and also their party’s support of these reforms.
-
-![](/assets/images/1__aBM3chjPQFc2Q5BLqj__2cw.jpeg)
 
 ### Discussion
 
