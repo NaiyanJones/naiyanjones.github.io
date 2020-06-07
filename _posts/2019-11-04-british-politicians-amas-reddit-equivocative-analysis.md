@@ -11,6 +11,11 @@ tags:
   - Politicians
   - Social media
 excerpt_separator: <!--more-->
+
+feature_row1:
+  - image_path: /assets/images/1__pgMcno__LuIFKlwLKcc8s__A.png
+  - image_path: /assets/images/1__gJV__Xeug9FIoe4M8mHzcaA.png
+
 ---
 _This blogpost is the second in a two-part series which outlines the result of my dissertation on MP’s online Q&As sessions on social media._ [_The first detailed the types of questions asked _](https://medium.com/p/e8aaa2f6315)_, and this second one covers MP’s answers. The dissertation received a Distinction from the University of Birmingham, 2019._
 
@@ -105,8 +110,7 @@ When including literal non-replies this was:
 
 Reply rates between individual MPs varied widely. Including and excluding literal non-replies also had an effect on overall rates. This is because some AMAs had higher volumes of comments than others and less comment replies by MPs compared to less popular ones. For example, Nick de Bois MP gave 90% explicit replies in his answers, but when including literal non-replies this dropped to 39%.
 
-![](img\1__gJV__Xeug9FIoe4M8mHzcaA.png)
-![](img\1__pgMcno__LuIFKlwLKcc8s__A.png)
+{% include feature_row1 %}
 
 #### **Equivocation** rates
 
