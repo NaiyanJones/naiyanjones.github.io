@@ -10,6 +10,11 @@ tags:
   - Social media
   - Methodology
 excerpt_separator: <!--more-->
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-168799890-1"
+    anonymize_ip: false # default
 ---
 
 ![](/assets/images/0__RGxIbUJ3xOcUCTax.jpg)
