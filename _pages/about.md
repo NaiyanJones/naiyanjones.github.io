@@ -1,6 +1,11 @@
 ---
 permalink: /about/
 title: "About"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-168799890-1"
+    anonymize_ip: false # default
 ---
 
 Hi, I'm Naiyan. Or as most people call me, Nay.
