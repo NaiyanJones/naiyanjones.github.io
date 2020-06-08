@@ -11,6 +11,11 @@ tags:
   - Politicians
   - Social media
 excerpt_separator: <!--more-->
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-168799890-1"
+    anonymize_ip: false # default
 ---
 
 _This blogpost is the first in a two-part series which outlines the result of a study on MP’s social media Q&As sessions. This first post details the themes of questions asked,_ [_the second on the extent to which MPs evaded answering questions_](https://naiyanjones.github.io/politics/british-politicians-amas-reddit-equivocative-analysis/)_. The dissertation received a Distinction from the University of Birmingham, 2019._
