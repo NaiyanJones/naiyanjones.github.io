@@ -1,6 +1,11 @@
 ---
 permalink: /contact/
 title: "Contact"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-168799890-1"
+    anonymize_ip: false # default
 ---
 
 Interested in my work or looking to fill a position? Then let's chat and connect using the form below.
