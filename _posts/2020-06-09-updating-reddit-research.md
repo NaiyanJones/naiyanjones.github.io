@@ -21,7 +21,7 @@ Over the past several months I've paused on writing about Reddit because of pers
 
 I thoroughly enjoyed my master's at Birmingham and everything I learned. But in the end, I decided due to my mental health I wouldn't be pursuing a PhD in autumn 2019.
 
-Following on from that at the start of 2020 my father had a heart attack. Luckily, I was at the house at the time and performed CPR until the ambulance came. He was hospitalised, recovered and was discharged before Covid-19 became a major issue in the UK. So dodged a bullet there given his at risk category.
+Following on from that at the start of 2020 my father had a heart attack. Luckily, I was at the house at the time and performed CPR until the ambulance came. He was hospitalised, recovered and was discharged. Since then he has slowly been improving his health for the better and I've been supporting him.
 
 ### Switching to Zotero
 
