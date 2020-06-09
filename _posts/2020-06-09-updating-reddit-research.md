@@ -1,6 +1,6 @@
 ---
 title: An update on Reddit research and going forward
-published: false
+published: true
 date:
   'Mon Jun 09 2020 01:00:00 GMT+0100 (British Summer Time)': null
 categories:
