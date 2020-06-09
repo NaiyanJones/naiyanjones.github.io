@@ -1,0 +1,53 @@
+---
+published: false
+date:
+  'Mon Jun 09 2020 01:00:00 GMT+0100 (British Summer Time)': null
+categories:
+  - Reddit
+tags:
+  - Literature review
+  - Zotero
+excerpt_separator: <!--more-->
+analytics:
+  provider: google-gtag
+  google:
+    tracking_id: UA-168799890-1
+    anonymize_ip: false
+---
+Over the past several months I've paused on writing about Reddit because of personal and professional reasons. I've still been keeping up to date through Google Scholar alerts, but that's as substantive as it's got.
+
+### The personal
+
+I thoroughly enjoyed my master's at Birmingham and everything I learned. But in the end, I decided due to my mental health I wouldn't be pursuing a PhD in autumn 2019.
+
+Following on from that at the start of 2020 my father had a heart attack. Luckily, I was at the house at the time and performed CPR until the ambulance came. He was hospitalised, recovered and was discharged before Covid-19 became a major issue in the UK. So dodged a bullet there given his at risk category.
+
+### Switching to Zotero
+
+In the process of winding down from my postgraduate I wanted to keep my references for, well, reference and further reading. I decided to switch to Zotero from RefWorks given it was free and open source. In the transfer process a lot of my references were corrupted. Now during lockdown with a lot of time on my hands I'm slowly building my database back again and manually reviewing that the citations are correct. All 700 plus of them. Fun.
+
+### Onwards research!
+
+In all respects I could have stopped and not bothered continuing with this research. Why didn't I?
+
+Firstly, and honestly, I still find Reddit and studies on or involving it fascinating. There's such a diversity of articles and papers. Of disciplines. Approaches. Research interests and phenomena studied. There's definitely enough to keep me interested. Even though I haven't been updating files I still check out my Google Scholar alerts every week or so.
+
+Secondly, I have time on my hands during lockdown and being under-employed. There's only so much time you can waste on your laptop. Time do something more productive.
+
+Lastly, to be a bit brazen, I believe it's a good thing to give back to Social Science™. Over the months I've had researchers and students reach out to me. From early years researchers, tenured and professors. From undergraduate and postgraduate students. And helping someone gives me a nice warm fuzzy feeling. Call it a bit of altruism or cognitive self-interest for you economists out there.
+
+### Next steps and goals
+
+My next steps in vague order:
+
+1. Review all existing Reddit references and correct on Zotero if need be.
+2. Add new studies from April 2020 onwards.
+3. Write and publish a new blog post on the results.
+4. Continue drafting a literature review and upload to a pre-print repository like [arxiv](https://arxiv.org/) or [SSRN](https://www.ssrn.com/index.cfm/en/).
+5. Update and post on [/r/AcademicReddit]( https://reddit.com/r/AcademicReddit/) as a form of public outreach and easy online Reddit study aggregator.
+6. Provide a bibliographic website page similar to Danah Boyd's [Bibliography of Research on Social Network Sites](http://www.danah.org/researchBibs/sns.php).
+7. Get feedback from my academic network before submitting to a journal.
+8. Publish a list of referenced works so it's easy to browse through by any researcher not matter the skill level - either in a standalone interactive website, Google Sheets, etc.
+
+
+
