@@ -1,4 +1,5 @@
 ---
+title: An update on Reddit research and going forward
 published: false
 date:
   'Mon Jun 09 2020 01:00:00 GMT+0100 (British Summer Time)': null
@@ -14,7 +15,7 @@ analytics:
     tracking_id: UA-168799890-1
     anonymize_ip: false
 ---
-Over the past several months I've paused on writing about Reddit because of personal and professional reasons. I've still been keeping up to date through Google Scholar alerts, but that's as substantive as it's got.
+Over the past several months I've paused on writing about Reddit because of personal and professional reasons. This is an update on that, next steps and overall goals on my [literature review](http://naiyanjones.com/reddit/systematized-literature-review-of-reddit/), [previous work](http://naiyanjones.com/politics/british-politicians-amas-reddit-thematic-analysis/) and potential future work.
 
 ### The personal
 
@@ -24,15 +25,15 @@ Following on from that at the start of 2020 my father had a heart attack. Luckil
 
 ### Switching to Zotero
 
-In the process of winding down from my postgraduate I wanted to keep my references for, well, reference and further reading. I decided to switch to Zotero from RefWorks given it was free and open source. In the transfer process a lot of my references were corrupted. Now during lockdown with a lot of time on my hands I'm slowly building my database back again and manually reviewing that the citations are correct. All 700 plus of them. Fun.
+In the process of winding down from my postgraduate I wanted to keep my references for, well, reference and further reading. I decided to switch to [Zotero](https://www.zotero.org/) from RefWorks given it was free and open source. In the transfer process a lot of my references were corrupted. Now during lockdown with a lot of time on my hands I'm slowly building my database back again and manually reviewing that the citations are correct. All 700 plus of them. Fun.
 
 ### Onwards research!
 
 In all respects I could have stopped and not bothered continuing with this research. Why didn't I?
 
-Firstly, and honestly, I still find Reddit and studies on or involving it fascinating. There's such a diversity of articles and papers. Of disciplines. Approaches. Research interests and phenomena studied. There's definitely enough to keep me interested. Even though I haven't been updating files I still check out my Google Scholar alerts every week or so.
+Firstly, and honestly, I still find Reddit and studies on or involving it fascinating. [There's such a diversity of articles and papers](http://naiyanjones.com/reddit/reddit-and-academic-research/). Of disciplines. Approaches. Research interests and phenomena studied. There's definitely enough to keep me interested. Even though I haven't been updating files I still check out my Google Scholar alerts every week or so.
 
-Secondly, I have time on my hands during lockdown and being under-employed. There's only so much time you can waste on your laptop. Time do something more productive.
+Secondly, I have time on my hands during lockdown and being under-employed. There's only so much time you can waste on your laptop. Time do something more productive. From leaning R and Python for future projects, to [building this webiste](http://naiyanjones.com/personal/how-i-built-this-website/), and "finishing" my Reddit search.
 
 Lastly, to be a bit brazen, I believe it's a good thing to give back to Social Science™. Over the months I've had researchers and students reach out to me. From early years researchers, tenured and professors. From undergraduate and postgraduate students. And helping someone gives me a nice warm fuzzy feeling. Call it a bit of altruism or cognitive self-interest for you economists out there.
 
