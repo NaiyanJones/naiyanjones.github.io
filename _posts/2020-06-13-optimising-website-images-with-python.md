@@ -26,7 +26,7 @@ Desktop speed was looking good.
 
 Mobile.... not so good.
 
-![image-center](mobile_before_opti.PNG){: .align-center}
+![image-center](/assets/images/mobile_before_opti.PNG){: .align-center}
 
 So off I went to find a way to optimise all my images, which led me to [optimize-images](https://pypi.org/project/optimize-images/) written in Python. I'm a simple man and so was the module. I ran it through the command line and chose my folder full of images.
 
@@ -44,5 +44,4 @@ As you can see the results were pretty good for desktop.
 
 And brilliant for mobile!
 
-![image-center](mobile_after_opti.PNG){: .align-center}
-
+![image-center](/assets/images/mobile_after_opti.PNG){: .align-center}
