@@ -7,14 +7,13 @@ categories:
   - Personal
 tags:
   - Website
-  - Learning to code
   - Programming
 excerpt_separator: <!--more-->
 analytics:
-  provider: "google-gtag"
+  provider: google-gtag
   google:
-    tracking_id: "UA-168799890-2"
-    anonymize_ip: false # default
+    tracking_id: UA-168799890-2
+    anonymize_ip: false
 ---
 I had no previous experience with making websites at all. The most I have done was use [Medium.com](https://medium.com/about) which involved typing blog posts out in an editor and then clicking publish. So building this website was a fun learning experience.
 
