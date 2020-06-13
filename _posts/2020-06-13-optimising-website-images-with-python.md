@@ -16,8 +16,6 @@ analytics:
     anonymize_ip: false
 title: Optimising website images with Python
 ---
-## Optimising website images with Python
-
 After downloading all the images from my Medium posts with [medium-2-md](https://www.gautamdhameja.com/medium-to-markdown-converter/) and uploading custom images I plugged my site into Google's [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/).
 
 Desktop speed was looking good.
