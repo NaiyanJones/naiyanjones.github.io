@@ -12,7 +12,7 @@ published: true
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-168799890-1"
+    tracking_id: "UA-168799890-2"
     anonymize_ip: false # default
 ---
 ![](/assets/images/1__Wp3aQTdHc0EtkgUQde2n9A.jpeg)

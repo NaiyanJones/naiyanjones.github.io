@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 analytics:
   provider: google-gtag
   google:
-    tracking_id: UA-168799890-1
+    tracking_id: "UA-168799890-2"
     anonymize_ip: false
 ---
 Over the past several months I've paused on writing about Reddit because of personal and professional reasons. This is an update on that, next steps and overall goals on my [literature review](http://naiyanjones.com/reddit/systematized-literature-review-of-reddit/), [previous work](http://naiyanjones.com/politics/british-politicians-amas-reddit-thematic-analysis/) and potential future work.
@@ -49,6 +49,3 @@ My next steps in vague order:
 6. Provide a bibliographic website page similar to Danah Boyd's [Bibliography of Research on Social Network Sites](http://www.danah.org/researchBibs/sns.php).
 7. Get feedback from my academic network before submitting to a journal.
 8. Publish a list of referenced works so it's easy to browse through by any researcher not matter the skill level - either in a standalone interactive website, Google Sheets, etc.
-
-
-

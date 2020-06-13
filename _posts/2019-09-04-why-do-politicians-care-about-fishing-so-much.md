@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-168799890-1"
+    tracking_id: "UA-168799890-2"
     anonymize_ip: false # default
 ---
 {% include figure image_path="/assets/images/1__XoIGNxq9JpgSXW8UurizqA.jpeg" caption="Credit: Two British fishing trawlers. Source: The Times." %}

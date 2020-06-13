@@ -4,7 +4,7 @@ permalink: /hire-me/
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-168799890-1"
+    tracking_id: "UA-168799890-2"
     anonymize_ip: false # default
 ---
 
@@ -27,7 +27,7 @@ If your looking to fill a position or need contract work check out my skill belo
 #### Technical skills
 **Intermediate**: Microsoft Office, Google Docs
 
-**Beginner**: Nvivo, IBM SPSS, Python, YAML, GitHub and Jekyll 
+**Beginner**: Nvivo, IBM SPSS, Python, YAML, GitHub and Jekyll
 
 ### Soft skills
 Public speaking, stakeholder engagement and team work.
