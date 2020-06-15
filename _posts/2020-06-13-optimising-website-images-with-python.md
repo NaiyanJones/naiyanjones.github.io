@@ -20,7 +20,7 @@ Previously I had downloaded all the images from my Medium posts with [medium-2-m
 
 Desktop speed was looking good.
 
-![image-center](/assets/images/desktop_before_opti.PNG){: .align-center}{:height="40%" width="40%"}
+![image-center](/assets/images/desktop_before_opti.PNG){: .align-center}{: .align-center}{:height="45%" width="45%"}
 
 Mobile.... not so good.
 
@@ -32,16 +32,16 @@ To install:
 
 `pip3 install pillow optimize-images`
 
-Choose folder path filling in the blanks afetr ./:
+Choose folder path filling in the blanks after `./`:
 
 `optimize-images ./`
 
 After that I re-uploaded my now optimised images to GitHub. As you can see the results were pretty good for desktop.
 
-![image-center](/assets/images/desktop_after_opti.PNG){: .align-center}{: .align-center}{:height="35%" width="35%"}
+![image-center](/assets/images/desktop_after_opti.PNG){: .align-center}{: .align-center}{:height="45%" width="45%"}
 
 And brilliant for mobile!
 
-![image-center](/assets/images/mobile_after_opti.PNG){: .align-center}{: .align-center}{:height="35%" width="35%"}
+![image-center](/assets/images/mobile_after_opti.PNG){: .align-center}{: .align-center}{:height="45%" width="45%"}
 
-So there we have it. Optimising images with Python through command line resulting in much higher page speeds and webstite optimisation!
+So there we have it. Optimising images with Python through command line resulting in much higher page speeds and webstite optimisation.
