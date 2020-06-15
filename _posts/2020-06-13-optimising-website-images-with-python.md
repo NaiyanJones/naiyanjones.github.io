@@ -20,7 +20,7 @@ Previously I had downloaded all the images from my Medium posts with [medium-2-m
 
 Desktop speed was looking good.
 
-![image-center](/assets/images/desktop_before_opti.PNG){: .align-center}{:height="30%" width="30%"}.
+![image-center](/assets/images/desktop_before_opti.PNG){: .align-center}{:height="10%" width="10%"}
 
 Mobile.... not so good.
 
