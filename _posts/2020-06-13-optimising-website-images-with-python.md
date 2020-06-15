@@ -30,7 +30,7 @@ Mobile.... not so good.
 
 The culprit? Some very large image sizes. Seriosuly look at that 1.7 seconds and banner size.
 
-![image-center](/assets/images/Google PageSpeed Insights.PNG){: .align-center}{: .align-center}
+![image-center](/assets/images/Google PageSpeed Insights.PNG){: .align-center}
 
 So off I went to find a way to optimise all my images, which led me to [optimize-images](https://pypi.org/project/optimize-images/) written in Python. I'm a simple man and so was the module. I ran it through the command line and selected my folder full of images.
 
