@@ -20,11 +20,11 @@ Previously I had downloaded all the images from my Medium posts with [medium-2-m
 
 Desktop speed was looking good.
 
-![image-center](/assets/images/desktop_before_opti.PNG){: .align-center}{:height="90%" width="90%"}
+![image-center](/assets/images/desktop_before_opti.PNG){: .align-center}{:height="40%" width="40%"}
 
 Mobile.... not so good.
 
-![image-center](/assets/images/mobile_before_opti.PNG){: .align-center}
+![image-center](/assets/images/mobile_before_opti.PNG){: .align-center}{: .align-center}{:height="45%" width="45%"}
 
 So off I went to find a way to optimise all my images, which led me to [optimize-images](https://pypi.org/project/optimize-images/) written in Python. I'm a simple man and so was the module. I ran it through the command line and selected my folder full of images I had got off Medium.
 
@@ -38,8 +38,10 @@ Choose folder path filling in the blanks afetr ./:
 
 After that I re-uploaded my now optimised images to GitHub. As you can see the results were pretty good for desktop.
 
-![image-center](/assets/images/desktop_after_opti.PNG){: .align-center}
+![image-center](/assets/images/desktop_after_opti.PNG){: .align-center}{: .align-center}{:height="35%" width="35%"}
 
 And brilliant for mobile!
 
-![image-center](/assets/images/mobile_after_opti.PNG){: .align-center}
+![image-center](/assets/images/mobile_after_opti.PNG){: .align-center}{: .align-center}{:height="35%" width="35%"}
+
+So there we have it. Optimising images with Python through command line resulting in much higher page speeds and webstite optimisation!
