@@ -32,7 +32,7 @@ The culprit? Some very large image sizes. Seriosuly look at that 1.7 seconds and
 
 ![image-center](/assets/images/Google PageSpeed Insights.PNG){: .align-center}
 
-So off I went to find a way to optimise all my images, which led me to [optimize-images](https://pypi.org/project/optimize-images/) written in Python. I'm a simple man and so was the module. I ran it through the command line and selected my folder full of images.
+So off I went to find a way to optimise all my images, which led me to [optimize-images](https://pypi.org/project/optimize-images/). A Python module which you can run through the command line. All you have to do is select an image or folder containing images.  
 
 To install:
 
@@ -50,4 +50,4 @@ And brilliant for mobile!
 
 ![image-center](/assets/images/mobile_after_opti.PNG){: .align-center}{: .align-center}{:height="45%" width="45%"}
 
-So there we have it. Optimising images with Python through command line resulting in much higher page speeds and webstite optimisation.
+So there we have it. Optimising images with Python can be very quick and painless with massive gains for website speed, especially on mobile.
