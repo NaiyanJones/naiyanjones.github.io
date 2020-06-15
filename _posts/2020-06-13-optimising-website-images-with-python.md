@@ -14,9 +14,11 @@ analytics:
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
-title: Optimising website images with Python
+title: Optimising images for your website with Python
 ---
-Previously I had downloaded all the images from my Medium posts with [medium-2-md](https://www.gautamdhameja.com/medium-to-markdown-converter/) and then added custom images to this website. I then plugged my site into Google's [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/) to see how my website was fairing.
+In the process of [making a new personal website](https://naiyanjones.com/personal/how-i-built-this-website/) I downloaded all my [Medium posts](https://medium.com/@naiyanjones) with  [medium-2-md](https://www.gautamdhameja.com/medium-to-markdown-converter/).
+
+After I was all done porting posts across I plugged my website into Google's [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/) to see how my website was fairing.
 
 Desktop speed was looking good.
 
@@ -26,7 +28,11 @@ Mobile.... not so good.
 
 ![image-center](/assets/images/mobile_before_opti.PNG){: .align-center}{: .align-center}{:height="45%" width="45%"}
 
-So off I went to find a way to optimise all my images, which led me to [optimize-images](https://pypi.org/project/optimize-images/) written in Python. I'm a simple man and so was the module. I ran it through the command line and selected my folder full of images I had got off Medium.
+The culprit? Some very large image sizes. Seriosuly look at that 1.7 seconds and banner size.
+
+![image-center](/assets/images/google_pageppeed_insights.PNG){: .align-center}{: .align-center}{:height="45%" width="45%"}
+
+So off I went to find a way to optimise all my images, which led me to [optimize-images](https://pypi.org/project/optimize-images/) written in Python. I'm a simple man and so was the module. I ran it through the command line and selected my folder full of images.
 
 To install:
 
