@@ -11,10 +11,10 @@ tags:
   - Literature review
 excerpt_separator: <!--more-->
 analytics:
-  provider: "google-gtag"
+  provider: google-gtag
   google:
-    tracking_id: "UA-168799890-2"
-    anonymize_ip: false # default
+    tracking_id: UA-168799890-2
+    anonymize_ip: false
 ---
 
 ![](/assets/images/1__6dAXo18vmZ3KiR75TE2XwQ.png)
@@ -51,7 +51,6 @@ This review stopped at works published in early May. Considering the trend I wou
 The majority of studies are quantitative, followed by qualitative and mixed method. Studies situated in Computer Science and Human Computer Interaction (HCI) were overwhelmingly quantitative. Mixed method studies tended to be from projects with multiple researchers who brought with them a diversity of skills to best approach the research aim. Qualitative studies were common across most disciplines.
 
 ![Note: this number does not add up to 211 because it excludes non-empirical studies and chapters in edited collections which were derived from empirical studies from journals.](img\1__7wKJoIJauF__Nsfo54jTwJg.png)
-Note: this number does not add up to 211 because it excludes non-empirical studies and chapters in edited collections which were derived from empirical studies from journals.
 
 ### Which disciplines study Reddit?
 
@@ -61,7 +60,7 @@ The overwhelming majority of studies are from Computer Science, followed by a mi
 
 Excluding Computer Science helps visualise the rest of the social sciences a bit easier.
 
-![](/assets/images/__fsCXhCpkJiBWvqiOMqHAsQ.png)
+![](/assets/images/1__fsCXhCpkJiBWvqiOMqHAsQ.png)
 
 As a side note, I wasn’t expecting to find a study from Music Studies when I originally conducted this review. This study was by Kovacevich and Huron ([2018](http://emusicology.org/article/view/6012)) and focused on Autonomous Sensory Meridian Response (ASMR) music and the /r/ASMR subreddit. Interesting stuff.
 
