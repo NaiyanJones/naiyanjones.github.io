@@ -14,6 +14,9 @@ analytics:
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 
 ![](/assets/images/1__6dAXo18vmZ3KiR75TE2XwQ.png)
