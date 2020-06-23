@@ -140,7 +140,7 @@ This theme covered political parties themselves, including internal conflict bet
 
 Non-political and humorous questions were popular reflecting the ethos of Reddit’s Ask Me Anything format, with the emphasis on _Anything._ Questions ranged from the choice between “hash browns or black puddings?”, “is Jaffa Cake a biscuit or cake?” to “What would you rather fight, one David Cameron sized duck, or 100 duck sized David Camerons?’. A reference to a [popular Reddit meme](https://knowyourmeme.com/memes/horse-sized-duck) often asked in AMAs.
 
-### The lives of MPs
+## The lives of MPs
 
 People showed an interest in the lives of MPs themselves as individuals. Users asked about their careers, lives and what it meant to be an MP. Common questions asked when they first realised they wanted to become involved in politics and stand for office, the transition from other career paths, and potential future career plans. Moreover they were asked what a normal working day entails, what support they received to carry out their duties, and the “difference that seperate a good parliamentarian from a bad one?”
 
