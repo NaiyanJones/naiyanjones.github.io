@@ -1,8 +1,7 @@
 ---
 title: A systematized literature review of Reddit
 published: true
-date:
-  'Mon Aug 05 2019 01:00:00 GMT+0100 (British Summer Time)': null
+date:'05-08-2019'
 categories:
   - Reddit
 tags:
