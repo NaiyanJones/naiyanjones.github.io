@@ -1,7 +1,7 @@
 ---
 title: Why do politicians seem to care about fishing so much?
 published: true
-date: {}
+date: '04-09-2019'
 categories:
   - Politics
 tags:
