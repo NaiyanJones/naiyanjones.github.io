@@ -27,7 +27,7 @@ A couple months back I conducted a sytematized literature review of research on 
 
 This includes published works in peer reviewed journals, submitted conference papers, chapters in edited collections and the occasional PhD dissertation.
 
-#### Reddit versus Twitter: how do they compare?
+# Reddit versus Twitter: how do they compare?
 
 ![](/assets/images/1__2k1lV3pk1ihbCuVxo1ZPgA.png)
 
@@ -40,7 +40,7 @@ Now let’s do a fun comparison between academic research on both platforms. Red
 *   671 research works on social networking sites ([Boyd, 2015](http://www.danah.org/researchBibs/sns.php))
 *   127 works on Twitter and political election campaigning ([Jungherr, 2016](https://www.tandfonline.com/doi/abs/10.1080/19331681.2015.1132401)).
 
-### Research output by year
+# Research output by year
 
 Reddit was founded in 2005 but it wasn’t until several years later that works started appearing in peer reviewed journals and conference papers. Minus a blip in 2012 research output has grown year on year.
 
@@ -49,7 +49,7 @@ This review stopped at works published in early May. Considering the trend I wou
 ![](/assets/images/1__W9xcAJ__a9y7CpDMgI6PQ4g.png)
 
 
-### Research by paradigm
+# Research by paradigm
 
 The majority of studies are quantitative, followed by qualitative and mixed method. Studies situated in Computer Science and Human Computer Interaction (HCI) were overwhelmingly quantitative. Mixed method studies tended to be from projects with multiple researchers who brought with them a diversity of skills to best approach the research aim. Qualitative studies were common across most disciplines. Note: this number does not add up to 211 because it excludes non-empirical studies and chapters in edited collections which were derived from empirical studies from journals.
 
@@ -57,7 +57,7 @@ The majority of studies are quantitative, followed by qualitative and mixed meth
 
 Note: This number does not add up to 211 because it excludes non-empirical studies and chapters in edited collections.
 
-### Which disciplines study Reddit?
+# Which disciplines study Reddit?
 
 The overwhelming majority of studies are from Computer Science, followed by a mix from the social sciences. The most popular being Health, Communication, and Culture and Media Studies.
 
@@ -69,7 +69,7 @@ Excluding Computer Science helps visualise the rest of the social sciences a bit
 
 As a side note, I wasn’t expecting to find a study from Music Studies when I originally conducted this review. This study was by Kovacevich and Huron ([2018](http://emusicology.org/article/view/6012)) and focused on Autonomous Sensory Meridian Response (ASMR) music and the /r/ASMR subreddit. Interesting stuff.
 
-### Literature Review Method
+# Literature Review Method
 
 This was a systematized review. It had elements of a systematic review but fell short of claiming to be as comprehensive ([Grant & Booth, 2009](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1471-1842.2009.00848.x)).
 
@@ -81,13 +81,13 @@ A spreadsheet was created including information on each research item. These inc
 
 The above information was collected by reading journal abstracts. If the information was not provided in abstracts the the article itself was searched for keywords and skim read to find the relevant information.³
 
-#### Limitations
+## Limitations
 
 If the keywords Reddit and subreddit were not included in abstracts or tags used in the databases searched they would not have appeared in this literature review.
 
 This review was also limited to one researcher. This means that if the coding categorisation of studies were incorrect there was no second researchers to correct the mistakes. This is notable for studies which are situated in disciplines and methods outside this researcher’s knowledge and skillset. A systematic review in comparison would usually include two or more researchers either categorising studies independently or in tandem to find any mistakes and correct them.⁴
 
-#### Footnotes
+# Footnotes
 
 1.  I plan to update this review do account for further research output in the full year 2019. Call it a bit of [round number bias](https://economistsview.typepad.com/economistsview/2013/10/round-number-bias.html) and being a completionist.
 2.  This resulted in 1,560,000 search hits.
