@@ -23,6 +23,8 @@ _This blogpost is the second in a two-part series which outlines the result of m
 
 ![](/assets/images/0__mJ8VPU1azTAQ2Q6d.jpg)
 
+# Introduction
+
 The current British political climate can be described as bleak.
 
 Views on our political system are at an all time low. Feelings of political pessimism, powerlessness and disengagement are growing. In this environment politicians are normally seen as out of touch liars who cannot give straight answers.
