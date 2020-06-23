@@ -1,7 +1,7 @@
 ---
 title: >-
   Research frameworks: comparing Virtual Ethnography, Netnography, & Digital
-  Sociology.
+  Sociology
 published: true
 date:
   'Thu Sep 19 2019 01:00:00 GMT+0100 (British Summer Time)': null
@@ -15,10 +15,10 @@ tags:
   - Research framework
 excerpt_separator: <!--more-->
 analytics:
-  provider: "google-gtag"
+  provider: google-gtag
   google:
-    tracking_id: "UA-168799890-2"
-    anonymize_ip: false # default
+    tracking_id: UA-168799890-2
+    anonymize_ip: false
 ---
 ![](/assets/images/1__nDwmgTKlL8RrtmP7NK9kjw.jpeg)
 
