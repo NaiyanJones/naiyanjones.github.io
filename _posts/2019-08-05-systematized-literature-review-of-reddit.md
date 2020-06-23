@@ -45,6 +45,7 @@ This review stopped at works published in early May. Considering the trend I wou
 
 ![](/assets/images/1__W9xcAJ__a9y7CpDMgI6PQ4g.png)
 
+
 ### Research by paradigm
 
 The majority of studies are quantitative, followed by qualitative and mixed method. Studies situated in Computer Science and Human Computer Interaction (HCI) were overwhelmingly quantitative. Mixed method studies tended to be from projects with multiple researchers who brought with them a diversity of skills to best approach the research aim. Qualitative studies were common across most disciplines. Note: this number does not add up to 211 because it excludes non-empirical studies and chapters in edited collections which were derived from empirical studies from journals.
