@@ -1,7 +1,7 @@
 ---
 title: Why do politicians seem to care about fishing so much?
 published: true
-date: 2019-09-04
+date: {}
 categories:
   - Politics
 tags:
@@ -10,10 +10,10 @@ tags:
   - Case study
 excerpt_separator: <!--more-->
 analytics:
-  provider: "google-gtag"
+  provider: google-gtag
   google:
-    tracking_id: "UA-168799890-2"
-    anonymize_ip: false # default
+    tracking_id: UA-168799890-2
+    anonymize_ip: false
 ---
 {% include figure image_path="/assets/images/1__XoIGNxq9JpgSXW8UurizqA.jpeg" caption="Credit: Two British fishing trawlers. Source: The Times." %}
 
@@ -38,7 +38,7 @@ Policymakers have shifted their attention to what has been termed the forgotten 
 
 In [The Future of Seaside Towns](https://publications.parliament.uk/pa/ld201719/ldselect/ldseaside/320/320.pdf) policymakers noted how the emphasis on inner-city regeneration and rural towns often overlooked the unique deprivation experienced by coastal towns. Particularly towns who had suffered the decline of tourism and recreation industries, poor travel infrastructure, a lack of jobs, and a brain drain of young people to cities with more jobs.
 
-{% include figure image_path="/assets/images/1__JaREkFY7Ohm0bgBdLzDYjw.jpeg" caption="Credit: An image of Jaywick, near Clacton. Credit: Daily Express." %}
+{% include figure image_path="/assets/images/1__JaREkFY7Ohm0bgBdLzDYjw.jpeg" caption="An image of Jaywick, near Clacton. Credit: Daily Express." %}
 
 However selling the existence of multiple problems of these coastal towns can be a tall order. Instead reducing their problems down to a simple motif of one industry has more of an impact.
 
