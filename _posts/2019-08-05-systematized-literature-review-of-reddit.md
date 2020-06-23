@@ -1,7 +1,7 @@
 ---
 title: A systematized literature review of Reddit
 published: true
-date:'05-08-2019'
+date: '05-08-2019'
 categories:
   - Reddit
 tags:
