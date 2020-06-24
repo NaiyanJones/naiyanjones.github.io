@@ -1,20 +1,19 @@
 ---
 title: A 7-step guide for effective survey recruitment on Reddit
-published: true
-date: 2019-11-14-7
+date: 2019-11-14 00:00:00 +00:00
 categories:
-  - Reddit
+- Reddit
 tags:
-  - Reddit
-  - Reddit data
-  - Social media
-  - Methodology
-excerpt_separator: <!--more-->
+- Reddit
+- Reddit data
+- Social media
+- Methodology
+excerpt_separator: "<!--more-->"
 analytics:
-  provider: "google-gtag"
+  provider: google-gtag
   google:
-    tracking_id: "UA-168799890-2"
-    anonymize_ip: false # default
+    tracking_id: UA-168799890-2
+    anonymize_ip: false
 ---
 
 ![](/assets/images/0__RGxIbUJ3xOcUCTax.jpg)

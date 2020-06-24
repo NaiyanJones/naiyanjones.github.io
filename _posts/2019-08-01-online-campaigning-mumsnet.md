@@ -1,22 +1,21 @@
 ---
 title: 'Online political campaigning and biscuits: The case of Mumsnet'
-published: true
-date:
-  'Thu Aug 01 2019 01:00:00 GMT+0100 (British Summer Time)': null
+date: 2019-08-01 01:00:00 +01:00
 categories:
-  - Politics
+- Politics
 tags:
-  - Politics
-  - Social media
-  - Mumsnet
-  - Case study
-excerpt_separator: <!--more-->
+- Politics
+- Social media
+- Mumsnet
+- Case study
+excerpt_separator: "<!--more-->"
 analytics:
-  provider: "google-gtag"
+  provider: google-gtag
   google:
-    tracking_id: "UA-168799890-2"
-    anonymize_ip: false # default
+    tracking_id: UA-168799890-2
+    anonymize_ip: false
 ---
+
 ![](/assets/images/1__ayrvPWAogVRwflmmz988rA.jpeg)
 
 Founded in 2000 by Justine Roberts, Mumsnet has become part of the British social landscape. The anonymous forum aims to make parents’ lives easier by pooling knowledge, advice and support. It offers information on pregnancy and childcare, product reviews and even runs a book club. The website tries as far as possible to let the conversation flow, and not to over-moderate. This means, of course, talk can turn political.

@@ -1,20 +1,19 @@
 ---
 title: An update on Reddit research and going forward
-published: true
-date:
-  'Mon Jun 09 2020 01:00:00 GMT+0100 (British Summer Time)': null
+date: 2020-06-09 01:00:00 +01:00
 categories:
-  - Reddit
+- Reddit
 tags:
-  - Literature review
-  - Zotero
-excerpt_separator: <!--more-->
+- Literature review
+- Zotero
+excerpt_separator: "<!--more-->"
 analytics:
   provider: google-gtag
   google:
-    tracking_id: "UA-168799890-2"
+    tracking_id: UA-168799890-2
     anonymize_ip: false
 ---
+
 Over the past several months I've paused on writing about Reddit because of personal and professional reasons. This is an update on that, next steps and overall goals on my [literature review](http://naiyanjones.com/reddit/systematized-literature-review-of-reddit/), [previous work](http://naiyanjones.com/politics/british-politicians-amas-reddit-thematic-analysis/) and potential future work.
 
 ### The personal

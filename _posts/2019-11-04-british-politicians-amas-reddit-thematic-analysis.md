@@ -1,23 +1,21 @@
 ---
-title: >-
-  What type of questions do people ask British politicians in online Q&As? A
+title: What type of questions do people ask British politicians in online Q&As? A
   thematic analysis of MP’s “Ask Me Anything” sessions on Reddit
-published: true
-date: {2019-11-04}
+date: 2019-11-04 00:00:00 +00:00
 categories:
-  - Politics
+- Politics
 tags:
-  - British politics
-  - Politicians
-  - Social media
-excerpt_separator: <!--more-->
+- British politics
+- Politicians
+- Social media
+excerpt_separator: "<!--more-->"
 analytics:
-  provider: "google-gtag"
+  provider: google-gtag
   google:
-    tracking_id: "UA-168799890-2"
-    anonymize_ip: false # default
+    tracking_id: UA-168799890-2
+    anonymize_ip: false
 toc: true
-toc_label: "Table of Contents"
+toc_label: Table of Contents
 ---
 
 _This blogpost is the first in a two-part series which outlines the result of a study on MP’s social media Q&As sessions. This first post details the themes of questions asked,_ [_the second on the extent to which MPs evaded answering questions_](https://naiyanjones.github.io/politics/british-politicians-amas-reddit-equivocative-analysis/)_. The dissertation received a Distinction from the University of Birmingham, 2019._

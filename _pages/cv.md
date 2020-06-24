@@ -1,7 +1,6 @@
 ---
-layout: posts
 title: CV
-permalink: /cv/
+permalink: "/cv/"
+layout: posts
 ---
-
 

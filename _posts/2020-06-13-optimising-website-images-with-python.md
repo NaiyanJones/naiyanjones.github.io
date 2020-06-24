@@ -1,21 +1,20 @@
 ---
-published: true
-date:
-  'Sat Jun 13 2020 01:00:00 GMT+0100 (British Summer Time)': null
+title: Optimising images for your website with Python
+date: 2020-06-13 01:00:00 +01:00
 categories:
-  - Technology
+- Technology
 tags:
-  - Website
-  - Programming
-  - Python
-excerpt_separator: <!--more-->
+- Website
+- Programming
+- Python
+excerpt_separator: "<!--more-->"
 analytics:
   provider: google-gtag
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
-title: Optimising images for your website with Python
 ---
+
 In the process of [making a new personal website](https://naiyanjones.com/personal/how-i-built-this-website/) I downloaded all my [Medium posts](https://medium.com/@naiyanjones) with  [medium-2-md](https://www.gautamdhameja.com/medium-to-markdown-converter/).
 
 After I was all done porting posts across I plugged my website into Google's [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/) to see how my website was fairing.

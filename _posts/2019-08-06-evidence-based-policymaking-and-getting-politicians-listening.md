@@ -1,20 +1,20 @@
 ---
 title: 'Evidence-based policymaking: How to actually get policymakers to listen'
-date: 2019-08-06
+date: 2019-08-06 00:00:00 +01:00
 categories:
-  - Politics
+- Politics
 tags:
-  - Policymaking
-  - Paul Cairney
-  - Book review
-excerpt_separator: <!--more-->
-published: true
+- Policymaking
+- Paul Cairney
+- Book review
+excerpt_separator: "<!--more-->"
 analytics:
-  provider: "google-gtag"
+  provider: google-gtag
   google:
-    tracking_id: "UA-168799890-2"
-    anonymize_ip: false # default
+    tracking_id: UA-168799890-2
+    anonymize_ip: false
 ---
+
 ![](/assets/images/1__Wp3aQTdHc0EtkgUQde2n9A.jpeg)
 
 Evidence-based policymaking (commonly abbreviated as EBPM) has been a concept and buzzword across the policy communities for a while now. It refers to the idea of rigorous scientific evidence being used to create rational policy solutions to solve a policy problem.

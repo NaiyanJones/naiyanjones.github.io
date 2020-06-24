@@ -1,11 +1,11 @@
 ---
-permalink: /about/
-title: "About"
+title: About
+permalink: "/about/"
 analytics:
-  provider: "google-gtag"
+  provider: google-gtag
   google:
-    tracking_id: "UA-168799890-2"
-    anonymize_ip: false # default
+    tracking_id: UA-168799890-2
+    anonymize_ip: false
 ---
 
 Hi, I'm Naiyan. Or as most people call me, Nay.

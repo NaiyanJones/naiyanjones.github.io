@@ -1,20 +1,19 @@
 ---
 title: How I built this website
-published: true
-date:
-  'Sun Jun 07 2020 01:00:00 GMT+0100 (British Summer Time)': null
+date: 2020-06-07 01:00:00 +01:00
 categories:
-  - Technology
+- Technology
 tags:
-  - Website
-  - Programming
-excerpt_separator: <!--more-->
+- Website
+- Programming
+excerpt_separator: "<!--more-->"
 analytics:
   provider: google-gtag
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
 ---
+
 I had no previous experience with making websites at all. The most I have done was use [Medium.com](https://medium.com/about) which involved typing blog posts out in an editor and then clicking publish. So building this website was a fun learning experience.
 
 To make this website I installed [Jekyll](https://jekyllrb.com/) and the theme [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) which I then hosted on [GitHub pages](http://jmcglone.com/guides/github-pages/).

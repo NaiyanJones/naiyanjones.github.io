@@ -1,25 +1,23 @@
 ---
-title: >-
-  Research frameworks: comparing Virtual Ethnography, Netnography, & Digital
-  Sociology
-published: true
-date:
-  'Thu Sep 19 2019 01:00:00 GMT+0100 (British Summer Time)': null
+title: 'Research frameworks: comparing Virtual Ethnography, Netnography, & Digital
+  Sociology'
+date: 2019-09-19 01:00:00 +01:00
 categories:
-  - Reddit
+- Reddit
 tags:
-  - Reddit
-  - Reddit data
-  - Social media
-  - Methodology
-  - Research framework
-excerpt_separator: <!--more-->
+- Reddit
+- Reddit data
+- Social media
+- Methodology
+- Research framework
+excerpt_separator: "<!--more-->"
 analytics:
   provider: google-gtag
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
 ---
+
 ![](/assets/images/1__nDwmgTKlL8RrtmP7NK9kjw.jpeg)
 
 Doing research online is paradoxically both easy and hard. The amount of readily available information which can be collected is staggering. From mundane copy & pasting and screenshotting, to more coding literate use of freely accessible application program interfaces (APIs).

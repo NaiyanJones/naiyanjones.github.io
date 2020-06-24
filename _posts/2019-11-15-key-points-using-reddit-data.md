@@ -1,22 +1,21 @@
 ---
 title: Key points when using Reddit as a source of data
-published: true
-date:
-  'Sun Nov 15 2019 01:00:00 GMT+0100 (British Summer Time)': null
+date: 2019-11-15 01:00:00 +00:00
 categories:
-  - Reddit
+- Reddit
 tags:
-  - Methodology
-  - Reddit data
-  - Social media
-  - Demographics
-excerpt_separator: <!--more-->
+- Methodology
+- Reddit data
+- Social media
+- Demographics
+excerpt_separator: "<!--more-->"
 analytics:
-  provider: "google-gtag"
+  provider: google-gtag
   google:
-    tracking_id: "UA-168799890-2"
-    anonymize_ip: false # default
+    tracking_id: UA-168799890-2
+    anonymize_ip: false
 ---
+
 ![](/assets/images/0__1IGIh__ieTi9jOZYa.jpg)
 
 A list of academic journal articles and resources you should really be citing.

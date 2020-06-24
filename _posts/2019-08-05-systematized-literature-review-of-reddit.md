@@ -1,21 +1,20 @@
 ---
 title: A systematized literature review of Reddit
-published: true
-date: '05-08-2019'
+date: 2019-08-05 00:00:00 +01:00
 categories:
-  - Reddit
+- Reddit
 tags:
-  - Reddit
-  - Social media
-  - Literature review
-excerpt_separator: <!--more-->
+- Reddit
+- Social media
+- Literature review
+excerpt_separator: "<!--more-->"
 analytics:
   provider: google-gtag
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
 toc: true
-toc_label: "Contents"
+toc_label: Contents
 ---
 
 ![](/assets/images/1__6dAXo18vmZ3KiR75TE2XwQ.png)

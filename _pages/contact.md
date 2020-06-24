@@ -1,11 +1,11 @@
 ---
-permalink: /contact/
-title: "Contact"
+title: Contact
+permalink: "/contact/"
 analytics:
-  provider: "google-gtag"
+  provider: google-gtag
   google:
-    tracking_id: "UA-168799890-2"
-    anonymize_ip: false # default
+    tracking_id: UA-168799890-2
+    anonymize_ip: false
 ---
 
 Interested in my work or looking to fill a position? Then let's chat and connect using the form below.

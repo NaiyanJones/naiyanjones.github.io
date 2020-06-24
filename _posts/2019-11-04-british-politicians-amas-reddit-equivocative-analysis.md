@@ -1,24 +1,23 @@
 ---
-title: >-
-  Politicians dodging questions? An equivocative analysis of British MPs 'Ask Me
-  Anything' sessions on Reddit
-published: true
-date: {2019-11-04}
+title: Politicians dodging questions? An equivocative analysis of British MPs 'Ask
+  Me Anything' sessions on Reddit
+date: 2019-11-04 00:00:00 +00:00
 categories:
-  - Politics
+- Politics
 tags:
-  - British politics
-  - Politicians
-  - Social media
-excerpt_separator: <!--more-->
+- British politics
+- Politicians
+- Social media
+excerpt_separator: "<!--more-->"
 analytics:
-  provider: "google-gtag"
+  provider: google-gtag
   google:
-    tracking_id: "UA-168799890-2"
-    anonymize_ip: false # default
+    tracking_id: UA-168799890-2
+    anonymize_ip: false
 toc: true
-toc_label: "Table of Contents"
+toc_label: Table of Contents
 ---
+
 _This blogpost is the second in a two-part series which outlines the result of my dissertation on MP’s online Q&As sessions on social media._ [_The first detailed the types of questions asked _](https://naiyanjones.github.io/politics/british-politicians-amas-reddit-thematic-analysis/)_, and this second one covers MP’s answers. The dissertation received a Distinction from the University of Birmingham, 2019._
 
 ![](/assets/images/0__mJ8VPU1azTAQ2Q6d.jpg)

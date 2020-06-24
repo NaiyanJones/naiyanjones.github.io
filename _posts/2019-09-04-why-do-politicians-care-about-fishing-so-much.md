@@ -1,20 +1,20 @@
 ---
 title: Why do politicians seem to care about fishing so much?
-published: true
-date: '04-09-2019'
+date: 2019-09-04 00:00:00 +01:00
 categories:
-  - Politics
+- Politics
 tags:
-  - Policymaking
-  - Fishing
-  - Case study
-excerpt_separator: <!--more-->
+- Policymaking
+- Fishing
+- Case study
+excerpt_separator: "<!--more-->"
 analytics:
   provider: google-gtag
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
 ---
+
 {% include figure image_path="/assets/images/1__XoIGNxq9JpgSXW8UurizqA.jpeg" caption="Credit: Two British fishing trawlers. Source: The Times." %}
 
 Even since the run up to the 2016 EU Referendum and ever since politicians, pundits and newspapers have been talking about the industry and the people employed in it.

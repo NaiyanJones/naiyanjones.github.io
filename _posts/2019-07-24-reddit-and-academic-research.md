@@ -1,21 +1,20 @@
 ---
 title: Reddit and academic research
-published: true
-date:
-  'Wed Jul 24 2019 01:00:00 GMT+0100 (British Summer Time)': null
+date: 2019-07-24 01:00:00 +01:00
 categories:
-  - Reddit
+- Reddit
 tags:
-  - Reddit
-  - Social media
-  - Literature review
-excerpt_separator: <!--more-->
+- Reddit
+- Social media
+- Literature review
+excerpt_separator: "<!--more-->"
 analytics:
-  provider: "google-gtag"
+  provider: google-gtag
   google:
-    tracking_id: "UA-168799890-2"
-    anonymize_ip: false # default
+    tracking_id: UA-168799890-2
+    anonymize_ip: false
 ---
+
 ![](/assets/images/1__6dAXo18vmZ3KiR75TE2XwQ.png)
 
 ### Reddit: The front page of the internet

@@ -1,12 +1,11 @@
 ---
 title: Hire me
-permalink: /hire-me/
+permalink: "/hire-me/"
 analytics:
   provider: google-gtag
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
-published: true
 ---
 
 I can bring a real qualified social research perspective towards projects. My skill set equips me to contribute towards user and market research, policy development, and social media roles.
