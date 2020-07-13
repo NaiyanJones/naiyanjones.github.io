@@ -18,9 +18,7 @@ Over the past several months I've paused on writing about Reddit because of pers
 
 ### The personal
 
-I thoroughly enjoyed my master's at Birmingham and everything I learned. But in the end, I decided due to my mental health I wouldn't be pursuing a PhD in autumn 2019.
-
-Following on from that at the start of 2020 my father had a heart attack. Luckily, I was at the house at the time and performed CPR until the ambulance came. He was hospitalised, recovered and was discharged. Since then he has slowly been improving his health for the better and I've been supporting him.
+I thoroughly enjoyed my master's at Birmingham and everything I learned. But in the end, I decided not to continue with a PhD due to mental health concerns. In addition my father suffered a heart attack at the start of 2020. Being near family and supporting him is more important to me.
 
 ### Switching to Zotero
 
@@ -30,11 +28,11 @@ In the process of winding down from my postgraduate I wanted to keep my referenc
 
 In all respects I could have stopped and not bothered continuing with this research. Why didn't I?
 
-Firstly, and honestly, I still find Reddit and studies on or involving it fascinating. [There's such a diversity of articles and papers](http://naiyanjones.com/reddit/reddit-and-academic-research/). Of disciplines. Approaches. Research interests and phenomena studied. There's definitely enough to keep me interested. Even though I haven't been updating files I still check out my Google Scholar alerts every week or so.
+Firstly, and honestly, I still find Reddit and studies on or involving it fascinating. [There's such a diversity of articles and papers](http://naiyanjones.com/reddit/reddit-and-academic-research/). Of disciplines. Approaches. Research interests and phenomena studied. There's definitely enough to keep me interested. 
 
 Secondly, I have time on my hands during lockdown and being under-employed. There's only so much time you can waste on your laptop. Time do something more productive. From leaning R and Python for future projects, to [building this webiste](http://naiyanjones.com/personal/how-i-built-this-website/), and "finishing" my Reddit search.
 
-Lastly, to be a bit brazen, I believe it's a good thing to give back to Social Science™. Over the months I've had researchers and students reach out to me. From early years researchers, tenured and professors. From undergraduate and postgraduate students. And helping someone gives me a nice warm fuzzy feeling. Call it a bit of altruism or cognitive self-interest for you economists out there.
+Lastly, to be a bit brazen, I believe it's a good thing to give back to Social Science™. Over the months I've had researchers and students reach out to me. From early years researchers, tenured and professors. From undergraduate and postgraduate students. And helping someone gives me a nice warm fuzzy feeling. Call it a bit of altruism. Or for the cyncial econonomists, a bit of self-interest for getting that feel good factor.
 
 ### Next steps and goals
 
