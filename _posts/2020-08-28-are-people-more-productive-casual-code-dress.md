@@ -1,5 +1,5 @@
 ---
-Title: Are 61% of people really more productive in casual clothing? 
+Title: Are 61 percent of people really more productive in casual clothing? 
 date: 2020-08-28
 categories:
   - Fashion
@@ -19,14 +19,11 @@ analytics:
 
 Like a lot of people in the current working from home purgatory I've been wearing casual clothes a lot. Add to that I spent an unhealthy amount of time on Reddit's /r/malefashionadvice community where discussions about dress codes pop up every so often.
 
-> According to studies, 61% of employees are more productive when the dress code is relaxed, and 80% of people who work in an environment with a dress code responded that they don’t find them useful 
->- [Hive, Jan 2020](https://hive.com/blog/office-dress-productivity/)
+> According to studies, 61% of employees are more productive when the dress code is relaxed - [Hive, 2020](https://hive.com/blog/office-dress-productivity/)
 
-> Although smart business suits have been de rigueur for decades, recent research shows that 61% of employees are more productive when the office dress code is relaxed 
->- [CEO Review, Apr 2019](https://www.ceo-review.com/2019-how-much-influence-do-uniforms-have-on-staff-productivity/)
+>  recent research shows that 61% of employees are more productive when the office dress code is relaxed -[CEO Review, 2019](https://www.ceo-review.com/2019-how-much-influence-do-uniforms-have-on-staff-productivity/)
 
-> Although smart business suits have been de rigueur for decades, recent research shows that 61% of employees are more productive when the office dress code is relaxed 
-> - [CV Library, Nov 2019](https://www.cv-library.co.uk/career-advice/work-life/clothes-that-increase-productivity/)
+> recent research shows that 61% of employees are more productive when the office dress code is relaxed - [CV Library,2019](https://www.cv-library.co.uk/career-advice/work-life/clothes-that-increase-productivity/)
 
 It's common for people to say "a study" or "studies have shown". And me being a dork with a background in research made me go digging with my Google-FU. The results were a bit surprising, but not too unsurprising really.
 
