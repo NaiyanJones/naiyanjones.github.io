@@ -3,7 +3,7 @@ Title: A curious case of research misreporting. Or why "61% of employees are mor
 published: false
 date: 2020-08-28
 categories:
-  - Technology
+  - Fashion
 tags:
   - Fashion
   - Research
