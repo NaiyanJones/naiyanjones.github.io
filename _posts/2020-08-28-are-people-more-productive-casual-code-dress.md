@@ -1,5 +1,5 @@
 ---
-Title: '61% of employees are more productive at work when the dress code is relaxed&#58; a curious case of misreporting'
+Title: Are 61% of people really more productive in casual clothing? 
 date: 2020-08-28
 categories:
   - Fashion
