@@ -1,5 +1,5 @@
 ---
-Title: Are 61 percent of people really more productive in casual clothing? 
+Title: Are people really more productive in casual clothing? 
 date: 2020-08-28
 categories:
   - Fashion
