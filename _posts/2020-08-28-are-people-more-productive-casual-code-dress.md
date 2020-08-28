@@ -23,7 +23,7 @@ Like a lot of people in the current working from home purgatory I've been wearin
 
 >  recent research shows that 61% of employees are more productive when the office dress code is relaxed -[CEO Review, 2019](https://www.ceo-review.com/2019-how-much-influence-do-uniforms-have-on-staff-productivity/)
 
-> recent research shows that 61% of employees are more productive when the office dress code is relaxed - [CV Library,2019](https://www.cv-library.co.uk/career-advice/work-life/clothes-that-increase-productivity/)
+> recent research shows that 61% of employees are more productive when the office dress code is relaxed - [CV Library, 2019](https://www.cv-library.co.uk/career-advice/work-life/clothes-that-increase-productivity/)
 
 It's common for people to say "a study" or "studies have shown". And me being a dork with a background in research made me go digging with my Google-FU. The results were a bit surprising, but not too unsurprising really.
 
