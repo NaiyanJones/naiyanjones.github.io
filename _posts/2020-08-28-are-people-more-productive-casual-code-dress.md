@@ -1,5 +1,5 @@
 ---
-Title: Are people really more productive in casual clothing? 
+Title: People keep misreporting about productivity and casual dress codes
 date: 2020-08-28
 categories:
   - Fashion
