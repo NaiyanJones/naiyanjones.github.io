@@ -1,5 +1,5 @@
 ---
-Title: A curious case of research misreporting. Or why "61% of employees are more productive at work when the dress code is relaxed" is bullshit
+Title: 61% of employees are more productive at work when the dress code is relaxed: a curious case of misreporting
 date: 2020-08-28
 categories:
   - Fashion
