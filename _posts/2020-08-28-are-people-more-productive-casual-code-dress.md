@@ -1,5 +1,5 @@
 ---
-Title: People keep misreporting about productivity and casual dress codes
+Title: 'People keep misreporting about productivity and casual dress codes'
 date: 2020-08-28
 categories:
   - Fashion
