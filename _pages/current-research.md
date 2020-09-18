@@ -1,4 +1,5 @@
 ---
+author_profile: false
 title: Current research
 permalink: "/current-research/"
 analytics:
