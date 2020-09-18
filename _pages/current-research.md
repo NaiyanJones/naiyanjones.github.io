@@ -22,6 +22,9 @@ feature_row2:
     btn_label: "Read more"
     btn_class: "btn--primary"
 ---
+
+# Current research projects
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu eros placerat, pulvinar libero at, sollicitudin erat. Cras et erat ipsum. Integer ultrices dui eget odio fermentum, id rhoncus ligula accumsan.
 
 {% include feature_row id="feature_row1" type="left" %}
