@@ -50,7 +50,7 @@ plugins:
 - jekyll-feed
 - jemoji
 - jekyll-include-cache
-logo: "/assets/images/logo40x40"
+logo: "/assets/images/logo40x40.png"
 author:
   name: Naiyan Jones
   avatar: "/assets/images/bio-photo.jpg"
