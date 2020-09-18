@@ -1,5 +1,5 @@
 ---
-page: splash
+layout: splash
 title: Current research
 permalink: "/current-research/"
 analytics:
