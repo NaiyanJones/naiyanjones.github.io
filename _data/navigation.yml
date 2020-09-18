@@ -1,6 +1,10 @@
 main:
   - title: "About"
     url: /about/
+  - title: Current research
+    url: /current-research/
+  - title: Blog
+    url: /posts/
   - title: "Hire"
     url: /hire-me/
   - title: "Contact"
