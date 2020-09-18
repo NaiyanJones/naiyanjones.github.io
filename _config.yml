@@ -50,6 +50,7 @@ plugins:
 - jekyll-feed
 - jemoji
 - jekyll-include-cache
+logo: "/assets/images/logo40x40"
 author:
   name: Naiyan Jones
   avatar: "/assets/images/bio-photo.jpg"
@@ -64,9 +65,6 @@ author:
   - label: Linkedin
     icon: fab fa-linkedin
     url: https://www.linkedin.com/in/naiyan-jones-302aa2147/
-  - label: GitHub
-    icon: fab fa-fw fa-github
-    url: https://github.com/naiyanjones
 footer:
   links:
   - label: Linkedin
@@ -75,9 +73,6 @@ footer:
   - label: Medium
     icon: fab fa-medium
     url: https://medium.com/@naiyanjones
-  - label: GitHub
-    icon: fab fa-fw fa-github
-    url: https://github.com/naiyanjones
 category_archive:
   type: liquid
   path: "/categories/"
