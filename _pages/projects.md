@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: Projects
-permalink: "/current-research/"
+permalink: "/projects/"
 analytics:
   provider: google-gtag
   google:
