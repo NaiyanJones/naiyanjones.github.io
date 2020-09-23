@@ -8,15 +8,17 @@ analytics:
     tracking_id: UA-168799890-2
     anonymize_ip: false
 feature_row1:
-  - image_path: /assets/images/reddit-logo-horizontal-250-141.png
+  - image_path: /assets/images/reddit-logo.png
     title: "Reddit literature review and ethics project"
-    excerpt: "I am part of a project on Reddit involving a systematic literature review and how researchers use Reddit data ethically. This projects and papers will be co-authored with [Nicholas Proferes
-](https://scholar.google.com/citations?user=iJwn4IkAAAAJ&hl=en), [Michael Zimmer](https://scholar.google.com/citations?user=BjpDtPYAAAAJ&hl=en),[Sarah Gilbert](https://scholar.google.ca/citations?user=mUWci5sAAAAJ&hl=en) and [Casey Fiesler](https://scholar.google.com/citations?user=D9LfKkAe7d0C&hl=en)."
+    excerpt: "Building off my previous experience I am now part of a multipart project on Reddit involving a systematic literature review and how researchers discuss ethics when using Reddit data. The literature review includes bibliographic details, study keywords, research topic, subreddits studied, whether the study was primarily about Reddit, a description of the data used, the method of data capture, type of analysis, and an overview of how ethics are discussed.
+
+    My co-authors for these projects are [Nicholas Proferes
+](https://scholar.google.com/citations?user=iJwn4IkAAAAJ&hl=en), [Michael Zimmer](https://scholar.google.com/citations?user=BjpDtPYAAAAJ&hl=en), [Sarah Gilbert](https://scholar.google.ca/citations?user=mUWci5sAAAAJ&hl=en) and [Casey Fiesler](https://scholar.google.com/citations?user=D9LfKkAe7d0C&hl=en)."
     url: "/404/"
     btn_label: "Read more"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/drum-and-brass-logo-245-147.png
+  - image_path: /assets/images/drum-and-brass-leicester.jpg
     title: "Drum and Brass podcast"
     excerpt: "Drum and Brass are a community group producing two podcasts funded by Leicester City Council and National Lottery Fund to increase the health and wellbeing of the elderly in care homes. I am researching and writing content on the positive effect of music on elderly people's health and wellbeing for the podcast and also recording outcomes and evidence for our funder's impact assessments."
     url: "/404/"
@@ -25,7 +27,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/reddit-fashion-research.png
     title: "Fashion brand sentiment and popularity on Reddit"
-    excerpt: "Using social media data from across several of Reddit's fashion communities I am investigating the most popular fashion brands over time using sentiment analysis and topic modelling."
+    excerpt: "Using social media data from across several of Reddit's fashion communities I am investigating the most popular fashion brands over time using sentiment analysis and topic modelling with Python and machine learning."
     url: "/404/"
     btn_label: "Read more"
     btn_class: "btn--primary"
