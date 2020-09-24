@@ -12,8 +12,7 @@ feature_row1:
     title: "Reddit literature review and ethics project"
     excerpt: "Building on my [previous experience](https://naiyanjones.com/reddit/systematized-literature-review-of-reddit/) I am involved in a multipart project on Reddit. Firstly a systematic literature review of Reddit and secondly a paper on the ethical use of Reddit data in research. The literature review covers bibliographic details, study keywords, research topics, subreddits studied, whether the study was primarily about Reddit, a description of the data used, the method of data capture, type of analysis, and an overview of how ethics are discussed.
 
-    My co-authors for these projects are [Nicholas Proferes
-](https://scholar.google.com/citations?user=iJwn4IkAAAAJ&hl=en), [Michael Zimmer](https://scholar.google.com/citations?user=BjpDtPYAAAAJ&hl=en), [Sarah Gilbert](https://scholar.google.ca/citations?user=mUWci5sAAAAJ&hl=en) and [Casey Fiesler](https://scholar.google.com/citations?user=D9LfKkAe7d0C&hl=en)."
+    My co-authors for these projects are [Nicholas Proferes](https://scholar.google.com/citations?user=iJwn4IkAAAAJ&hl=en), [Michael Zimmer](https://scholar.google.com/citations?user=BjpDtPYAAAAJ&hl=en), [Sarah Gilbert](https://scholar.google.ca/citations?user=mUWci5sAAAAJ&hl=en) and [Casey Fiesler](https://scholar.google.com/citations?user=D9LfKkAe7d0C&hl=en)."
     url: "/404/"
     btn_label: "Read more"
     btn_class: "btn--primary"
