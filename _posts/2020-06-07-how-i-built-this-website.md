@@ -56,12 +56,13 @@ Throughout building this website I also searched around and found many resources
 
 1. [FontAwesome](https://fontawesome.com) -  site icons
 2. [UnSplash](https://unsplash.com/) - images
-3. [Images by Nemanja Manojlovic](https://www.behance.net/nemus) - custom images
-4. [Setting a custom domain](https://www.youtube.com/watch?v=mPGi1IHQxFM) - Changing naiyan.jones@github.io to naiyanjones.com
+3. [Various images by Nemanja Manojlovic](https://www.behance.net/nemus) - custom images
+4. [UnDraw](https://undraw.co/) - landing page and 404 images
+5. [Setting a custom domain](https://www.youtube.com/watch?v=mPGi1IHQxFM) - Changing naiyan.jones@github.io to naiyanjones.com
 
 ## Helpful resources
 
 1. [CommonMark](https://commonmark.org/) - markdown reference guide
 2. [Jekyll pages](https://jekyllrb.com/docs/posts/) -  reference guides for Jekyll
-3. [Jekyll Tutorial by Mike Dane](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB) - a YouTube playlist on setting up a Jekyll websites
-4. [Organizing Jekyll Posts](https://miklb.com/blog/2016/04/26/organizing-jekyll-posts/) - reference guide for organisation
+3. [Jekyll Tutorial by Mike Dane](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB) - a really helpful YouTube playlist on setting up a Jekyll websites
+4. [Organizing Jekyll Posts](https://miklb.com/blog/2016/04/26/organizing-jekyll-posts/) - reference guide for organising posts and collections
