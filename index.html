@@ -30,6 +30,25 @@ feature_row1:
   url: "/categories/#technology"
   btn_label: Read more
   btn_class: btn--primary
+feature_row2:
+- image_path: "/assets/images/undraw_shopping_eii3.png"
+  tile: Fashion
+  excerpt: Articles on online fashion, the fashion industry and random thoughts
+  url: "/categories/"
+  btn_label: Read more
+  btn_class: btn--primary
+- image_path: "/assets/images/undraw_social_distancing_2g0u.png"
+  title: Covid-19
+  excerpt: Discussion of the Covid-19 pandemic from a policy perspective
+  url: "/categories/"
+  btn_label: Read more
+  btn_class: btn--primary
+- image_path: "/assets/images/undraw_Notebook_tlkl.png"
+  title: Personal
+  excerpt: Sharing hobbies old and new. This is where I try to show I''m not a total dork.
+  url: "/categories/"
+  btn_label: Read more
+  btn_class: btn--primary
 analytics:
   provider: google-gtag
   google:
@@ -43,4 +62,6 @@ analytics:
 
 <P ALIGN=CENTER>I use both qualitative and quantative research skills in my work, and have been learning programming and machine learning to improve my skill set and work.</P>
 
-</P>{% include feature_row1 %}</P>
+</P>{% include feature_row id="feature_row1"}</P>
+
+</P>{% include feature_row id="feature_row2"}</P>
