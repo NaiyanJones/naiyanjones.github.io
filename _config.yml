@@ -26,12 +26,8 @@ defaults:
     layout: single
     author_profile: true
 email: naiyanjones@gmail.com
-description: '#line in _config.yml. It will appear in your document head meta (for
-  #Google search results) and in your feed.xml site description." Naiyan Jones is
-  a qualified social researcher from the University of Birmingham specalising in social
-  research, government and public policy. He has written about the social media website
-  Reddit, British policits and social media policy.'
-twitter_username: username
+description:  Naiyan Jones is  a qualified social researcher from the University of Birmingham specalising in social  research, government and public policy. He has written about the social media website Reddit, British policits and social media policy.'
+twitter_username: naiyanjones
 github_username: naiyanjones
 minimal_mistakes_skin: default
 search: true
@@ -65,11 +61,20 @@ author:
   - label: Linkedin
     icon: fab fa-linkedin
     url: https://www.linkedin.com/in/naiyan-jones-302aa2147/
-footer:
+  - label: Twitter
+    icon: fab fa-twitter
+    url: https://twitter.com/NaiyanJones
+  - label: Medium
+    icon: fab fa-medium
+    url: https://medium.com/@naiyanjones
+  footer:
   links:
   - label: Linkedin
     icon: fab fa-linkedin
     url: https://www.linkedin.com/in/naiyan-jones-302aa2147/
+  - label: Twitter
+    icon: fab fa-twitter
+    url: https://twitter.com/NaiyanJones
   - label: Medium
     icon: fab fa-medium
     url: https://medium.com/@naiyanjones
