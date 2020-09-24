@@ -55,29 +55,29 @@ author:
   location: Shrewsbury, UK
   icon: fas fa-map-marker-alt
   links:
-  - label: Email
-    icon: fas fa-envelope
-    url: mailto:naiyanjones@gmail.com
-  - label: Linkedin
-    icon: fab fa-linkedin
-    url: https://www.linkedin.com/in/naiyan-jones-302aa2147/
-  - label: Twitter
-    icon: fab fa-twitter
-    url: https://twitter.com/NaiyanJones
-  - label: Medium
-    icon: fab fa-medium
-    url: https://medium.com/@naiyanjones
-  footer:
+  - label: "Email"
+    icon: "fas fa-envelope"
+    url: "mailto:naiyanjones@gmail.com"
+  - label: "LinkedIn"
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/naiyan-jones-302aa2147/"
+  - label: "Twitter"
+    icon: "fab fa-twitter"
+    url: "https://twitter.com/NaiyanJones"
+  - label: "Medium"
+    icon: "fab fa-medium"
+    url: "https://medium.com/@naiyanjones"
+footer:
   links:
-  - label: Linkedin
-    icon: fab fa-linkedin
-    url: https://www.linkedin.com/in/naiyan-jones-302aa2147/
-  - label: Twitter
-    icon: fab fa-twitter
-    url: https://twitter.com/NaiyanJones
-  - label: Medium
-    icon: fab fa-medium
-    url: https://medium.com/@naiyanjones
+  - label: "LinkedIn"
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/naiyan-jones-302aa2147/"
+  - label: "Twitter"
+    icon: "fab fa-twitter"
+    url: "https://twitter.com/NaiyanJones"
+  - label: "Medium"
+    icon: "fab fa-medium"
+    url: "https://medium.com/@naiyanjones"
 category_archive:
   type: liquid
   path: "/categories/"
