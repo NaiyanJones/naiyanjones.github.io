@@ -15,7 +15,7 @@ analytics:
 
 ![](/assets/images/1__6dAXo18vmZ3KiR75TE2XwQ.png)
 
-In August 2020 I joined a new research project with several American academics on Reddit. We are aiming for at least 3-4 papers with the first two being a systematic literature review of Reddit and a paper on data ethics.
+In August 2020 I joined a new research project with several American academics involving the social media website Reddit. We are aiming for at least 3-4 papers with the first two being a systematic literature review of Reddit and a paper on data ethics.
 
 My co-authors and collaborators for these projects are [Nicholas Proferes](https://scholar.google.com/citations?user=iJwn4IkAAAAJ&hl=en) from the University of Kentucky, [Michael Zimmer](https://scholar.google.com/citations?user=BjpDtPYAAAAJ&hl=en) from Marquette University, [Sarah Gilbert](https://scholar.google.ca/citations?user=mUWci5sAAAAJ&hl=en) from the University of Maryland and [Casey Fiesler](https://scholar.google.com/citations?user=D9LfKkAe7d0C&hl=en) from the University of Colorado Boulder. 
 
