@@ -17,7 +17,7 @@ analytics:
 
 ![](/assets/images/undraw_thinking.png)
 
-Recently another researcher contacted me after reading an old article comparing [virtual ethnography, Netnography, & digital sociology](https://naiyanjones.com/reddit/research-frameworks-ethnograhpy-netnography-sociology/) from the perspectives of a research framewors. I was asked for some clarification about Netnography and what I termed 'virtual ethnography'
+Recently another researcher contacted me after reading an old article of mine comparing [virtual ethnography, Netnography, & digital sociology](https://naiyanjones.com/reddit/research-frameworks-ethnograhpy-netnography-sociology/) from the perspectives of a research framewors. I was asked for some clarification about Netnography and what I termed 'virtual ethnography'
 
 > I have the feeling that Netnography is a more specific and detailed online ethnography, am I right? 
 
