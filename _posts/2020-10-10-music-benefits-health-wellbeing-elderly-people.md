@@ -12,9 +12,11 @@ analytics:
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
+toc: true
+toc_label: Table of Contents
 ---
 
-## Figures and statistics on the benefit of music for wellbeing
+![](/assets/images/undraw_music.png)
 
 ### What Works Centre for Wellbeing
 
