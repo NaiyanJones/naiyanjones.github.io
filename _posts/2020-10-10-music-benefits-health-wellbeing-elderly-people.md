@@ -18,13 +18,15 @@ toc_label: Table of Contents
 
 ![](/assets/images/undraw_music.png)
 
-### What Works Centre for Wellbeing
+## What Works Centre for Wellbeing
 
 The What Works Centre for Wellbeing is an independent research centre that develops and shares robust, accessible and useful evidence so that government, businesses and communities and people can improve wellbeing across the UK.
 
 They have partners across universities, government and national charities. Includes over 15 universities, the UK government and devolved administrations and charities like The Campaign to End Loneliness and The National Lottery.
 
-### Findings and statistics
+------
+
+## Main findings
 
 A recent [2016 review](https://whatworkswellbeing.org/resources/music-singing-and-wellbeing/) of 20 years' worth of research encompassing data from 1,364 people found a strong positive impact on music for wellbeing on elderly people. In particular with communal group singing.
 
@@ -41,8 +43,6 @@ Findings included:
 * Membership of a choir or musical ensemble can provide a vehicle for identity construction and revision in later life, including people with little or no previous experience of music.
 
 * Older adults are motivated to participate in musical activities to broaden their social networks and to learn.
-
-## A selection of research studies
 
 ### Music and stroke recovery
 

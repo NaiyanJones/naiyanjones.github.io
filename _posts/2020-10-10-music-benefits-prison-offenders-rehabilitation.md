@@ -24,7 +24,7 @@ The What Works Centre for Wellbeing is an independent research centre that devel
 
 They have partners across universities, government and national charities. Includes over 15 universities, the UK government and devolved administrations and charities like The Campaign to End Loneliness and The National Lottery.
 
-#### Findings and statistics
+------
 
 A recent [2016 review](https://whatworkswellbeing.org/resources/music-singing-and-wellbeing/) of 20 years' worth of research found a promising impact of music on offenders and young people. Specifically, they found that listening to relaxing music can alleviate anxiety and anger in prison populations.
 
@@ -54,19 +54,19 @@ The positive impact of playing music on the welfare, mental and emotional state 
 
 Below is a selection of research studies and literature reviews and synthesizes on the effectiveness of musical therapy on offenders
 
-###  Effective for promoting self-esteem and social functioning
+###  Self-esteem and social functioning
 
 [A meta-review](https://doi.org/10.1007/s11292-015-9250-y) of 5 studies found thar music therapy was effective in increasing offender's self-esteem and social functioning which is an important factor for offender's mental health.
 
-### Length of therapy and number of music sessions
+### Therapy length
 
 [The same review above](https://doi.org/10.1007/s11292-015-9250-y) found that studies with more than 20 music sessions had larger effects than studies with fewer than 2 sessions. This difference was statistically significant, that is the statistics were higher enough that the result could *not* be down to random chance.
 
-###  Music appears to be more effective than art
+###  More effective than art
 
 [A 2010 study](https://doi.org/10.1386/ijcm.3.1.47/1) examined the effect of group guitar music and art sculpturing on young offenders in a custodial setting. After 3 months it was found that music had increased self-esteem and their emotional score.
 
-### Music must be relevant to the background of the offenders
+### Cultural relevance
 
 [One study](https://doi.org/10.1300/J009v26n03_06) from America recognised that musical therapy with young people often fails if the activity is not perceived as relevant. They compared traditional activities with 21 young offenders and found a preference for "rap therapy" over traditional prison activities.
 
