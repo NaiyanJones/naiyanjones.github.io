@@ -14,7 +14,7 @@ analytics:
     anonymize_ip: false
 ---
 
-![](../assets/images/google-digital-marketing-certificate.PNG)
+![](/assets/images/google-digital-marketing-certificate.PNG)
 
 This summer past I decided to take advantage of Google's free course on the [Fundamentals of Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing) as a way of up skilling myself. A free certificate at the end and being backed by the Open University and The Internet Advertising Bureau, the industry body for digital advertising in the UK was very attractive.
 
