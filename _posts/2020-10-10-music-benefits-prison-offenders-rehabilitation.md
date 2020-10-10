@@ -24,8 +24,6 @@ The What Works Centre for Wellbeing is an independent research centre that devel
 
 They have partners across universities, government and national charities. Includes over 15 universities, the UK government and devolved administrations and charities like The Campaign to End Loneliness and The National Lottery.
 
-------
-
 A recent [2016 review](https://whatworkswellbeing.org/resources/music-singing-and-wellbeing/) of 20 years' worth of research found a promising impact of music on offenders and young people. Specifically, they found that listening to relaxing music can alleviate anxiety and anger in prison populations.
 
 Music and singing projects for young offenders are valued by participants and have a positive effect on self-esteem. Participatory music making, singing and particularly performing in public, can support prison inmates' perceived wellbeing.
