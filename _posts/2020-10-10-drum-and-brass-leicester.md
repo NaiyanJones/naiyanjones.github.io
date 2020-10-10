@@ -1,5 +1,5 @@
 ---
-title: 'Drum and Brass, Liecester research'
+title: 'Drum and Brass research projects'
 date: 2020-10-10
 categories:
   - Misc
