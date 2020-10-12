@@ -1,5 +1,5 @@
 ---
-title: "The difference between Netnography and digitial ethnography"
+title: "The difference between Netnography and virtual ethnography"
 date: 2020-10-11
 categories:
   - Reddit
