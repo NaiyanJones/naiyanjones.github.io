@@ -16,9 +16,9 @@ analytics:
 
 ![](/assets/images/google-digital-marketing-certificate.PNG)
 
-This summer past I decided to take advantage of Google's free course on the [Fundamentals of Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing) as a way of up skilling myself. A free certificate at the end and being backed by the Open University and The Internet Advertising Bureau, the industry body for digital advertising in the UK was very attractive.
+In summer 2020 I took advantage of Google's free course on the [Fundamentals of Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing) as a way of up skilling myself. A free certificate at the end and being backed by the Open University and The Internet Advertising Bureau, the industry body for digital advertising in the UK was very attractive.
 
-The course is meant to take 40 hours and has 26 individual modules. Each module is broken up into smaller parts accompanied by multiple videos and short quizzes at the end. At the end of each module is a test which you need to pass to carry on to the next module. Finally, after completing all module you have a final exam which you must score 80% on to pass.
+The course is meant to take 40 hours and has 26 individual modules. Each module is broken up into smaller parts accompanied by multiple videos and short quizzes at the end. At the end of each module is a test which you need to pass to carry on to the next module. Finally, after completing all module you have a final exam where you must score 80% on to pass.
 
 ## The main topics covered were:
 
