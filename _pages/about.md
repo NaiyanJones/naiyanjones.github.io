@@ -14,7 +14,7 @@ I am a social researcher with a postgraduate diploma from the University of Birm
 
 I am collaborating internationally with several American academics to co-author papers on the social media platform Reddit including a literature review, ethical data use in research and a meta-analysis. I also have a keen interest in building my skills on machine learning, particularly with natural language processing.
 
-If you're interested in more check out my [current projects](/_pages/projects) and [blog posts](/_pages/categories/) covering older projects.
+If you're interested in more check out my [current projects](/_pages/projects) and [blog posts](/categories/) covering older projects.
 
 *For businesses*: I am currently looking for opportunities. If you're looking to fill any researcher, digital communications, policy or UX design positions then check my [hire](/_pages/hire-me/) page for an outline of my skills and experience.
 
