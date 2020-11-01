@@ -30,7 +30,7 @@ feature_row3:
     url: "https://naiyanjones.com/misc/drum-and-brass-leicester/"
     btn_label: "Read more"
     btn_class: "btn--primary"
-feature_row3:
+feature_row4:
   - image_path: /assets/images/undraw_reddit-fashion.png
     title: "Fashion brand sentiment and popularity on Reddit"
     excerpt: "Using social media data from across several of Reddit's fashion communities I am investigating the most popular fashion brands over time using machine learning. I am using Python to conduct sentiment analysis and topic modelling to identify how brands are discussed and their popularity approximately over 10 years."
