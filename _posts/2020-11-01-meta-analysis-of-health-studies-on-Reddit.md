@@ -15,7 +15,7 @@ analytics:
 ---
 ![](/assets/images/undraw_health_reddit.png)
 
-Starting in October 2020 I will be researching, writing and co-authoring a meta-analysis of Reddit health studies.
+In October 2020 I started researching and collaborating on a meta-analysis of Reddit health studies.
 
 There are many health studies which have used Reddit data to investigate different topics. These have ranged from health topics like depression, experiences of patients, urology issues and experiences of neo-natal care. And most recently discourse around Covid-19.
 
