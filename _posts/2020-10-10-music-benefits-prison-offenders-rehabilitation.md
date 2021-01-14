@@ -74,7 +74,7 @@ Below is a selection of research studies and literature reviews and synthesizes 
 
 ### Identity
 
-Music can provide an opportunity to develop a positive pro-social identity away from the negative barriers identified in prison (see: section 2.1). They can provide a brief liberation from the highly structured environment in prisons.
+Music can provide an opportunity to develop a positive pro-social identity away from the negative barriers identified in prison. They can provide a brief liberation from the highly structured environment in prisons.
 
 ### Empowerment
 
