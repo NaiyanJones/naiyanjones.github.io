@@ -5,7 +5,5 @@ main:
     url: /projects/
   - title: Blog
     url: /posts/
-  - title: "Hire"
-    url: /hire-me/
   - title: "Contact"
     url: /contact/
