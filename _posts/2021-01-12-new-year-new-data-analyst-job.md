@@ -1,6 +1,6 @@
 ---
 title: "New Year: New job as a data analyst"
-date: 2020-01-12
+date: 2021-01-12
 categories:
   - Misc
 tags:
