@@ -14,12 +14,12 @@ analytics:
     anonymize_ip: false
 ---
 ![](/assets/images/undraw_social_distancing_2g0u.png)
-## Women of Wolverhampton, a local community group, asked me to help investigate the impact of the pandemic on ethnic minority disadvantaged women during the first English national lockdown during March and June
+Women of Wolverhampton, a local community group, asked me to help investigate the impact of the pandemic on ethnic minority disadvantaged women during the first English national lockdown during March and June
 
-### We found that:
-### *Many women were keeping in touch with family and friends and emphasized the importance of seeing each other’s faces in video calls
-### *But some women did not have the necessary technology and could not afford to purchase because of limited income, loss of income, or paying bills
-### *Even those who had the necessary technology did not feel confident in their digital skills
+We found that:
+* *Many women were keeping in touch with family and friends and emphasized the importance of seeing each other’s faces in video calls*
+* *But some women did not have the necessary technology and could not afford to purchase because of limited income, loss of income, or paying bills*
+* *Even those who had the necessary technology did not feel confident in their digital skills*
 
 During the first national lockdown in England Women of Wolverhampton (WOW), a grassroot community group, asked me to assist in conducting research on the impact of Covid-19 Pandemic on women in the city.
 
