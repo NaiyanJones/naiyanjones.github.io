@@ -1,5 +1,5 @@
 ---
-title: 'New year, new job as a data analyst'
+title: "New year, new job as a data analyst"
 date: 2020-01-12
 categories:
   - Misc
