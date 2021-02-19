@@ -19,4 +19,4 @@ The ONS is the UK’s largest independent producer of official statistics and it
 
 This is a great opportunity to get really stuck into research as a career and I'm looking forward to it!
 
-At the same time I will be balancing and continuing my work with the Alabama Reddit Research Group. Which because of time zones ends up being in the evenings and fitting perfectly around the ONS.
+At the same time I will be balancing and continuing my work with the Alabama Reddit Research Group. Luckily because of time zones difference I am able to fit in nearly all of my academic work in the evening after my work for the ONS.
