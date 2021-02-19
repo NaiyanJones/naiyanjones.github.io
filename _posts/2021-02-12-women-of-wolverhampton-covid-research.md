@@ -1,5 +1,5 @@
 ---
-title: "'My feelings of loneliness are terrible': The impact of Coronavirus on women in Wolverhampton"
+title: "My feelings of loneliness are terrible: The impact of Coronavirus on women in Wolverhampton"
 date: 2020-02-12
 categories:
   - Health
