@@ -24,19 +24,19 @@ feature_row2:
     btn_label: "Read more"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/drum-and-brass-leicester-red.jpg
-    title: "Drum and Brass podcast"
-    excerpt: "[Drum and Brass](http://drumandbrass.co.uk/) are a community group producing two podcasts funded by Leicester City Council and National Lottery Fund to increase the health and wellbeing of the elderly in care homes. I am researching and writing content on the positive effect of music on elderly people's health and wellbeing for the podcast and also recording outcomes and evidence for the funder's impact assessments."
-    url: "https://naiyanjones.com/misc/drum-and-brass-leicester/"
-    btn_label: "Read more"
-    btn_class: "btn--primary"
-feature_row4:
   - image_path: /assets/images/undraw_reddit-fashion.png
     title: "Fashion brand sentiment and popularity on Reddit"
     excerpt: "Using social media data from across several of Reddit's fashion communities I am investigating the most popular fashion brands over time using machine learning. I am using Python to conduct sentiment analysis and topic modelling to identify how brands are discussed and their popularity approximately over 10 years."
     url: "https://naiyanjones.com/fashion/fashion-clothing-brand-reddit-study/"
     btn_label: "Read more"
     btn_class: "btn--primary"
+    feature_row4:
+  - image_path: /assets/images/drum-and-brass-leicester-red.jpg
+    title: "Drum and Brass podcast"
+    excerpt: "[Drum and Brass](http://drumandbrass.co.uk/) are a community group producing two podcasts funded by Leicester City Council and National Lottery Fund to increase the health and wellbeing of the elderly in care homes. I am researching and writing content on the positive effect of music on elderly people's health and wellbeing for the podcast and also recording outcomes and evidence for the funder's impact assessments."
+    url: "https://naiyanjones.com/misc/drum-and-brass-leicester/"
+    btn_label: "Read more"
+    btn_class: "btn--primary"    
 ---
 
 # Current projects
@@ -49,6 +49,8 @@ My research interests mainly centre around social media platforms, online commun
 
 {% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="right" %}
+#Past projects
+
+{% include feature_row id="feature_row4" type="left" %}
 
 If any of these projects interests you then feel free to [contact me](/contact/).
