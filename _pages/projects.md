@@ -39,7 +39,7 @@ feature_row3:
     btn_class: "btn--primary"    
 ---
 
-# Current projects
+## Current projects
 
 My research interests mainly centre around social media platforms, online communities, political communication, British politics and a hobbyist approach to men's fashion. As far as social media platform research goes I have a keen interest in Reddit. Below are some of the main projects and work I am carrying out.
 
@@ -49,7 +49,7 @@ My research interests mainly centre around social media platforms, online commun
 
 {% include feature_row id="feature_row3" type="left" %}
 
-# Past projects
+## Past projects
 
 {% include feature_row id="feature_row4" type="left" %}
 
