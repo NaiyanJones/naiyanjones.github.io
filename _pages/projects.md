@@ -30,7 +30,7 @@ feature_row3:
     url: "https://naiyanjones.com/fashion/fashion-clothing-brand-reddit-study/"
     btn_label: "Read more"
     btn_class: "btn--primary"
-    feature_row4:
+feature_row4:
   - image_path: /assets/images/drum-and-brass-leicester-red.jpg
     title: "Drum and Brass podcast"
     excerpt: "[Drum and Brass](http://drumandbrass.co.uk/) are a community group producing two podcasts funded by Leicester City Council and National Lottery Fund to increase the health and wellbeing of the elderly in care homes. I am researching and writing content on the positive effect of music on elderly people's health and wellbeing for the podcast and also recording outcomes and evidence for the funder's impact assessments."
