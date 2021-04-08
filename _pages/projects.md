@@ -49,7 +49,7 @@ My research interests mainly centre around social media platforms, online commun
 
 {% include feature_row id="feature_row3" type="left" %}
 
-#Past projects
+# Past projects
 
 {% include feature_row id="feature_row4" type="left" %}
 
