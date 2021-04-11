@@ -11,6 +11,8 @@ analytics:
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
+header:
+  teaser: "/assets/images/undraw_announcement.png"
 ---
 ![](/assets/images/undraw_announcement.png)
 In January 2021 I'm happy to say I started a new job as a data analyst for the UK's Office for National Statistics (ONS).

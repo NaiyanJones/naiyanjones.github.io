@@ -12,6 +12,8 @@ analytics:
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
+header:
+  teaser: "/assets/images/undraw_social_distancing_2g0u.png"
 ---
 ![](/assets/images/undraw_social_distancing_2g0u.png)
 Women of Wolverhampton, a local community group, asked me to help investigate the impact of the pandemic on women, mainly from ethnic minority disadvantaged backgrounds during the first English national lockdown during March and June

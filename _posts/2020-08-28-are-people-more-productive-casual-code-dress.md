@@ -13,6 +13,8 @@ analytics:
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
+header:
+  teaser: "/assets/images/workplace-dress-codes.jpg"
 ---
 
 ![image-center](/assets/images/workplace-dress-codes.jpg){: .align-center}{: .align-center}{:height="9%" width="95%"}
@@ -37,9 +39,9 @@ What was actually said was this:
 
 > Reflecting on their current places of work, 8 in 10 of those with a dress code say they don’t feel it is useful at all. **Almost two thirds (61%) of those surveyed say they’d be more productive and happier if allowed to dress how the way wanted.**
 
-Notice the difference between "are more productive" versus "say they'd be more productive"? This is the important bit. 
+Notice the difference between "are more productive" versus "say they'd be more productive"? This is the important bit.
 
-Actual productivity of changing a dress code has not been measured at all. 
+Actual productivity of changing a dress code has not been measured at all.
 
 This is people self-reporting they _feel_ more productive. There a leap from what the actual study found out to how it's reported across the internet.
 

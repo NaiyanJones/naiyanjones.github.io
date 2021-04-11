@@ -13,15 +13,17 @@ analytics:
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
+header:
+  teaser: "/assets/images/undraw_thinking.png"
 ---
 
 ![](/assets/images/undraw_thinking.png)
 
 Recently another researcher contacted me after reading an old article of mine comparing [virtual ethnography, Netnography, & digital sociology](https://naiyanjones.com/reddit/research-frameworks-ethnograhpy-netnography-sociology/) from the perspectives of a research framewors. I was asked for some clarification about Netnography and what I termed 'virtual ethnography'
 
-> I have the feeling that Netnography is a more specific and detailed online ethnography, am I right? 
+> I have the feeling that Netnography is a more specific and detailed online ethnography, am I right?
 
-In a word, yes. 
+In a word, yes.
 
 [Kozinet himself](https://kozinets.net/archives/475 ) differentiates Netnography from ethnography because he says his approach is structured and carried out within a framework. He compares this to online ethnography which is a more general term for a set of different umbrella approaches. He goes on and says:
 

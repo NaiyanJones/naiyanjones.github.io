@@ -15,6 +15,8 @@ analytics:
     anonymize_ip: false
 toc: true
 toc_label: Contents
+header:
+  teaser: "/assets/images/1__6dAXo18vmZ3KiR75TE2XwQ.png"
 ---
 
 ![](/assets/images/1__6dAXo18vmZ3KiR75TE2XwQ.png)

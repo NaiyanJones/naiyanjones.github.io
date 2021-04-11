@@ -12,13 +12,15 @@ analytics:
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
+header:
+  teaser: "/assets/images/reddit-fashion-research.png"
 ---
 
 ![](/assets/images/reddit-fashion-research.png)
 
 ## Aim
 
-What brands are the most popular across Reddit? How does popularity change over time? Is there a gender divide? What brands are talked about positively and negatively? 
+What brands are the most popular across Reddit? How does popularity change over time? Is there a gender divide? What brands are talked about positively and negatively?
 
 To answer these questions I will be conducting a short project using machine learning with Reddit data involving natural language processing (NLP).
 

@@ -12,6 +12,8 @@ analytics:
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
+header:
+  teaser: "assets/images/undraw_health_reddit.png"
 ---
 ![](/assets/images/undraw_health_reddit.png)
 

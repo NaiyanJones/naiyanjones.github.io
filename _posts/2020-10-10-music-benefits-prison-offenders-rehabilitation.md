@@ -14,6 +14,8 @@ analytics:
     anonymize_ip: false
 toc: true
 toc_label: Table of Contents
+header:
+  teaser: "/assets/images/undraw_music.png"
 ---
 
 ![](/assets/images/undraw_music.png)

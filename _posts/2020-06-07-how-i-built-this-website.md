@@ -12,7 +12,10 @@ analytics:
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
+header:
+  teaser: "/assets/images/minimal-mistakes-jekyll-theme.jpg"
 ---
+![](/assets/images/minimal-mistakes-jekyll-theme.jpg)
 
 I had no previous experience with making websites at all. The most I have done was use [Medium.com](https://medium.com/about) which involved typing blog posts out in an editor and then clicking publish. So building this website was a fun learning experience.
 

@@ -13,6 +13,8 @@ analytics:
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
+header:
+  teaser: "/assets/images/1__Wp3aQTdHc0EtkgUQde2n9A.jpeg"
 ---
 
 ![](/assets/images/1__Wp3aQTdHc0EtkgUQde2n9A.jpeg)

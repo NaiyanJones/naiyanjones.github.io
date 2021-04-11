@@ -11,6 +11,8 @@ analytics:
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
+header:
+  teaser: "/assets/images/undraw_announcement.png"
 ---
 ![](/assets/images/undraw_announcement.png)
 In November 2020 last year I officially joined the Alabama Reddit Research Group (ARRG) headed by Dr Elliot Panek.

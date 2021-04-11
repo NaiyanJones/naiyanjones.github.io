@@ -18,6 +18,8 @@ analytics:
     anonymize_ip: false
 toc: true
 toc_label: Table of Contents
+header:
+  teaser: "assets/images/1__nDwmgTKlL8RrtmP7NK9kjw.jpeg"
 ---
 
 ![](/assets/images/1__nDwmgTKlL8RrtmP7NK9kjw.jpeg)

@@ -13,9 +13,11 @@ analytics:
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
+header:
+  teaser: "/assets/images/mobile_after_opti.PNG"
 ---
 
-In the process of [making a new personal website](https://naiyanjones.com/personal/how-i-built-this-website/) I downloaded all my [Medium posts](https://medium.com/@naiyanjones) with  [medium-2-md](https://www.gautamdhameja.com/medium-to-markdown-converter/).
+In the process of [making a new personal website](https://naiyanjones.com/personal/how-i-built-this-website/) I downloaded all my [Medium posts](https://medium.com/@naiyanjones) with [medium-2-md](https://www.gautamdhameja.com/medium-to-markdown-converter/).
 
 After I was all done porting posts across I plugged my website into Google's [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/) to see how my website was fairing.
 
@@ -27,7 +29,7 @@ Mobile.... not so good.
 
 ![image-center](/assets/images/mobile_before_opti.PNG){: .align-center}{: .align-center}{:height="45%" width="45%"}
 
-The culprit? Some very large image sizes. Seriosuly look at that 1.7 seconds and banner size.
+The culprit? Some very large image sizes. Seriously, look at that 1.7 seconds and banner size.
 
 ![image-center](/assets/images/Google PageSpeed Insights.PNG){: .align-center}
 

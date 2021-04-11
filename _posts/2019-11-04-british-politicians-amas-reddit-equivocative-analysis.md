@@ -16,6 +16,8 @@ analytics:
     anonymize_ip: false
 toc: true
 toc_label: Table of Contents
+header:
+  teaser: "/assets/images/0__mJ8VPU1azTAQ2Q6d.jpg"
 ---
 
 _This blogpost is the second in a two-part series which outlines the result of my dissertation on MP’s online Q&As sessions on social media._ [_The first detailed the types of questions asked _](https://naiyanjones.github.io/politics/british-politicians-amas-reddit-thematic-analysis/)_, and this second one covers MP’s answers. The dissertation received a Distinction from the University of Birmingham, 2019._

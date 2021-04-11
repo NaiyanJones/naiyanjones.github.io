@@ -12,6 +12,8 @@ analytics:
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
+header:
+  image: "/assets/images/undraw_announcement.png"
 ---
 
 Over the past several months I've paused on writing about Reddit because of personal and professional reasons. This is an update on that, next steps and overall goals on my [literature review](http://naiyanjones.com/reddit/systematized-literature-review-of-reddit/), [previous work](http://naiyanjones.com/politics/british-politicians-amas-reddit-thematic-analysis/) and potential future work.
@@ -28,7 +30,7 @@ In the process of winding down from my postgraduate I wanted to keep my referenc
 
 In all respects I could have stopped and not bothered continuing with this research. Why didn't I?
 
-Firstly, and honestly, I still find Reddit and studies on or involving it fascinating. [There's such a diversity of articles and papers](http://naiyanjones.com/reddit/reddit-and-academic-research/). Of disciplines. Approaches. Research interests and phenomena studied. There's definitely enough to keep me interested. 
+Firstly, and honestly, I still find Reddit and studies on or involving it fascinating. [There's such a diversity of articles and papers](http://naiyanjones.com/reddit/reddit-and-academic-research/). Of disciplines. Approaches. Research interests and phenomena studied. There's definitely enough to keep me interested.
 
 Secondly, I have time on my hands during lockdown and being under-employed. There's only so much time you can waste on your laptop. Time do something more productive. From leaning R and Python for future projects, to [building this webiste](http://naiyanjones.com/personal/how-i-built-this-website/), and "finishing" my Reddit search.
 

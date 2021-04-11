@@ -12,6 +12,8 @@ analytics:
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
+header:
+  teaser: "/assets/images/google-digital-marketing-certificate.PNG"
 ---
 
 ![](/assets/images/google-digital-marketing-certificate.PNG)

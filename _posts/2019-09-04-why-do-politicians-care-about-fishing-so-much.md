@@ -13,6 +13,8 @@ analytics:
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
+header:
+  teaser: "/assets/images/1__XoIGNxq9JpgSXW8UurizqA.jpeg"
 ---
 
 {% include figure image_path="/assets/images/1__XoIGNxq9JpgSXW8UurizqA.jpeg" caption="Credit: Two British fishing trawlers. Source: The Times." %}
