@@ -82,14 +82,14 @@ analytics:
 
 <P ALIGN=CENTER>Currently I am collaborating internationally with several American academics on research projects involving Reddit. And also building my data science skills, particularly with machine learning and natural language processing</P>
 
-<p>{% include feature_row type="left" %}</p>
+{% include feature_row type="left" %}
 
-<p>{% include feature_row id="feature_row2" type="right" %}</p>
+{% include feature_row id="feature_row2" type="right" %}
 
-<p>{% include feature_row id="feature_row3" type="left" %}</p>
+{% include feature_row id="feature_row3" type="left" %}
 
-<P ALIGN=CENTER> Blog posts </P>
+ALIGN=CENTER> Blog posts
 
-<p>{% include feature_row id="feature_row4" type="center" %}</p>
+{% include feature_row id="feature_row4" type="center" %}
 
-<p>{% include feature_row id="feature_row5" type="center" %}</p>
+{% include feature_row id="feature_row5" type="center" %}
