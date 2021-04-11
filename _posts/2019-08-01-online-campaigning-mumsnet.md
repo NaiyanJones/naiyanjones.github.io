@@ -15,10 +15,10 @@ analytics:
     tracking_id: UA-168799890-2
     anonymize_ip: false
     header:
-      teaser: "/assets/images/1__ayrvPWAogVRwflmmz988rA.jpeg"
+      teaser: "/assets/images/mumsnets-politics.jpeg"
 ---
 
-![](/assets/images/1__ayrvPWAogVRwflmmz988rA.jpeg)
+![](/assets/images/mumsnets-politics.jpeg)
 
 Founded in 2000 by Justine Roberts, Mumsnet has become part of the British social landscape. The anonymous forum aims to make parents’ lives easier by pooling knowledge, advice and support. It offers information on pregnancy and childcare, product reviews and even runs a book club. The website tries as far as possible to let the conversation flow, and not to over-moderate. This means, of course, talk can turn political.
 
