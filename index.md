@@ -11,69 +11,48 @@ header:
     url: "/about/"
 author_profile: true
 feature_row:
-- image_path: "/assets/images/reddit-logo-burgundy.jpg"
-  title: "Test title 1"
-  excerpt: "test words 1"
-  url: "https://naiyanjones.com/reddit/reddit-systematic-literature-review-2020/"
-  btn_label: "Read more"
-  btn_class: "btn--primary"
+  - image_path: "/assets/images/undraw_social_dashboard_k3pt.png"
+    title: "Reddit"
+    excerpt: "Academic blogging on Reddit. Articles, papers, digital methods and commentary."
+    url: "/categories/#reddit"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
+  - image_path: "/assets/images/undraw_voting_nvu7.png"
+    title: "Politics and policymaking"
+    excerpt: "British politics, policy and policy making. Occassional humour article."
+    url: "/categories/#politics"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
+  - image_path: "/assets/images/undraw_code_review_l1q9.png"
+    title: "Technology"
+    excerpt: "Covering programming, machine learning, and everything else."
+    url: "/categories/#technology"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
 feature_row2:
-- image_path: "/assets/images/undraw_health_reddit.png"
-  title: "Test title 2"
-  excerpt: "test words 2"
-  url: "https://naiyanjones.com/reddit/meta-analysis-of-health-studies-on-Reddit/"
-  btn_label: "Read more"
-  btn_class: "btn--primary"
-feature_row3:
-- image_path: "/assets/images/undraw_reddit-fashion.png"
-  title: "Fashion brand sentiment and popularity on Reddit"
-  excerpt: "Using social media data from across several of Reddit's fashion communities I am investigating the most popular fashion brands over time using machine learning. I am using Python to conduct sentiment analysis and topic modelling to identify how brands are discussed and their popularity approximately over 10 years."
-  url: "https://naiyanjones.com/fashion/fashion-clothing-brand-reddit-study/"
-  btn_label: "Read more"
-  btn_class: "btn--primary"
-feature_row4:
-- image_path: "/assets/images/undraw_social_dashboard_k3pt.png"
-  title: "Reddit"
-  excerpt: "Academic blogging on Reddit. Articles, papers, digital methods and commentary."
-  url: "/categories/#reddit"
-  btn_label: "Read more"
-  btn_class: "btn--primary"
-- image_path: "/assets/images/undraw_voting_nvu7.png"
-  title: "Politics and policymaking"
-  excerpt: "British politics, policy and policy making. Occassional humour article."
-  url: "/categories/#politics"
-  btn_label: "Read more"
-  btn_class: "btn--primary"
-- image_path: "/assets/images/undraw_code_review_l1q9.png"
-  title: "Technology"
-  excerpt: "Covering programming, machine learning, and everything else."
-  url: "/categories/#technology"
-  btn_label: "Read more"
-  btn_class: "btn--primary"
-feature_row5:
-- image_path: "/assets/images/undraw_shopping_eii3.png"
-  title: "Fashion"
-  excerpt:"Articles on online fashion, the fashion industry and random thoughts."
-  url: "/categories/#fashion"
-  btn_label: "Read more"
-  btn_class: "btn--primary"
-- image_path: "/assets/images/undraw_social_distancing_2g0u.png"
-  title: "Health"
-  excerpt: "Discussion of the Covid-19 pandemic and other health adjacent issues."
-  url: "/categories/#health"
-  btn_label: "Read more"
-  btn_class: "btn--primary"
-- image_path: "/assets/images/undraw_sorting_thoughts_6d48.png"
-  title: "Personal and Misc."
-  excerpt: "Sharing hobbies old and new. This is where I try to show I'm not a total dork."
-  url: "/categories/#misc"
-  btn_label: "Read more"
-  btn_class: "btn--primary"
+  - image_path: "/assets/images/undraw_shopping_eii3.png"
+    title: "Fashion"
+    excerpt:"Articles on online fashion, the fashion industry and random thoughts."
+    url: "/categories/#fashion"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
+  - image_path: "/assets/images/undraw_social_distancing_2g0u.png"
+    title: "Health"
+    excerpt: "Discussion of the Covid-19 pandemic and other health adjacent issues."
+    url: "/categories/#health"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
+  - image_path: "/assets/images/undraw_sorting_thoughts_6d48.png"
+    title: "Personal and Misc."
+    excerpt: "Sharing hobbies old and new. This is where I try to show I'm not a total dork."
+    url: "/categories/#misc"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
 analytics:
-  provider: google-gtag
-  google:
-    tracking_id: UA-168799890-2
-    anonymize_ip: false
+    provider: google-gtag
+    google:
+      tracking_id: UA-168799890-2
+      anonymize_ip: false
 ---
 
 <P ALIGN=CENTER>Hi, I’m Naiyan. Or as most people call me, Nay.</P>
@@ -82,14 +61,6 @@ analytics:
 
 <P ALIGN=CENTER>Currently I am collaborating internationally with several American academics on research projects involving Reddit. And also building my data science skills, particularly with machine learning and natural language processing</P>
 
-{% include feature_row type="left" %}
+{% include feature_row %}
 
-{% include feature_row id="feature_row2" type="right" %}
-
-{% include feature_row id="feature_row3" type="left" %}
-
-ALIGN=CENTER> Blog posts
-
-{% include feature_row id="feature_row4" type="center" %}
-
-{% include feature_row id="feature_row5" type="center" %}
+{% include feature_row id="feature_row2" %}
