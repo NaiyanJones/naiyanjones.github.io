@@ -17,7 +17,7 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/undraw_health_reddit.png
     title: "Reddit health meta-analysis"
-    excerpt: "There are several health studies on Reddit which have investigated topics ranging from depression, urology and experiences of neo-natal care. This study will synthesise the results and statistically analyse and combine the results from identified studies to gain further insights. This study is in collaboration with [Dr Rebecca Britt](https://rebeccakbritt.com/) from the University of Alabama who specialises in health communications."
+    excerpt: "There are several health studies on Reddit which have investigated topics ranging from depression, urology and experiences of neo-natal care. This study will synthesise, statistically analyse and combine the results from identified studies to gain further insights. This study is in collaboration with [Dr Rebecca Britt](https://rebeccakbritt.com/) from the University of Alabama who specialises in health communications."
     url: "https://naiyanjones.com/reddit/meta-analysis-of-health-studies-on-Reddit/"
     btn_label: "Read more"
     btn_class: "btn--primary"
