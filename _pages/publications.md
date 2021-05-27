@@ -6,6 +6,7 @@ analytics:
   google:
     tracking_id: UA-168799890-2
     anonymize_ip: false
+classes: wide    
 ---
 ## Peer reviewed articles
 
