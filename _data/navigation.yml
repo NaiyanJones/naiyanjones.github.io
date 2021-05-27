@@ -4,7 +4,7 @@ main:
   - title: Projects
     url: /projects/
   - titl: "Publications"
-     url: /publications/    
+    url: /publications/    
   - title: Blog
     url: /posts/
   - title: "Contact"
