@@ -11,7 +11,7 @@ classes: wide
 
 Hi, I'm Naiyan. Or as most people call me, Nay.
 
-I am an independent researcher and a data analyst at the UK Office for National Statistics (ONS). My research interests include social media platforms, online communities and political communications. I have a specific interest in the social media platform Reddit.
+I am an independent researcher and a data analyst at the UK Office for National Statistics (ONS). My research interests include social media platform and online communities. I have a specific interest in the social media platform Reddit.
 
 I have worked with charities, community groups, co-operatives and briefly in politics. Recently I graduated with a postgraduate qualification in social research from the University of Birmingham, UK.
 
