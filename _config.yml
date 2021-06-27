@@ -26,7 +26,7 @@ defaults:
     layout: single
     author_profile: true
 email: naiyanjones@gmail.com
-description:  Naiyan Jones is a qualified social researcher from the University of Birmingham specalising in social  research, government and public policy. He has written about the social media website Reddit, British policits and social media policy.'
+description:  Naiyan Jones is a social researcher who has written about the social media website Reddiit and conducted applied research to help grassroot community groups.
 twitter_username: naiyanjones
 github_username: naiyanjones
 minimal_mistakes_skin: default
@@ -50,8 +50,8 @@ logo: "/assets/images/logo40x40.png"
 author:
   name: Naiyan Jones
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "*Social researcher with experience in digital and policy.*"
-  location: Shrewsbury, UK
+  bio: "*Social researcher with experience in academic and applied research. Socia media research, online communities, and grassroot community groups.*"
+  location: Shropshire, UK
   icon: fas fa-map-marker-alt
   links:
   - label: "Email"
