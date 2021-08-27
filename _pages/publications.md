@@ -16,6 +16,6 @@ Proferes, N., **Jones, N.**, Gilbert, S., Fiesler, S., & Zimmer, M. (2021). [Stu
 
 Britt, R. K., Franco, C. L., & **Jones, N.** (2021). Health communication issues, theories, and novel methodological approaches addressed on platform-based studies: A systematic meta-analysis in the context of Reddit. Manuscript accepted for publication.
 
-Franco, C. L., Britt, R. K., **Jones, N.**, & Jannat, K. T. (2021). Towards a theoretical future: Examining the prevalence of platform-driven health communication scholarship. Manuscript submitted for publication.
+Franco, C. L., Britt, R. K., **Jones, N.**, & Jannat, K. T. (2021). Towards a theoretical future: Examining the prevalence of platform-driven health communication scholarship. Manuscript accepted for publication.
 
 Proferes, N., **Jones, N.**, Gilbert, S., Fiesler, S., & Zimmer, M. (2021). Addressing ethics in Reddit research: A systematic review. Manuscript accepted for publication.
