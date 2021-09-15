@@ -18,4 +18,4 @@ Britt, R. K., Franco, C. L., & **Jones, N.** (2021). Health communication issues
 
 Franco, C. L., Britt, R. K., **Jones, N.**, & Jannat, K. T. (2021). Towards a theoretical future: Examining the prevalence of platform-driven health communication scholarship. Manuscript accepted for publication.
 
-Gliniecka, M., Reagle, J., Proferes, N., Fiesler, C., Gilbert, S., **Jones, N.**, Zimmer, M., Xia, H., Sehat, C. M., Prabhakar, T., & Kaminski, A. (2021). [AOIR ETHICS PANEL 2: PLATFORM CHALLENGES](https://doi.org/10.5210/spir.v2021i0.12096). *AoIR Selected Papers of Internet Research*, 2021.
+Gliniecka, M., Reagle, J., Proferes, N., Fiesler, C., Gilbert, S., **Jones, N.**, Zimmer, M., Xia, H., Sehat, C. M., Prabhakar, T., & Kaminski, A. (2021). [AOIR Ethics Panel 2: Platform Challenges](https://doi.org/10.5210/spir.v2021i0.12096). *AoIR Selected Papers of Internet Research*, 2021.
