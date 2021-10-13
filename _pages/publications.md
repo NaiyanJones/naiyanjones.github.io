@@ -18,4 +18,4 @@ Britt, R. K., Franco, C. L., & **Jones, N.** (2021). Health communication issues
 
 Franco, C. L., Britt, R. K., **Jones, N.**, & Jannat, K. T. (2021). Towards a theoretical future: Examining the prevalence of platform-driven health communication scholarship. Manuscript accepted for publication.
 
-Fiesler, C., Michael, Z., Proferes, N., Gilbert, S., & **Jones, N.** (2021). [Addressing Ethics in Reddit Research: A Systematic Review](https://doi.org/10.5210/spir.v2021i0.12096). In AOIR Ethics Panel 2: Platform Challenges (pp. 10-13) *AoIR Selected Papers of Internet Research*.
+Fiesler, C., Michael, Z., Proferes, N., Gilbert, S., & **Jones, N.** (2021). [Addressing Ethics in Reddit Research: A Systematic Review](https://doi.org/10.5210/spir.v2021i0.12096). Presented at the annual conference of the Association of Internet Researchers. Available in *Selected Papers of Internet Research (SPIR)*.
