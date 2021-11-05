@@ -59,7 +59,10 @@ author:
     url: "mailto:naiyanjones@gmail.com"
   - label: ORCID
     icon: "fab fa-orcid"
-    url: https://orcid.org/0000-0002-2567-1949
+    url: "https://orcid.org/0000-0002-2567-1949"
+  - label: ResearchGate
+    icon: "fab fa-researchgate"
+    url: "https://www.researchgate.net/profile/Naiyan-Jones"
   - label: "LinkedIn"
     icon: "fab fa-linkedin"
     url: "https://www.linkedin.com/in/naiyan-jones-302aa2147/"
