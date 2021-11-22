@@ -14,9 +14,7 @@ analytics:
 header:
   teaser: "/assets/images/systematic_review_reddit.png"
 ---
-
 ![](/assets/images/systematic_review_reddit.png)
-
 Reddit. Reddit. Who are studying it, how do they do it, and what are they studying?
 
 Nicholas Proferes, myself, Sarah Gilbert, Casey Fiesler, and Michael Zimmer analyised 727 pieces of research from 2010 to 2020 to find out the above. Key highlights included:
