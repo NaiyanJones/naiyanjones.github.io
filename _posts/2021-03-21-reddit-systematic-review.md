@@ -1,5 +1,5 @@
 ---
-title: 'New publication: Studying Reddit: A systematic Overview of disciplines, appoaches, methods, and ethics'
+title: 'New publication: Studying Reddit: A systematic overview of disciplines, appoaches, methods, and ethics'
 date: 2021-03-21
 categories:
   - Reddit
