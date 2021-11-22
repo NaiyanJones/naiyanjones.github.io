@@ -15,6 +15,7 @@ analytics:
     anonymize_ip: false
 header:
   teaser: "/assets/images/1__6dAXo18vmZ3KiR75TE2XwQ.png"
+classes: wide  
 ---
 
 ![](/assets/images/1__6dAXo18vmZ3KiR75TE2XwQ.png)
