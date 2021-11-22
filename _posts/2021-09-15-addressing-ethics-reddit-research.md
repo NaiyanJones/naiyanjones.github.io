@@ -17,7 +17,7 @@ header:
 ---
 ![](/assets/images/reddit_research_ethics.PNG)
 
-In September my conference paper on how Reddit researtch discussed ethics was presented at the Association of Internet Researcher's (AoIR) annual conference. This conference was fully remote.
+In September my conference paper on how Reddit research discussed ethics was presented at the Association of Internet Researcher's (AoIR) annual conference. This conference was fully remote.
 
 It was great to attend, network and speak to people with interest on all things internet.
 
