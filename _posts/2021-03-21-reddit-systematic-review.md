@@ -12,10 +12,10 @@ analytics:
     tracking_id: UA-168799890-2
     anonymize_ip: false
 header:
-  teaser: "assets/images/systematic_review_reddit.png"
+  teaser: "/assets/images/systematic_review_reddit.png"
 ---
 
-![](assets/images/systematic_review_reddit.png)
+![](/assets/images/systematic_review_reddit.png)
 
 Reddit. Reddit. Who are studying it, how do they do it, and what are they studying?
 
