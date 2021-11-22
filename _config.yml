@@ -26,7 +26,7 @@ defaults:
     layout: single
     author_profile: true
 email: naiyanjones@gmail.com
-description:  Naiyan Jones is a social researcher who has written about the social media website Reddiit and conducted applied research to help grassroot community groups.
+description:  Naiyan Jones is a social researcher with experience in government, academia and the third sector.
 twitter_username: naiyanjones
 github_username: naiyanjones
 minimal_mistakes_skin: default
@@ -50,7 +50,7 @@ logo: "/assets/images/logo40x40.png"
 author:
   name: Naiyan Jones
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "*Social researcher with experience in academic and applied research. Government, academia and grassroots.*"
+  bio: "*Social researcher with experience in government, academia and the third sector.*"
   location: Shropshire, UK
   icon: fas fa-map-marker-alt
   links:
