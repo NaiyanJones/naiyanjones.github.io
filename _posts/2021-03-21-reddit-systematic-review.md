@@ -1,5 +1,5 @@
 ---
-title: 'New publication: Studying Reddit: A Systematic Overview of Disciplines, Approaches, Methods, and Ethics'
+title: 'New publication: Studying Reddit: A systematic Overview of disciplines, appoaches, methods, and ethics'
 date: 2021-03-21
 categories:
   - Reddit
@@ -29,4 +29,4 @@ Nicholas Proferes, myself, Sarah Gilbert, Casey Fiesler, and Michael Zimmer anal
 
 In addition we answered to what extent researchers are studying Reddit itself, or using Reddit data to study something else. The answer we came to, was both. The latter has two potential problems in that Reddit's online structure, norms and platform affordance and unrepresentative demographics may effect the generalisability of findings. Lasty, we found that around 30% of the research analyised provided incomplete or ambigious details on data collection and used inconsistent terminology when refering to posts or comements.
 
-You can read the open access aritlce [here on Social Media + Society](https://journals.sagepub.com/doi/10.1177/20563051211019004).
+You can read the open access article [here](https://journals.sagepub.com/doi/10.1177/20563051211019004).
