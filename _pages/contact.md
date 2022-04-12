@@ -8,7 +8,7 @@ analytics:
     anonymize_ip: false
 ---
 
-Interested in my work or looking to fill a position? Then let's chat and connect using the form below.
+Interested in my work? Then let's chat and connect using the form below.
 
 <form
   action="https://formspree.io/xoqkdwla"
