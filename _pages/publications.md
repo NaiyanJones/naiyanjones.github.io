@@ -10,13 +10,13 @@ classes: wide
 ---
 ## Peer reviewed articles
 
+Britt, R. K., Franco, C. L., & **Jones, N.** (2023). [Trends and challenges within Reddit and health communication research: A systematic review. Communication and the Public](https://doi.org/10.1177/20570473231209075), 0(0).
+
 Proferes, N., **Jones, N.**, Gilbert, S., Fiesler, S., & Zimmer, M. (2021). [Studying Reddit: A Systematic Overview of Disciplines, Approaches, Methods, and Ethics](https://doi.org/10.1177%2F20563051211019004). *Social Media + Society* 7(2).
 
 ## Conference papers and panels
 
 Britt, R. K., Franco, C. L., & **Jones, N.** (2021). Health communication issues, theories, and novel methodological approaches addressed on platform-based studies: A systematic meta-analysis in the context of Reddit. Presented at National Communication Association conference – Health Communication Division. Seattle, USA.
-
-Britt, R. K., Franco, C. L., & **Jones, N.** (2023). Trends and challenges within Reddit and health communication research: A systematic review. Communication and the Public, 0(0). https://doi.org/10.1177/20570473231209075
 
 Franco, C., Britt, R. K., **Jones, N**., & Jannat, K. (2021) Towards A Theoretical Future: Examining the Prevalence of Platform-Driven Health Communication Scholarship. Presented at National Communication Association conference – Health Communication Division. Seattle, USA.
 
