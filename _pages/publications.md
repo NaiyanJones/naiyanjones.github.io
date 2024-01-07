@@ -22,4 +22,4 @@ Franco, C., Britt, R. K., **Jones, N.**, & Jannat, K. (2021) Towards A Theoretic
 
 Fiesler, C., Zimmer, M., Proferes, N., Gilbert, S., & **Jones, N.** (2021). [Addressing Ethics in Reddit Research: A Systematic Review](https://doi.org/10.5210/spir.v2021i0.12096). Presented at the annual conference of the Association of Internet Researchers. Available in *Selected Papers of Internet Research (SPIR)*.
 
-Ritchart, A. A., Britt, R., K., Kanthawala, S., Jannat, K. T., & **Jones, N.** (forthcoming). Reporting during the COVID eras: Media attention and news framing through a large-scale computational analysis. In: Proceedings of the 57th Hawaii International Conference on System Sciences, Online.
+Ritchart, A. A., Britt, R., K., Kanthawala, S., Jannat, K. T., & **Jones, N.** (2024). [Reporting during the COVID eras: Media attention and news framing through a large-scale computational analysis](https://scholarspace.manoa.hawaii.edu/items/51db3efe-28e5-4249-ad76-c528570b92e3). In: Proceedings of the 57th Hawaii International Conference on System Sciences.
