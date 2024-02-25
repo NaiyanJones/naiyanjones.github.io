@@ -14,6 +14,8 @@ Britt, R. K., Franco, C. L., & **Jones, N.** (2023). [Trends and challenges with
 
 Proferes, N., **Jones, N.**, Gilbert, S., Fiesler, S., & Zimmer, M. (2021). [Studying Reddit: A Systematic Overview of Disciplines, Approaches, Methods, and Ethics](https://doi.org/10.1177%2F20563051211019004). *Social Media + Society* 7(2).
 
+Fiesler, C., Zimmer, M., Proferes, N., Gilbert, S., & **Jones, N.** (2024). [Remember the Human: A Systematic Review of Ethical Considerations in Reddit Research](https://doi.org/10.1145/3633070). Proceedings of ACM Human Computer Interaction 8(5).
+
 ## Conference papers and panels
 
 Britt, R. K., Franco, C. L., & **Jones, N.** (2021). Health communication issues, theories, and novel methodological approaches addressed on platform-based studies: A systematic meta-analysis in the context of Reddit. Presented at National Communication Association conference – Health Communication Division. Seattle, USA.
