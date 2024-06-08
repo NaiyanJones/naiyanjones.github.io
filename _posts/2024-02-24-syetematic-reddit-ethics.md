@@ -17,7 +17,7 @@ header:
 ---
 ![](/assets/images/reddit-remember-the-human.png)
 
-A new journal article on research ethics and ethical recommendations to consider when conducting research on Reddit has come out. This builds on an earlier conference paper I contributed to with North American colleagues. 
+A new journal article on research ethics and ethical recommendations to consider when conducting research on Reddit has come out. This builds on an earlier conference paper I contributed to with North American colleagues. Also, third systematic review! 
 
 *Abstract*
 
