@@ -9,13 +9,13 @@ analytics:
 classes: wide    
 ---
 
-Hi, I'm Naiyan. Or as most people call me, Nay.
+Hi, I'm Naiyan. Or as some people call me, Nay.
 
-I am an independent researcher and a data analyst at the Office for National Statistics (ONS), UK. This blog covers my academic research to date. My research interests include social media platform and online communities. I have a specific interest in the social media platform Reddit.
+I am an analyst and researcher in the UK government. I have worked on and improved some of the largest surveys carried out in government by the Office for National Statistics (ONS). If you have heard news, or read an article, about inflation or Gross Domestic Product (GDP) in the past few years, then it's likley I worked on it. 
 
-I have worked with charities, community groups, co-operatives and briefly in politics. I have a postgraduate diploma in social research from the University of Birmingham, UK.
+On the side I also have a wider interests including social media platforms and online communities. I have published internationally with several academics in North America on the social media platform Reddit.
 
-Currently I am collaborating internationally with several American academics on papers involving the social media platform Reddit. These cover health topics, literature reviews, and digital research ethics. I also have a keen interest in building my skills on machine learning, particularly with natural language processing.
+Wider afield I have worked with charities, community groups, co-operatives and briefly in politics. I have a postgraduate diploma in social research from the University of Birmingham, UK.
 
 I am a member of the [Social Research Association](https://the-sra.org.uk/), the [Association of Internet Researchers](https://aoir.org/) and the [University of Alabama Reddit Research Group](https://arrg.ua.edu/).
 
