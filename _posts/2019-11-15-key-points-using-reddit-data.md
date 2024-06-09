@@ -5,9 +5,7 @@ categories:
 - Reddit
 tags:
 - Methodology
-- Reddit data
 - Social media
-- Demographics
 excerpt_separator: "<!--more-->"
 analytics:
   provider: google-gtag
