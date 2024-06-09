@@ -39,7 +39,7 @@ feature_row4:
 
 ## Current projects
 
-My two main research interests are split between my day job in survey and statistical work, and then wider social media research. The former pays the bills, and the latter helps keep my sharp on the cutting edge of research methods. Below are some of the main projects I'm working on.
+My two main research interests are split between my day job in survey and statistical work, and then wider social media research. The former pays the bills, and the latter helps keep my sharp on the cutting edge of research methods.
 
 {% include feature_row id="feature_row1" type="left" %}
 
