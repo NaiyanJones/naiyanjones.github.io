@@ -21,5 +21,5 @@ header:
   
  So recently I've switched to using [Microsoft Visual Studio Code](https://code.visualstudio.com/) ("VSCode") to write my blog posts and formatting in Markdown. Which is a bit funny, as I sometimes to use VSCode for research and analysis at work nowadays.
 
- Expect a few updates on the website as I revamp it, and also several posts and musing about surveys, social media, and the British Civil Service.
+ Expect a few updates on the website as I revamp it, and also several posts and musing about surveys, social media, and the Civil Service.
  
