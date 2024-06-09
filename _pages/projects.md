@@ -23,9 +23,9 @@ feature_row2:
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/reflection-thinking.png
-    title: "Reflections on the civil service"
-    excerpt: "Providing some impartial thoughts on day-to-day activities or career aspiration in the civil service. For example, what are the differences analytical professions in the civil service? Why isn't there a data science profession, but there is for social researchers, in the civil service? And a few tips from moving to academia to the civil service."
-    url: "https://naiyanjones.com/categories/#civil-service"
+    title: "Reflections on the Civil Service"
+    excerpt: "Providing some impartial thoughts on day-to-day activities or career aspiration in the Civil Service. For example, what are the differences analytical professions in the Civil Service? Why isn't there a data science profession, but there is for social researchers, in the Civil Service? And a few tips from moving to academia to the Civil Service."
+    url: "https://naiyanjones.com/categories/#Civil-Service"
     btn_label: "Read more"
     btn_class: "btn--primary"
 feature_row4:
