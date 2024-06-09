@@ -15,7 +15,7 @@ analytics:
 header:
   teaser: "/assets/images/undraw_Documents.png"
 ---
-![](/assets/images/undraw_Documents.png.png)
+![](/assets/images/undraw_Documents.png)
 
 Statisticians aren't really known for giving snappy names to things. Often surveys are named to be very precise, or what it says on the tin to what a statistician would understanding. For example the [Low Carbon and Renewable Energy Economy Survey](https://www.ons.gov.uk/surveys/informationforbusinesses/businesssurveys/lowcarbonandrenewableenergyeconomysurvey) has the amazing acronym LCREES. Which is pronounced *el kree* or *el krees* like L-trees.
 
