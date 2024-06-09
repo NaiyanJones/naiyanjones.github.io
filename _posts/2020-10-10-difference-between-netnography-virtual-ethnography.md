@@ -5,7 +5,6 @@ categories:
   - Reddit
 tags:
   - Methodology
-  - Research framework
   - Social media
 excerpt_separator: <!--more-->
 analytics:
