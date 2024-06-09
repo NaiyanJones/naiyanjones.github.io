@@ -11,7 +11,7 @@ classes: wide
 
 Hi, I'm Naiyan. Or as some people call me, Nay.
 
-I am an analyst and researcher in the UK government. I have worked on and improved some of the largest surveys carried out in government by the Office for National Statistics (ONS). If you have heard news, or read an article, about inflation or Gross Domestic Product (GDP) in the past few years, then it's likley I worked on it. 
+I am an analyst and researcher in the UK government. I have worked on and improved some of the largest surveys carried out in government by the Office for National Statistics (ONS). If you have heard news, or read an article, about inflation or Gross Domestic Product (GDP) in the past few years, then it's likely I worked on it.
 
 On the side I also have a wider interests including social media platforms and online communities. I have published internationally with several academics in North America on the social media platform Reddit.
 
