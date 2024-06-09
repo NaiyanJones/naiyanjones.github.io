@@ -45,8 +45,6 @@ My two main research interests are split between my day job in survey and statis
 
 {% include feature_row id="feature_row2" type="right" %}
 
-{% include feature_row id="feature_row3" type="left" %}
-
 ## Past projects
 
 {% include feature_row id="feature_row3" type="left" %}
