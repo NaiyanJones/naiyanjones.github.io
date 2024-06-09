@@ -15,7 +15,7 @@ analytics:
 header:
   teaser: "/assets/images/undraw_Certification.png"
 ---
-![](/assets/images/undraw_Certification.png.png)
+![](/assets/images/undraw_Certification.png)
 
 Broadly speaking there's two big project management (PM) qualifications you'll come across in the Civil Service. Warning: it's a bit of an acronym word salad.
 
