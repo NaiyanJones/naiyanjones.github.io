@@ -1,6 +1,6 @@
 ---
 title: 'What project management qualifications should you get in the civil service?'
-date: 2024-06-10
+date: 2024-06-09
 categories:
   - civil service
 tags:
@@ -25,7 +25,7 @@ Then you have [PRINCE2](https://www.prince2.com/uk) (PRojects IN Controlled Envi
 
 A lot of big departments are moving away from PRINCE2 as it's a bit clunky and seen as outdated nowadays. APM qualifications tend to be cheaper and more practical. Such as the [APM Project Fundamentals Qualification](https://www.apm.org.uk/qualifications-and-training/project-management-fundamentals/)(PFQ) and the [Project Management Qualification](https://www.apm.org.uk/qualifications-and-training/project-management-qualification/) (PMQ)
 
-Key takeaway: Association of Project Management (AMP) qualifications are more practical, cheap, and quicker to do in the modern civil service.
-{: .notice--primary}
+**Key takeaway:** Association of Project Management (AMP) qualifications are more practical, cheap, and quicker to do in the modern civil service.
+{: .notice--info}
 
 This ignores standalone random qualifications in [Agile](https://www.gov.uk/service-manual/agile-delivery/agile-government-services-introduction), or whatever the newish [Government Campus](https://prospectus.governmentcampus.co.uk/02-project-delivery/) is pushing out for project delivery training and qualifications.
