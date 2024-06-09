@@ -16,6 +16,7 @@ analytics:
     anonymize_ip: false
 toc: true
 toc_label: Table of Contents
+toc_sticky: true
 header:
   teaser: "/assets/images/0__mJ8VPU1azTAQ2Q6d.jpg"
 ---
