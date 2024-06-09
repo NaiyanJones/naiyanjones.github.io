@@ -22,7 +22,7 @@ feature_row2:
     btn_label: "Read more"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/reddit-logo-burgundy.jpg
+  - image_path: /assets/images/reflection-thinking.png
     title: "Reflections on the civil service"
     excerpt: "Providing some impartial thoughts on day-to-day actiivites or career aspiration in the civil service. For example, what are the differences analytical professions in the civil service? Why isn't there a data science profession, but there is for social researchers, in the civil service? And a few tips from moving to academia to the civil service."
     url: "https://naiyanjones.com/categories/#civilservice"
