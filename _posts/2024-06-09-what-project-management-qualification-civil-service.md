@@ -1,5 +1,5 @@
 ---
-title: 'What project management qualifications should you get in the Civil service?'
+title: 'What project management qualifications should you get in the Civil Service?'
 date: 2024-06-09
 categories:
   - Civil Service
