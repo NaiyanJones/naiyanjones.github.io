@@ -10,21 +10,21 @@ analytics:
 feature_row1:
   - image_path: /assets/images/survey_project_image.png
     title: "Surveys and Official Statistics"
-    excerpt: "Having worked in the Office for National Statistics (ONS) in the production of economic national statistics and some of the largest surveys carried out in government I will be outlining some of my experience and takeaways. I will be covering some of the typical topics of survyes, general research, and also the practical operational aspects of carrying out large surveys at scale."
+    excerpt: "Having worked in the Office for National Statistics (ONS) in the production of economic national statistics and some of the largest surveys carried out in government I will be outlining some of my experience and takeaways. I will be covering some of the typical topics of surveys, general research, and also the practical operational aspects of carrying out large surveys at scale."
     url: "https://naiyanjones.com/categories/#surveys"
     btn_label: "Read more"
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/reddit-logo-burgundy.jpg
     title: "Reddit research"
-    excerpt: "Working with several North Amerrican academics from a number of fields I have published three systematic reviews on the social media platform Reddit. With [Nicholas Proferes](https://scholar.google.com/citations?user=iJwn4IkAAAAJ&hl=en), [Michael Zimmer](https://scholar.google.com/citations?user=BjpDtPYAAAAJ&hl=en), [Sarah Gilbert](https://scholar.google.ca/citations?user=mUWci5sAAAAJ&hl=en) and [Casey Fiesler](https://scholar.google.com/citations?user=D9LfKkAe7d0C&hl=en)I have published a [systemtic overview of dispclines, approaches, methods and ethics](https://journals.sagepub.com/doi/10.1177/20563051211019004) and a deeper dive on [ethical considerations in Reddit research](https://dl.acm.org/doi/10.1145/3633070). separately with [Dr Rebecca Britt](https://rebeccakbritt.com/) from the University of Alabama I have published about [trends and challenges with Reddit and health communication research](https://doi.org/10.1177/20570473231209075)."
+    excerpt: "Working with several North American academics from a number of fields I have published three systematic reviews on the social media platform Reddit. With [Nicholas Proferes](https://scholar.google.com/citations?user=iJwn4IkAAAAJ&hl=en), [Michael Zimmer](https://scholar.google.com/citations?user=BjpDtPYAAAAJ&hl=en), [Sarah Gilbert](https://scholar.google.ca/citations?user=mUWci5sAAAAJ&hl=en) and [Casey Fiesler](https://scholar.google.com/citations?user=D9LfKkAe7d0C&hl=en)I have published a [systemtic overview of disinclines, approaches, methods and ethics](https://journals.sagepub.com/doi/10.1177/20563051211019004) and a deeper dive on [ethical considerations in Reddit research](https://dl.acm.org/doi/10.1145/3633070). separately with [Dr Rebecca Britt](https://rebeccakbritt.com/) from the University of Alabama I have published about [trends and challenges with Reddit and health communication research](https://doi.org/10.1177/20570473231209075)."
     url: "https://naiyanjones.com/categories/#reddit"
     btn_label: "Read more"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/reflection-thinking.png
     title: "Reflections on the civil service"
-    excerpt: "Providing some impartial thoughts on day-to-day actiivites or career aspiration in the civil service. For example, what are the differences analytical professions in the civil service? Why isn't there a data science profession, but there is for social researchers, in the civil service? And a few tips from moving to academia to the civil service."
+    excerpt: "Providing some impartial thoughts on day-to-day activities or career aspiration in the civil service. For example, what are the differences analytical professions in the civil service? Why isn't there a data science profession, but there is for social researchers, in the civil service? And a few tips from moving to academia to the civil service."
     url: "https://naiyanjones.com/categories/#civil-service"
     btn_label: "Read more"
     btn_class: "btn--primary"
