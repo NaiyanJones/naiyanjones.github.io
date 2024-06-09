@@ -9,7 +9,7 @@ analytics:
     anonymize_ip: false
 feature_row1:
   - image_path: /assets/images/survey_project_image.png
-    title: "Surveys and Official Statistics research"
+    title: "Surveys and Official Statistics"
     excerpt: "Having worked in the Office for National Statistics (ONS) in the production of economic national statistics and some of the largest surveys carried out in government I will be outlining some of my experience and takeaways. I will be covering some of the typical topics of survyes, general research, and also the practical operational aspects of carrying out large surveys at scale."
     url: "https://naiyanjones.com/categories/#surveys"
     btn_label: "Read more"
