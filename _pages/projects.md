@@ -56,6 +56,8 @@ My two main research interests are split between my day job in survey and statis
 
 # Past projects
 
+Archive of completed or abandoned projects. 
+
 {% include feature_row id="feature_row4" type="left" %}
 
 {% include feature_row id="feature_row5" type="right" %}
