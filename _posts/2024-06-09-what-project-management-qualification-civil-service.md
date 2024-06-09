@@ -28,6 +28,6 @@ A lot of big departments are moving away from PRINCE2 as it's a bit clunky and s
 If you don't want to become a project manager as a specific job, but run projects all the time, want to get better at them, and also get a qualification along the way it makes more sense doing an APM qualification. 
 
 **Key takeaway:** Association of Project Management (AMP) qualifications are more practical, cheap, and quicker to complete in the modern Civil Service.
-{: .notice--info;font-size:20px}
+{: .notice--info}
 
 This ignores standalone random qualifications in [Agile](https://www.gov.uk/service-manual/agile-delivery/agile-government-services-introduction), or whatever the newish [Government Campus](https://prospectus.governmentcampus.co.uk/02-project-delivery/) is pushing out for project delivery training and qualifications.
