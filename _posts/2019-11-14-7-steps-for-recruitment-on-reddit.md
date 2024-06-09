@@ -5,7 +5,6 @@ categories:
 - Reddit
 tags:
 - Reddit
-- Reddit data
 - Social media
 - Methodology
 excerpt_separator: "<!--more-->"
