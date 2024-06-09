@@ -31,7 +31,7 @@ feature_row3:
 feature_row4:
   - image_path: /assets/images/drum-and-brass-leicester-red.jpg
     title: "Drum and Brass podcast"
-    excerpt: "[Drum and Brass](http://drumandbrass.co.uk/) are a community group producing two podcasts funded by Leicester City Council and National Lottery Fund to increase the health and wellbeing of the elderly in care homes. I am researching and writing content on the positive effect of music on elderly people's health and wellbeing for the podcast and also recording outcomes and evidence for the funder's impact assessments."
+    excerpt: "[Drum and Brass](http://drumandbrass.co.uk/) are a community group producing two podcasts funded by Leicester City Council and National Lottery Fund to increase the health and wellbeing of the elderly in care homes. I am researching and writing content on the positive effect of music on elderly people’s health and wellbeing for the podcast and also recording outcomes and evidence for the funder’s impact assessments."
     url: "https://naiyanjones.com/misc/drum-and-brass-leicester/"
     btn_label: "Read more"
     btn_class: "btn--primary"    
@@ -39,7 +39,7 @@ feature_row4:
 
 ## Current projects
 
-My research interests mainly centre around social media platforms, online communities, and political communications. As far as social media platform research goes I have a keen interest in Reddit. Below are some of the main projects I'm working on.
+My two main research interests are split between my day job in survey and statistical work, and then wider social media research. The former pays the bills, and the latter helps keep my sharp on the cutting edge of research methods. Below are some of the main projects I'm working on.
 
 {% include feature_row id="feature_row1" type="left" %}
 
@@ -49,6 +49,8 @@ My research interests mainly centre around social media platforms, online commun
 
 ## Past projects
 
-{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="feature_row3" type="left" %}
+
+{% include feature_row id="feature_row4" type="right" %}
 
 If any of these projects interests you then feel free to [contact me](/contact/).
