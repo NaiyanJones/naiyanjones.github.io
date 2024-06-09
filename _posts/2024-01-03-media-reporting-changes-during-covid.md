@@ -19,6 +19,6 @@ header:
 
 New year, new article off the press! 
 
-# Abstract
+## Abstract
 
 The present study examined framing that emerged in global newspaper coverage of the COVID-19 vaccine through a large-scale computational qualitative analysis of five critical time periods. The study revealed an increase in the concentration of media attention occurring as the vaccine was developed and distributed. Frames of action and consequence, as well as attribution of responsibility, pro-science, tracking and documenting, and issues relating to efficacy and safety surrounding preventative actions and public health solutions emerged.
