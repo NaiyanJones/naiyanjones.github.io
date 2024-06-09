@@ -1,6 +1,5 @@
 ---
 title: 'What project management qualifications should you get in the Civil Service?'
-canonical_url: "https://naiyanjones.com/civil-service/what-project-management-qualification-civil-service/"
 date: 2024-06-09
 categories:
   - Civil Service
