@@ -15,9 +15,9 @@ analytics:
 header:
   teaser: "/assets/images/reporting-media-changes-during-covid-19.png"
 ---
-![](/assets/images/reporting-media-changes-during-covid-19.png")
+![](/assets/images/reporting-media-changes-during-covid-19.png)
 
-New year, new article off the press! 
+New year, new article off the press!
 
 ## Abstract
 
