@@ -27,7 +27,7 @@ In advance of a longer blog post I did a quick unscientific Google search earlie
 
 In the UK, an enterprise is a business that is made up of individual sites or workplaces, known as local units. The Office for National Statistics (ONS) has data on business numbers by employment size band, which includes enterprises and local units. You can see how the ONS maps out business size in the table below.
 
-| Category | Number of employees |
+| Business size | Number of employees |
 | -------- | ------------------- |
 | Micro    | 1 to 9              |
 | Small    | 20 to 49            |
