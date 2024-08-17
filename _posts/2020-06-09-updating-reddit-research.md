@@ -15,6 +15,7 @@ analytics:
 header:
   teaser: "/assets/images/undraw_announcement.png"
 ---
+![](/assets/images/undraw_announcement.png)
 
 Over the past several months I've paused on writing about Reddit because of personal and professional reasons. This is an update on that, next steps and overall goals on my [literature review](http://naiyanjones.com/reddit/systematized-literature-review-of-reddit/), [previous work](http://naiyanjones.com/politics/british-politicians-amas-reddit-thematic-analysis/) and potential future work.
 
