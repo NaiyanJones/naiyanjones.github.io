@@ -27,13 +27,13 @@ For now here is a brief comparison of the differences between social and economi
 |Unit|Household|Business enterprise|
 |Proxy|Household or individual people|Business owners or employees|
 |Typical topics asked|Employment, inflation, and migration|Gross domestic product (GDP), inflation|
-|Primary legislation|Statistics and Registration Service Act (SRSA) of 2007|Statistics of Trade Act 1947|
+|Primary legislation|Statistics and Registration Service Act (SRSA) 2007|Statistics of Trade Act 1947|
 |Range|Living in private residential in the UK|Businesses with 5+ employees in the UK|
-|Types of units|Anyone living in a private residential household|Business, local authorities, schools, colleges and universities, charities, churches, government departments|
-|Stratified units of interest|Demographics, occupations|Business size, economic activities, geographic locations|
+|Types of units|Anyone living in a private residential household|{::nomarkdown}<ul><li>Businesses</li><li>Local authorities</li><li>Schools, colleges and universities</li><li>Charities</li><li>Churches</li><li>Government departments</li></ul>{:/}|
+|Breakdowns of interest|{::nomarkdown}<ul><li>Demographics</li><li>Occupations</li><li>Geographic locations/li></ul>{:/}|{::nomarkdown}<ul><li>Business size</li><li>Economic activities</li><li>Geographic locations/li></ul>{:/}|
 |Improved or enriched frames|Postcode Address File Plus by added Ordnance Survey data|Longitudinal Business Database by ONS using longitudinal business micro-data|
-|Classification schemes|Standard Occupational Classification (SOC)|Standard Industrial Classifications (SIC)|
+|Classification schemes|Standard Occupational Classification (SOC)|Standard Industrial Classification (SIC)|
 |Updating timings|Daily|Daily|
 |Update to public|Daily|Four times a year|
 |How is it made|Updated daily by Royal Mail staff adding, amending and removing residential addresses|Updated continuously with data from various sources such as VAT and PAYE records from HMRC, Companies House, and ONS business surveys|
-|Limitations|Excludes people not living in private residential accommodation. Can exclude or badly categorise people due to outdated SOCs|Excludes micro businesses of less than 10 employees. Can exclude or badly categorise businesses due to outdated SICs|
+|Limitations|{::nomarkdown}<ul><li>Excludes people not living in private residential accommodation</li><li>Can exclude or badly categorise people due to outdated SOCs</li></ul>{:/}|{::nomarkdown}<ul><li>Excludes micro businesses of less than 10 employees</li><li>Can exclude or badly categorise businesses due to outdated SICs</li></ul>{:/}|
