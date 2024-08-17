@@ -3,9 +3,6 @@ title: 'A quick comparison of social and economic surveys in the UK'
 date: 2024-08-17
 categories:
   - Surveys
-tags:
-  - Survey tips
-  - Response rates
 excerpt_separator: <!--more-->
 analytics:
   provider: google-gtag
