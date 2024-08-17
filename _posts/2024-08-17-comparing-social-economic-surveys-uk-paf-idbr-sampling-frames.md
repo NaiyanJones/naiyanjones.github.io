@@ -22,8 +22,8 @@ For now here is a brief comparison of the differences between social and economi
 
 |**Topic**|**Social**|**Economic**|
 |:----|:----|:----|
+|Sampling frame|[Postcode Address File](https://www.poweredbypaf.com/)|[Inter-departmental Business Register](https://www.ons.gov.uk/aboutus/whatwedo/paidservices/interdepartmentalbusinessregisteridbr)|
 |Maintainer|Royal Mail|Office for National Statistics|
-|Sampling frame|Postcode Address File|Inter-departmental Business Register|
 |Unit|Household|Business enterprise|
 |Proxy|Household or individual people|Business owners or employees|
 |Typical topics asked|Employment, inflation, and migration|Gross domestic product (GDP), inflation|
