@@ -15,7 +15,7 @@ analytics:
 header:
   teaser: "/assets/images/health-comms-systematic-review.png"
 ---
-![](/assets/images/health-comms-systematic-review.png")
+![](/assets/images/health-comms-systematic-review.png)
 
 Working with colleagues at the University of Alabama, here's a systematic review article which covers a niche look at Reddit, but from the perspective of the academic discipline of health communications. Second systematic review to date!
 
