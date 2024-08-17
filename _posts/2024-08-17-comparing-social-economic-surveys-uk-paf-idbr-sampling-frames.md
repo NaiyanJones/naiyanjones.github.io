@@ -13,10 +13,10 @@ analytics:
     tracking_id: UA-168799890-2
     anonymize_ip: false
 header:
-  teaser: "assets/images/1__nDwmgTKlL8RrtmP7NK9kjw.jpeg"
+  teaser: "/assets/images/undraw_thinking.png"
 ---
 
-![](/assets/images/1__nDwmgTKlL8RrtmP7NK9kjw.jpeg)
+![](/assets/images/undraw_thinking.png)
 
 
 Having worked on both social and economic surveys in the UK I’ve been musing about the differences between the two for a while now. I am to write some more in-depth posts with some anecdotes in the future.
