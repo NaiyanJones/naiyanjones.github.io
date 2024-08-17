@@ -29,7 +29,7 @@ For now here is a brief comparison of the differences between social and economi
 |Typical topics asked|Employment, inflation, and migration|Gross domestic product (GDP), inflation|
 |Primary legislation|Statistics and Registration Service Act (SRSA) 2007|Statistics of Trade Act 1947|
 |Range|Living in private residential in the UK|Businesses with 5+ employees in the UK|
-|Types of units|{::nomarkdown}<ul><li>Anyone living in a private residential household</li></ul>|{::nomarkdown}<ul><li>Businesses</li><li>Local authorities</li><li>Schools, colleges and universities</li><li>Charities</li><li>Churches</li><li>Government departments</li></ul>{:/}|
+|Types of units|{::nomarkdown}<ul><li>Anyone living in a private residential household</li></ul>{:/}|{::nomarkdown}<ul><li>Businesses</li><li>Local authorities</li><li>Schools, colleges and universities</li><li>Charities</li><li>Churches</li><li>Government departments</li></ul>{:/}|
 |Breakdowns of interest|{::nomarkdown}<ul><li>Demographics</li><li>Occupations</li><li>Geographic locations</li></ul>{:/}|{::nomarkdown}<ul><li>Business size</li><li>Economic activities</li><li>Geographic locations</li></ul>{:/}|
 |Improved or enriched frames|Postcode Address File Plus by added Ordnance Survey data|Longitudinal Business Database by ONS using longitudinal business micro-data|
 |Classification schemes|Standard Occupational Classification (SOC)|Standard Industrial Classification (SIC)|
