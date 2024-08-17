@@ -14,7 +14,7 @@ analytics:
     anonymize_ip: false
 header:
   teaser: "/assets/images/undraw_Getting_coffee_re_f2do.png"
-  ---
+---
 
 ![](/assets/images/undraw_Getting_coffee_re_f2do.png)
 
