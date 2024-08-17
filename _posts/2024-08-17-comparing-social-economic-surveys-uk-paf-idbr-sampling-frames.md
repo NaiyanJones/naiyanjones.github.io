@@ -23,7 +23,7 @@ Having worked on both social and economic surveys in the UK I’ve been musing a
 
 For now here is a brief comparison of the differences between social and economic surveys in the UK.
 
-|Topic|Social|Economic|
+|**Topic**|**Social**|**Economic**|
 |:----|:----|:----|
 |Maintainer|Royal Mail|Office for National Statistics|
 |Sampling frame|Postcode Address File|Inter-departmental Business Register|
