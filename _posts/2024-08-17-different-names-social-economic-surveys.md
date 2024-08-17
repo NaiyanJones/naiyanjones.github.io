@@ -27,14 +27,13 @@ In advance of a longer blog post I did a quick unscientific Google search earlie
 
 In the UK, an enterprise is a business that is made up of individual sites or workplaces, known as local units. The Office for National Statistics (ONS) has data on business numbers by employment size band, which includes enterprises and local units. You can see how the ONS maps out business size in the table below.
 
-<div align="center">
 | Business size | Number of employees |
 | -------- | ------------------- |
 | Micro    | 1 to 9              |
 | Small    | 20 to 49            |
 | Medium   | 50 to 249           |
 | Large    | 250 plus            |
-</div>
+
 
 For household and social surveys, it is household which is more popular. Mainly as in most countries there is no sampling frame of individuals living in a country. Instead survey managers make do by using [sampling frames of households](https://naiyanjones.com/surveys/comparing-social-economic-surveys-uk-paf-idbr-sampling-frames/) as a proxy.
 
