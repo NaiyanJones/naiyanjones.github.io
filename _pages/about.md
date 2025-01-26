@@ -17,6 +17,6 @@ On the side I also have a wider interests including social media platforms and o
 
 Wider afield I have worked with charities, community groups, co-operatives and briefly in politics. I have a postgraduate diploma in social research from the University of Birmingham, UK.
 
-I am a member of the [Social Research Association](https://the-sra.org.uk/), the [Association of Internet Researchers](https://aoir.org/) and the [University of Alabama Reddit Research Group](https://arrg.ua.edu/).
+I am a member of the [Social Research Association](https://the-sra.org.uk/), the [Association of Internet Researchers](https://aoir.org/) and a former member of the [University of Alabama Reddit Research Group](https://arrg.ua.edu/).
 
 If you're interested in more check out my [current projects](/projects) and [blog posts](/categories/) covering older topics.
