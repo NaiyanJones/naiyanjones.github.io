@@ -8,7 +8,7 @@ analytics:
     anonymize_ip: false
 ---
 
-Interested in my work? Then let's chat and connect using the form below.
+For professional enquiries relating to my work, or to discuss a particularly relevant opportunity, please use the form below.
 
 <form
   action="https://formspree.io/xoqkdwla"
