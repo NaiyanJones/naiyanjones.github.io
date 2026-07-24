@@ -1,5 +1,5 @@
 ---
-title: "What is the imapact of music for offender rehabilitation and wellbeing?"
+title: "What is the impact of music for offender rehabilitation and wellbeing?"
 date: 2020-10-11
 categories:
   - Health
