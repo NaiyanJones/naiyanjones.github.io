@@ -1,5 +1,5 @@
 ---
-title: 'Different names for social and economics surveys'
+title: 'Different names for social and economic surveys'
 date: 2024-08-17
 categories:
   - Surveys
