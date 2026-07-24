@@ -1,5 +1,5 @@
 ---
-title: 'Some operational tips for running large survey: dates and return by dates'
+title: 'Some operational tips for running large surveys: dates and return by dates'
 date: 2024-08-17
 categories:
   - Surveys
