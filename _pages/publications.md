@@ -8,9 +8,9 @@ analytics:
     anonymize_ip: false
 classes: wide    
 ---
-## Peer-reviewed articles
-
 My academic research covers social media, online communities, health communication and research ethics, using methods including systematic reviews and large-scale computational analysis.
+
+## Peer-reviewed articles
 
 Britt, R. K., Franco, C. L., & **Jones, N.** (2023). [Trends and challenges within Reddit and health communication research: A systematic review](https://doi.org/10.1177/20570473231209075). *Communication and the Public*, 8(4).
 
