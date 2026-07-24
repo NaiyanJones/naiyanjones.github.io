@@ -66,23 +66,10 @@ author:
   - label: "LinkedIn"
     icon: "fab fa-linkedin"
     url: "https://www.linkedin.com/in/naiyan-jones-302aa2147/"
-  - label: "Twitter"
-    icon: "fab fa-twitter"
-    url: "https://twitter.com/NaiyanJones"
-  - label: "Medium"
-    icon: "fab fa-medium"
-    url: "https://medium.com/@naiyanjones"
-footer:
   links:
   - label: "LinkedIn"
     icon: "fab fa-linkedin"
     url: "https://www.linkedin.com/in/naiyan-jones-302aa2147/"
-  - label: "Twitter"
-    icon: "fab fa-twitter"
-    url: "https://twitter.com/NaiyanJones"
-  - label: "Medium"
-    icon: "fab fa-medium"
-    url: "https://medium.com/@naiyanjones"
 category_archive:
   type: liquid
   path: "/categories/"
