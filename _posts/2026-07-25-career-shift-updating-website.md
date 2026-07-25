@@ -12,9 +12,9 @@ analytics:
 header:
   teaser: "/assets/images/key-insights-report.png"
 ---
-It has been about a year since I properly updated this website.
+It has been about a year and a bit since I properly updated this website.
 
-A lot has changed professionally. I have moved from government research and official statistics into customer research at the Royal Institution of Chartered Surveyors, more commonly known as RICS. It is not a career change; I would call it more of a shift.
+A lot has changed since then! I have moved from government research and official statistics into customer research at the Royal Institution of Chartered Surveyors, more commonly known as RICS. It is not a career change; I would call it more of a shift.
 
 Before joining RICS, I worked on the Gambling Survey for Great Britain at the Gambling Commission. Prior to that, I spent several years at the Office for National Statistics, working on major economic surveys and operations.
 
