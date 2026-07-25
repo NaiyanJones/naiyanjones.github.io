@@ -20,7 +20,7 @@ Proferes, N., **Jones, N.**, Gilbert, S., Fiesler, S., & Zimmer, M. (2021). [Stu
 
 ## Conference papers and panels
 
-Ritchart, A. A., Britt, R., K., Kanthawala, S., Jannat, K. T., & **Jones, N.** (2024). [Reporting during the COVID eras: Media attention and news framing through a large-scale computational analysis](https://scholarspace.manoa.hawaii.edu/items/51db3efe-28e5-4249-ad76-c528570b92e3). In: Proceedings of the 57th Hawaii International Conference on System Sciences.
+Ritchart, A. A., Britt, R. K., Kanthawala.., Jannat, K. T., & **Jones, N.** (2024). [Reporting during the COVID eras: Media attention and news framing through a large-scale computational analysis](https://scholarspace.manoa.hawaii.edu/items/51db3efe-28e5-4249-ad76-c528570b92e3). In: Proceedings of the 57th Hawaii International Conference on System Sciences.
 
 Britt, R. K., Franco, C. L., & **Jones, N.** (2021). Health communication issues, theories, and novel methodological approaches addressed on platform-based studies: A systematic meta-analysis in the context of Reddit. Presented at National Communication Association conference – Health Communication Division. Seattle, USA.
 
