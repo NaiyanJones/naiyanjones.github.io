@@ -21,7 +21,7 @@ header:
 
 ![](/assets/images/1__6dAXo18vmZ3KiR75TE2XwQ.png)
 
-A couple months back I conducted a sytematized literature review of research on Reddit.
+A couple months back I conducted a systematized literature review of research on Reddit.
 
 **The results? I identified 211 academic works on Reddit between 2011 and May 2019**
 
