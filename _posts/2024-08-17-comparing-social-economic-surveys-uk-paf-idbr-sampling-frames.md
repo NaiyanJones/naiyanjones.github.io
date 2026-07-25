@@ -16,7 +16,7 @@ header:
 ![](/assets/images/undraw_thinking.png)
 
 
-Having worked on both social and economic surveys in the UK I’ve been musing about the differences between the two for a while now. I am to write some more in-depth posts with some anecdotes in the future.
+Having worked on both social and economic surveys in the UK I’ve been musing about the differences between the two for a while now. I aim to write some more in-depth posts with some anecdotes in the future.
 
 For now here is a brief comparison of the differences between social and economic surveys in the UK.
 
