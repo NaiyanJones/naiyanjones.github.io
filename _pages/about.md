@@ -23,4 +23,4 @@ My academic interests include social media, online communities, health communica
 
 Wider afield, I have supported charities, community groups, co-operatives and mentoring schemes, and have also briefly worked in politics. I hold a postgraduate diploma in social research from the University of Birmingham.
 
-I am a member of the [Social Research Association](https://the-sra.org.uk/), the [Association of Internet Researchers](https://aoir.org/) and a former member of the [University of Alabama Reddit Research Group](https://arrg.ua.edu/).
+I am a member of the [Social Research Association](https://the-sra.org.uk/), the [Association of Internet Researchers](https://aoir.org/) and a member of the [University of Alabama Reddit Research Group](https://arrg.ua.edu/).
