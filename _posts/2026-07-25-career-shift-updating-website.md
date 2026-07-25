@@ -22,4 +22,4 @@ Although I have moved into a different sector, much of the work stays the same: 
 
 I have continued to publish and collaborate academically, although I have largely stepped back from social media research. More recently, I was invited to join a working group for the Nature Medicine Commission on Quality Health Information for All, contributing my experience in mixed-methods research and large-scale surveys.
 
-I have now updated my website to better reflect these change, hopefully with more short articles from all the fun I've been having at RICS!
+I have now updated my website to better reflect these changes, hopefully with more short articles from all the fun I've been having at RICS!
