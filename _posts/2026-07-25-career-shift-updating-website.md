@@ -1,6 +1,6 @@
 ---
 title: 'A career shift and an update to my website'
-date: 2026-07-26
+date: 2026-07-25
 categories:
   - RICS
 excerpt_separator: <!--more-->
